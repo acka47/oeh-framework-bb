@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/6cb2b6d7-c7ee-4fb7-acf4-1bf02c99d045",
+  "type": "Service",
+  "name": "in einer zunehmenden Vielfalt lebensweltbezogener Situationen die kulturelle Prägung von Sprachhandeln erkennen, reflektieren und beim eigenen Sprachgebrauch immer selbstständiger berücksichtigen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f36636232623664372d633765652d346662372d616366342d316266303263393964303435",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F6cb2b6d7-c7ee-4fb7-acf4-1bf02c99d045",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F6cb2b6d7-c7ee-4fb7-acf4-1bf02c99d045",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/6cb2b6d7-c7ee-4fb7-acf4-1bf02c99d045#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/6cb2b6d7-c7ee-4fb7-acf4-1bf02c99d045",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

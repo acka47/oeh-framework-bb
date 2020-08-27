@@ -1,0 +1,131 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/2b6d3377-412d-41bb-a6d0-63c1bb485584",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F2b6d3377-412d-41bb-a6d0-63c1bb485584",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F2b6d3377-412d-41bb-a6d0-63c1bb485584",
+  "prefLabel": {
+    "de": "Sucht, Drogen und Doping"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2b9f6ade-250c-48af-bf1b-4d2f12f831b8",
+      "prefLabel": {
+        "de": "Folgen der Sucht"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7b31353d-dd1e-4175-a49e-911b560ae8bb",
+      "prefLabel": {
+        "de": "Entstehung von Sucht"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a6222866-523f-415c-bb20-71f360efda90",
+      "prefLabel": {
+        "de": "Wege aus der Sucht"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ac946cb0-8ac6-41dc-a499-f08eeb3e8fcc",
+      "prefLabel": {
+        "de": "Geschichte von Suchtmitteln"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ead1d947-0395-4c9e-8afa-f96b43469603",
+      "prefLabel": {
+        "de": "Suchtformen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f5999b6f-5a64-4d28-9f01-e557543c5cc1",
+      "prefLabel": {
+        "de": "Doping"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ad80f946-be27-4ac3-bd84-f83bc41884bd",
+    "prefLabel": {
+      "de": "Naturwissenschaften 7 – 10"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

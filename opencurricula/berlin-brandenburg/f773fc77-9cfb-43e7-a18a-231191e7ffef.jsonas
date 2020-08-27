@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f773fc77-9cfb-43e7-a18a-231191e7ffef",
+  "type": "Service",
+  "name": "ein hinreichend breites Spektrum sprachlicher Mittel zunehmend sicher anwenden und sich so zu den meisten Alltagsthemen und zu Themen, die mit eigenen Interessen oder mit vorbereiteten Sachgebieten in Zusammenhang stehen, zunehmend differenziert äußern und die wichtigsten Aspekte eines Gedankens oder Problems erklären sowie eigene Überlegungen ausdrücken und Stellung beziehen>[orientiert an B1+/GeR]>",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f66373733666337372d396366622d343365372d613138612d323331313931653766666566",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff773fc77-9cfb-43e7-a18a-231191e7ffef",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff773fc77-9cfb-43e7-a18a-231191e7ffef",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f773fc77-9cfb-43e7-a18a-231191e7ffef#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/f773fc77-9cfb-43e7-a18a-231191e7ffef",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

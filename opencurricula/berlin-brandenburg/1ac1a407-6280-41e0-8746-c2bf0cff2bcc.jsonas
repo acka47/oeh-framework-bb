@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/1ac1a407-6280-41e0-8746-c2bf0cff2bcc",
+  "type": "Service",
+  "name": "aus einem Repertoire von Hörtechniken und Strategien zur Bedeutungserschließung selbstständig die passenden auswählen und anwenden",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f31616331613430372d363238302d343165302d383734362d633262663063666632626363",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F1ac1a407-6280-41e0-8746-c2bf0cff2bcc",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F1ac1a407-6280-41e0-8746-c2bf0cff2bcc",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/1ac1a407-6280-41e0-8746-c2bf0cff2bcc#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/1ac1a407-6280-41e0-8746-c2bf0cff2bcc",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

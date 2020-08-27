@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/6e6494d3-31e1-4cc9-bce2-04d763105bc0",
+  "type": "Service",
+  "name": "zunehmend selbstständig Hypothesen zum Textinhalt bilden sowie einfache Hörtechniken und Strategien anwenden",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f36653634393464332d333165312d346363392d626365322d303464373633313035626330",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F6e6494d3-31e1-4cc9-bce2-04d763105bc0",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F6e6494d3-31e1-4cc9-bce2-04d763105bc0",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/6e6494d3-31e1-4cc9-bce2-04d763105bc0#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/6e6494d3-31e1-4cc9-bce2-04d763105bc0",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

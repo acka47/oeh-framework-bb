@@ -1,0 +1,107 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/873f0d6b-824c-4969-8fd2-9c8f03dfa4c9",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F873f0d6b-824c-4969-8fd2-9c8f03dfa4c9",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F873f0d6b-824c-4969-8fd2-9c8f03dfa4c9",
+  "prefLabel": {
+    "de": "CD"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/969d41f7-0018-47bc-88db-87bc415ef158",
+      "prefLabel": {
+        "de": "vorgegebene Medien zur Bewältigung eines Arbeitsauftrags nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9cf5617a-8beb-422d-a7e5-e782046f58e2",
+      "prefLabel": {
+        "de": "Kommunikationsmöglichkeiten aus ihrer Lebenswelt benennen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/3762b1f2-2ffa-4ef0-99f6-9afabe354131",
+    "prefLabel": {
+      "de": "Arbeiten und Kommunizieren mit Medien"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

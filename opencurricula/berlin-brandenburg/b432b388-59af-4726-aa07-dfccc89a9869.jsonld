@@ -1,0 +1,125 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/b432b388-59af-4726-aa07-dfccc89a9869",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fb432b388-59af-4726-aa07-dfccc89a9869",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fb432b388-59af-4726-aa07-dfccc89a9869",
+  "prefLabel": {
+    "de": "EFG"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/23cf988d-e886-4d28-a3ea-bcbcacb8109c",
+      "prefLabel": {
+        "de": "digitale und analoge Medien weitgehend selbstständig zur Informations-beschaffung und Textproduktion nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/40fd95f3-999f-4251-aef2-8f9e41330ee7",
+      "prefLabel": {
+        "de": "mithilfe sprachlichen, inhaltlichen sowie textsortenspezifischen Wissens einfache, auf ihre Lebenswelt bezogene literarische Texte, Sachtexte, diskontinuierliche Texte und mediale Präsentationen aufgabenbezogen erschließen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5a724a40-e3a4-41dc-b76b-f7014de4342f",
+      "prefLabel": {
+        "de": "Kenntnisse über wesentliche Merkmale einer zunehmenden Anzahl verbreiteter Textsorten bei der eigenen Textproduktion anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b3e7af91-d7ba-4e9a-9e1a-955770f3788c",
+      "prefLabel": {
+        "de": "sich in kreativen Aufgaben mit den Perspektiven und Handlungsmustern von Personen, Charakteren und Figuren, die ihrer Lebenswelt nahe stehen, auseinandersetzen und ggf. einen Perspektivwechsel vollziehen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f2435173-1f97-4d33-94ce-388160617abc",
+      "prefLabel": {
+        "de": "Präsentationsformen zunehmend selbstständig und funktional in Bezug auf einfache Inhalte anwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/05a93162-f3d9-4e35-a971-63425ac0ee12",
+    "prefLabel": {
+      "de": "Text- und Medienkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

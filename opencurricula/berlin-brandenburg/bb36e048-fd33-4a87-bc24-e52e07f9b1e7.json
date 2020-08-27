@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/bb36e048-fd33-4a87-bc24-e52e07f9b1e7",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbb36e048-fd33-4a87-bc24-e52e07f9b1e7",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbb36e048-fd33-4a87-bc24-e52e07f9b1e7",
+  "prefLabel": {
+    "de": "Erschließen, politisch"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1d9f6b33-da64-410a-8e12-253974bdfdea",
+      "prefLabel": {
+        "de": "Politische Phänomene der Lebensumwelt identifizieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3aa75757-3195-4b90-9f06-44b35cc2a4c0",
+      "prefLabel": {
+        "de": "Spielräume für politisches und demokratisches Handeln ermitteln"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7186bf2e-8e4d-4e17-acb0-6df1486b7cc8",
+      "prefLabel": {
+        "de": "Politische Phänomene ordnen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f54e0f93-52bc-4a2b-9cf9-b6cce3200f7e",
+      "prefLabel": {
+        "de": "Politische Phänomene der Lebensumwelt analysieren"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/3323a626-822b-446e-8a94-14b5cb8efae8",
+    "prefLabel": {
+      "de": "Gesellschaftswissenschaften"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

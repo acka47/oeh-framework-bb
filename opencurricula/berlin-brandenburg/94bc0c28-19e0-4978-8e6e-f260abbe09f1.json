@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/94bc0c28-19e0-4978-8e6e-f260abbe09f1",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F94bc0c28-19e0-4978-8e6e-f260abbe09f1",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F94bc0c28-19e0-4978-8e6e-f260abbe09f1",
+  "prefLabel": {
+    "de": "Naturwissenschaftliche Untersuchungen durchführen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2288939a-e334-4bef-ab15-a9ad5a385e56",
+      "prefLabel": {
+        "de": "Planung und Durchführung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4070922a-330a-4627-b763-364f228ab92f",
+      "prefLabel": {
+        "de": "Hypothesenbildung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b6389adb-6257-4a91-a579-a75fd52a3483",
+      "prefLabel": {
+        "de": "Auswertung und Reflexion"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e2fe4c4d-4b9e-4a10-b5e2-00b1e52ca8e8",
+      "prefLabel": {
+        "de": "Fragestellung"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/c78ca496-0760-40de-81cd-fa6c96bd31ed",
+    "prefLabel": {
+      "de": "Erkenntnisse gewinnen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

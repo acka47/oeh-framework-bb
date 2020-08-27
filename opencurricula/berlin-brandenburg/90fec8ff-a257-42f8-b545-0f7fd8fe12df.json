@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/90fec8ff-a257-42f8-b545-0f7fd8fe12df",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F90fec8ff-a257-42f8-b545-0f7fd8fe12df",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F90fec8ff-a257-42f8-b545-0f7fd8fe12df",
+  "prefLabel": {
+    "de": "FG"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/040d01f7-d768-46e8-97ea-d89075368bd2",
+      "prefLabel": {
+        "de": "Material als Anregung für eigene Vorhaben beschreiben und analysieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0b9fb3f4-b1b7-4d93-9d53-6e54e94340cf",
+      "prefLabel": {
+        "de": "Alternativen und Optionen des Materialgebrauchs beschreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e6ffdf21-05b0-4a1c-b547-a77cf6655ccf",
+      "prefLabel": {
+        "de": "Material für eigene Vorhaben recherchieren"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/fe79e2cf-fb92-4388-a397-2406cf72ab1c",
+    "prefLabel": {
+      "de": "Material erkunden"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

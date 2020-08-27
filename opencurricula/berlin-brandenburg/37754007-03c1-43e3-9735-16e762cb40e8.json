@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/37754007-03c1-43e3-9735-16e762cb40e8",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F37754007-03c1-43e3-9735-16e762cb40e8",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F37754007-03c1-43e3-9735-16e762cb40e8",
+  "prefLabel": {
+    "de": "C"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/211cab3b-419c-4ec8-8ff1-4d0e5386f6f0",
+      "prefLabel": {
+        "de": "sich selbst neue Lern- und Arbeitsziele setzen und diese umsetzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5e848e28-6614-434a-865e-3017b85d9046",
+      "prefLabel": {
+        "de": "über ihre Stärken und Schwächen nachdenken (z. B. mithilfe von Kompetenzrastern) und diese benennen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/785d426a-3248-46d7-9aa7-567d26b6bcdc",
+      "prefLabel": {
+        "de": "das eigene Lern und Arbeitsverhalten kritisch reflektieren und Konsequenzen benennen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/94514597-3bfc-4dc0-a64f-eb77c47d778e",
+    "prefLabel": {
+      "de": "Verantwortung für das eigene Lernen übernehmen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

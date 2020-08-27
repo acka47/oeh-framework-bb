@@ -1,0 +1,269 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ff117bc1-2714-4a28-a4eb-606c07301c8c",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fff117bc1-2714-4a28-a4eb-606c07301c8c",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fff117bc1-2714-4a28-a4eb-606c07301c8c",
+  "prefLabel": {
+    "de": "Wirtschaft-Arbeit-Technik"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1312d930-ba93-41d5-be23-3b5f0b79356b",
+      "prefLabel": {
+        "de": "Bauen und Wohnen (WP6)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1f7a5221-5cc5-41f2-8c45-c04f28783657",
+      "prefLabel": {
+        "de": "Entwicklung, Planung, Fertigung und Bewertung mehrteiliger Produkte (P8) 7/8"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/201d4c42-baed-4449-9847-3d813e737b28",
+      "prefLabel": {
+        "de": "Bewerten und Entscheiden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/264bab1a-bb3b-4448-8fcd-f981df5d8be0",
+      "prefLabel": {
+        "de": "Ernährung und Konsum aus regionaler und globaler Sicht (P9) 9/10"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2d0c00d8-e465-4f0f-a209-d87cb9b9a43b",
+      "prefLabel": {
+        "de": "Schülerfirma*"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/46151cd9-c0e7-412e-8d0e-e8f12fa92c67",
+      "prefLabel": {
+        "de": "3.24\tBerufsfeld Sozialwesen (BFU)*"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/59a0fda6-7ed2-4a07-a0db-43f6c5f86bce",
+      "prefLabel": {
+        "de": "Methoden einsetzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6012b57a-8287-4048-8784-593f35a182bc",
+      "prefLabel": {
+        "de": "Berufsfeld Wirtschaft und Verwaltung (BFU)*"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/64f6477f-0437-4674-b01d-e4cde47d8c8d",
+      "prefLabel": {
+        "de": "Lebensmittelverarbeitung (WP3)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/726b7227-ceb8-45fb-93ee-035784525425",
+      "prefLabel": {
+        "de": "Schulumfeldgestaltung (WP8)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7f95cb3c-dc0e-49d3-87ad-578433724fb0",
+      "prefLabel": {
+        "de": "Gestaltung komplexer Projekte/Bewertung technischer Innovationen (P12) 9/10"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8928fec3-240e-493b-ae47-6db526f5e8ee",
+      "prefLabel": {
+        "de": "Mit Fachwissen umgehen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8bb1e76d-dc54-48e7-8365-4011737d99f0",
+      "prefLabel": {
+        "de": "Kommunizieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/908724e0-2650-4b5c-af67-848b64c4a5d2",
+      "prefLabel": {
+        "de": "Gesundheitsförderliche Ernährungsweise (P1) 5/6"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9399e273-2b6d-4f13-a1a5-a532725a7134",
+      "prefLabel": {
+        "de": "Unternehmerisches Handeln (P10) 9/10"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a8db6ec5-2bf8-4c1a-9152-7916180a6d8d",
+      "prefLabel": {
+        "de": "Gewerblich-technisches Berufsfeld (BFU)*"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b005f5b7-627c-4217-b3e6-f9cd7b31860a",
+      "prefLabel": {
+        "de": "Entwickeln, Herstellen und Bewerten elektronischer Schaltungen/Elektrotechnik (WP4)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b0d2c5f7-1d40-48bb-a1af-c60396a05e7a",
+      "prefLabel": {
+        "de": "Entwicklung, Planung, Fertigung und Bewertung einteiliger Produkte (P4) 5/6"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b8fae3d9-971f-48a3-bd37-cb7d1a3aabe2",
+      "prefLabel": {
+        "de": "Wirtschaften im privaten Haushalt (P2) 5/6"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bdbd7f53-20a7-4c3f-90b4-6bf19b070428",
+      "prefLabel": {
+        "de": "Ernährung, Gesundheit und Konsum (P5) 7/8"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bec10c5a-6409-499b-8417-c4e116b4afe4",
+      "prefLabel": {
+        "de": "Markt, Wirtschaftskreisläufe und politische Rahmenbedingungen (P6) 7/8"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c9bedb37-f692-45f7-b392-75b9d5c58155",
+      "prefLabel": {
+        "de": "Berufs- und Lebenswegplanung: Einstimmen und Erkunden (P7) 7/8"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/cb184671-0fff-4629-9900-4a8bcf18bee3",
+      "prefLabel": {
+        "de": "Kleidung und Mode/Textilverarbeitung (WP2)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d1761764-6e09-4ce8-9b53-13e4e58940ae",
+      "prefLabel": {
+        "de": "Berufs- und Lebenswegplanung: Erkunden, Entscheiden und \tRealisieren/Betriebspraktikum (P11) 9/10"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/db30e8e8-913c-4a16-b362-21ca900689d1",
+      "prefLabel": {
+        "de": "Mobilität und Energieversorgung (WP7)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/dba09bac-6283-4478-a839-e2c3cb48e3e7",
+      "prefLabel": {
+        "de": "Manuelle Fertigung und computergesteuerte Fertigung/Automatisierung (CAD, CAM) (WP5)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/de3ae35f-fc52-43e9-80c5-d59ab30fb73a",
+      "prefLabel": {
+        "de": "Interessen, Fähigkeiten, Traumberufe: Einstimmen auf die berufliche \tWelt (P3) 5/6"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ee7e248b-36a6-4f36-9624-1dd5e604262c",
+      "prefLabel": {
+        "de": "Entwickeln und Herstellen von Produkten für Kunden/Entwickeln und Anbieten von Dienstleistungen (WP1)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f1ea0511-fa1a-4926-a1f6-98faa7dfd5e2",
+      "prefLabel": {
+        "de": "Berufsfeld Hauswirtschaft (BFU)*"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/b6a652da-e09f-48a7-82d6-e703faff05f7",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

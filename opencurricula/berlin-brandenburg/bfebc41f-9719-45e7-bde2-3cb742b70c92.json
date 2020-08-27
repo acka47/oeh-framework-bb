@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/bfebc41f-9719-45e7-bde2-3cb742b70c92",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbfebc41f-9719-45e7-bde2-3cb742b70c92",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbfebc41f-9719-45e7-bde2-3cb742b70c92",
+  "prefLabel": {
+    "de": "Produktion/Sprechen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5dcd4a31-7a86-48c1-901e-4301350d4b93",
+      "prefLabel": {
+        "de": "Einen Vortrag halten"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/79fd2674-a687-4964-8e2d-b268f6835c23",
+      "prefLabel": {
+        "de": "Überlegungen zu einem Thema darlegen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f76c42eb-3bf4-4790-b9ac-672ad7c768ce",
+      "prefLabel": {
+        "de": "Sachverhalte und Informationen zusammenfassend wiedergeben"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/2b05e67f-1cea-4485-82e3-6e8148ad9d80",
+    "prefLabel": {
+      "de": "Basiscurriculum Sprachbildung"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

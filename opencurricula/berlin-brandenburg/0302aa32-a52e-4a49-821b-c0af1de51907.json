@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/0302aa32-a52e-4a49-821b-c0af1de51907",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F0302aa32-a52e-4a49-821b-c0af1de51907",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F0302aa32-a52e-4a49-821b-c0af1de51907",
+  "prefLabel": {
+    "de": "Begegnungen mit Göttern und Heroen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3509ff1d-e872-428e-b8a4-eb0b580186b9",
+      "prefLabel": {
+        "de": "Die Welt der griechischen Mythen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/562bed48-4fd6-4ea6-b2e3-8e25b86b43ec",
+      "prefLabel": {
+        "de": "Der Trojanische Krieg und seine Folgen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9614cc36-57bc-4e92-8d51-82f80ba9ec31",
+      "prefLabel": {
+        "de": "Das antike griechischrömische Götterbild"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d97bf91a-1442-4a57-a2da-ca116d275816",
+      "prefLabel": {
+        "de": "Römische Gründungsmythen und Mythen aus der römischen Frühzeit"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/1d4b2e6d-b2dc-490f-b7ef-160551d813a3",
+    "prefLabel": {
+      "de": "Latein"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

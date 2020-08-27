@@ -1,0 +1,107 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/c98c6fae-52f1-4307-ba25-7d541d0af7c3",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fc98c6fae-52f1-4307-ba25-7d541d0af7c3",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fc98c6fae-52f1-4307-ba25-7d541d0af7c3",
+  "prefLabel": {
+    "de": "AH"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7633a6fb-67ec-4715-8e1c-500952709ab5",
+      "prefLabel": {
+        "de": "heuristische Hilfsmittel zum Problemlösen anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fb1f7952-1ff3-4617-93cc-11dcd0da7137",
+      "prefLabel": {
+        "de": "Lösungsstrategien (z. B. vom Probieren zum systematischen Probieren) entwickeln und nutzen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a071952b-ac46-4a1b-8cf1-cbe065070a1e",
+    "prefLabel": {
+      "de": "C-MA-K2-2-AH"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

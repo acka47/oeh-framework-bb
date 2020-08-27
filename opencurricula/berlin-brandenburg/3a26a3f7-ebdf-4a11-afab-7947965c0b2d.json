@@ -1,0 +1,107 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/3a26a3f7-ebdf-4a11-afab-7947965c0b2d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F3a26a3f7-ebdf-4a11-afab-7947965c0b2d",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F3a26a3f7-ebdf-4a11-afab-7947965c0b2d",
+  "prefLabel": {
+    "de": "AB"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8af540aa-8aed-412f-841d-26693a8d695c",
+      "prefLabel": {
+        "de": "ihre elementaren Vorkenntnisse und Erfahrungen zu Texten und Medien nutzen, um angeleitet auf Inhalt und Funktion von fremdsprachigen Texten zu schließen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/cc27fd42-5b54-4bb7-bec0-006318011c4e",
+      "prefLabel": {
+        "de": "unter Anleitung ausgewählte digitale und analoge Medien altersentsprechend für den Umgang mit der Fremdsprache nutzen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ea5df185-93ad-480b-aa8b-4bbd680a87dd",
+    "prefLabel": {
+      "de": "Text- und Medienkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

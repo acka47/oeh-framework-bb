@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/a8747706-cd50-42ba-ace1-706823927ecd",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa8747706-cd50-42ba-ace1-706823927ecd",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa8747706-cd50-42ba-ace1-706823927ecd",
+  "prefLabel": {
+    "de": "Fachwissen aufbereiten"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1b729eee-8fe1-4eed-8cef-038296958c38",
+      "prefLabel": {
+        "de": "Zusammenhänge und Unterschiede zwischen Alltagspsychologie und wissenschaftlicher Psychologie erkennen und verwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/43c5bf57-eaea-45d6-a5b3-2dab27ea4a65",
+      "prefLabel": {
+        "de": "Psychologische Aspekte menschlichen Erlebens und Verhaltens erkennen und beschreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9f18e636-9c1e-4513-a233-2470c71f804a",
+      "prefLabel": {
+        "de": "Psychische Phänomene mit geeigneten Fachbegriffen und Modellen beschreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b493b14a-9a7e-402a-93ec-f13bfddea67d",
+      "prefLabel": {
+        "de": "Paradigmen als zentrale, erkenntnisleitende Prinzipien verwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/e7f1857f-2bc1-40a1-a3ca-7a4dc12f23ff",
+    "prefLabel": {
+      "de": "Psychologie"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

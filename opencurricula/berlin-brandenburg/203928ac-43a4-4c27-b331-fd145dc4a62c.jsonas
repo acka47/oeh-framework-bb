@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/203928ac-43a4-4c27-b331-fd145dc4a62c",
+  "type": "Service",
+  "name": "unterschiedliche Perspektiven verschiedener Quellenautorinnen, -autoren auf denselben historischen Sachverhalt vergleichen und diskutieren",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32303339323861632d343361342d346332372d623333312d666431343564633461363263",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F203928ac-43a4-4c27-b331-fd145dc4a62c",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F203928ac-43a4-4c27-b331-fd145dc4a62c",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/203928ac-43a4-4c27-b331-fd145dc4a62c#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/203928ac-43a4-4c27-b331-fd145dc4a62c",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/f3ba3928-202c-468b-bcf5-15d212cefd09",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff3ba3928-202c-468b-bcf5-15d212cefd09",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff3ba3928-202c-468b-bcf5-15d212cefd09",
+  "prefLabel": {
+    "de": "Wohnen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/07886ca9-7afc-4603-96b7-ea3278abfc99",
+      "prefLabel": {
+        "de": "Wie baut man ein Haus?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/42f5eb9b-0ed6-4113-a56b-7582c4e17b98",
+      "prefLabel": {
+        "de": "Wie wohnten Menschen früher?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6b4828f9-16d4-4af0-ac19-d57342beb20e",
+      "prefLabel": {
+        "de": "Was kann man hier unternehmen? (Sport, Freizeit, Kultur und Engagement)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6ece7d0a-ecde-49a5-aa2e-3a91fcce1d68",
+      "prefLabel": {
+        "de": "Wie stellen wir uns die Zukunft vor?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/867c8477-876f-4ba9-97d3-51c5cf3adb77",
+      "prefLabel": {
+        "de": "Wie wohnen andere Menschen bei uns und Menschen anderswo?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d4770ec7-a563-4888-9043-049585ea9bc4",
+      "prefLabel": {
+        "de": "Wie funktioniert ein Wohnhaus?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fd43c917-0738-4411-b6c9-feaa61c155ee",
+      "prefLabel": {
+        "de": "Wer lebt hier wie? Wovon leben die Menschen? (Gesellschaft, Wirtschaft und Politik)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fda5d125-f7d6-497b-b84e-c77f68e9e4cf",
+      "prefLabel": {
+        "de": "Wie und wo wohnen und leben wir?"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/62b93c91-e304-4e57-98be-1f25c5117e63",
+    "prefLabel": {
+      "de": "Sachunterricht"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

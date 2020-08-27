@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/7f02e70d-4bdc-473a-82a4-506f065e1d5c",
+  "type": "Service",
+  "name": "das eigene Handeln mit dem Anderer vergleichen und die Erfahrungen und Fähigkeiten anderer für sich als Handlungsoption in Betracht ziehen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f37663032653730642d346264632d343733612d383261342d353036663036356531643563",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F7f02e70d-4bdc-473a-82a4-506f065e1d5c",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F7f02e70d-4bdc-473a-82a4-506f065e1d5c",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/7f02e70d-4bdc-473a-82a4-506f065e1d5c#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/7f02e70d-4bdc-473a-82a4-506f065e1d5c",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

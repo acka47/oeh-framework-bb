@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/87bd5e10-3e44-4b10-86f3-67622b16980c",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F87bd5e10-3e44-4b10-86f3-67622b16980c",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F87bd5e10-3e44-4b10-86f3-67622b16980c",
+  "prefLabel": {
+    "de": "F"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/231fea07-3a16-4462-919e-eaa6ad5d7eee",
+      "prefLabel": {
+        "de": "indikativische Nebensätze benennen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9c9b1f59-1767-4ad0-948d-ee383eae9e0f",
+      "prefLabel": {
+        "de": "in einfachen Hauptsätzen die Satzart (Aussage-, Frage- und Aufforderungssatz) sowie die Satzglieder Prädikat und Subjekt benennen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a7104637-d3f4-4380-a850-6beba1aff26b",
+      "prefLabel": {
+        "de": "weitere Satzglieder (Objekt, Attribut, Prädikatsnomen/zweiteiliges Prädikat, Adverbialbestimmung) benennen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/2b8fe690-c969-47a2-ae70-503f92eeb804",
+    "prefLabel": {
+      "de": "Satzlehre"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

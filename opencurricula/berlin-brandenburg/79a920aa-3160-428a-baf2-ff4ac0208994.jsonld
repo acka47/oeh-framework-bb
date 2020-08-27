@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/79a920aa-3160-428a-baf2-ff4ac0208994",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F79a920aa-3160-428a-baf2-ff4ac0208994",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F79a920aa-3160-428a-baf2-ff4ac0208994",
+  "prefLabel": {
+    "de": "EFGH"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5359fb3e-6cdd-4362-a86d-1ec86ed03262",
+      "prefLabel": {
+        "de": "zunehmend selbstständig grundlegende Strategien der Sprachproduktion und -rezeption anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/65c75f12-ba3c-4143-b92c-e4ca041ff454",
+      "prefLabel": {
+        "de": "Begegnungen mit der Fremdsprache zunehmend selbstständig für das eigene Sprachenlernen nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bf7e8242-a829-4f27-b0f6-5472609fc01d",
+      "prefLabel": {
+        "de": "die Einschätzung des eigenen Lernstands als Grundlage für die Planung der individuellen Lernarbeit nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c82dda49-3f27-4a70-b68f-e7ea1af0011d",
+      "prefLabel": {
+        "de": "zunehmend selbstständig grundlegende Strategien des Sprachenlernens anwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/c5e322af-b178-49a4-b95a-61f20fd7d3ce",
+    "prefLabel": {
+      "de": "Sprachlernkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

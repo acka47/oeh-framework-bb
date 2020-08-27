@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/98fd45db-e15c-4b76-9574-d5825b7f4c1c",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F98fd45db-e15c-4b76-9574-d5825b7f4c1c",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F98fd45db-e15c-4b76-9574-d5825b7f4c1c",
+  "prefLabel": {
+    "de": "D"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/48bcc977-c575-411b-ba37-80111817cffd",
+      "prefLabel": {
+        "de": "nach Ursachen fragen und sie diskutieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/584ac153-baa0-4964-ae03-b276513e33b0",
+      "prefLabel": {
+        "de": "die Bedeutsamkeit historischer Veränderungen für das Leben in der Gegenwart erläutern"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a1295516-f89d-422a-8b4e-ad55393f01d9",
+      "prefLabel": {
+        "de": "historische Kontinuität und Veränderungen am Beispiel eines konkreten Aspekts beschreiben (früher – später – heute)"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/8bc7cfbb-75e1-4c8d-be9a-55c822b1e02f",
+    "prefLabel": {
+      "de": "Historische Kontinuität und Veränderungen untersuchen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

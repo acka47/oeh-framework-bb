@@ -1,0 +1,137 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/49b844fc-771a-4176-ad36-a2f156b38760",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F49b844fc-771a-4176-ad36-a2f156b38760",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F49b844fc-771a-4176-ad36-a2f156b38760",
+  "prefLabel": {
+    "de": "Ästhetische Praktiken, Werkzeuge, Techniken und künstlerische Strategien erkunden"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/253fb13e-01de-4bba-b879-97779f9bbd05",
+      "prefLabel": {
+        "de": "DE"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3980510f-b502-430d-bc0f-6b34d0454c66",
+      "prefLabel": {
+        "de": "A"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/41557f1b-c6d6-4eea-a2b3-ad746768c88e",
+      "prefLabel": {
+        "de": "FG"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a251ac35-1427-4719-9f0c-91f8c3d59617",
+      "prefLabel": {
+        "de": "B"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/adb39a40-5fe7-487b-822a-4f61867b3f74",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bcabc6bc-c173-4c3f-baca-9e8a13477e80",
+      "prefLabel": {
+        "de": "H"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d79cef7a-2b11-4036-9ffc-edd0e1480296",
+      "prefLabel": {
+        "de": "C"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/d6c84d3e-2232-4746-bcab-e793caa6a7d6",
+    "prefLabel": {
+      "de": "Wahrnehmen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

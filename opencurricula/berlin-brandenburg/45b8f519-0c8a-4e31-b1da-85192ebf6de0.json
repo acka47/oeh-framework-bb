@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/45b8f519-0c8a-4e31-b1da-85192ebf6de0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F45b8f519-0c8a-4e31-b1da-85192ebf6de0",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F45b8f519-0c8a-4e31-b1da-85192ebf6de0",
+  "prefLabel": {
+    "de": "G"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1bac177e-ed15-4c4d-ab05-6f8d99f8e657",
+      "prefLabel": {
+        "de": "Übersichten über grammatische Regeln für die Systematisierung und das Textverstehen anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4f6acd7c-55b6-479e-b8db-bfaa2200cabc",
+      "prefLabel": {
+        "de": "die satzwertigen Konstruktionen AcI und NcI benennen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ddf6b25c-0a38-4851-9d05-513ebe7d2958",
+      "prefLabel": {
+        "de": "wesentliche Funktionen von Kasus, Tempora, Aspekten, Modi (einschließlich konditionaler Satzgefüge) und Genera verbi benennen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f2e4e0ae-b267-40ac-984a-098e899a662a",
+      "prefLabel": {
+        "de": "die Funktion von Partizipien (substantiviert/attributiv, prädikativ, adverbial) benennen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/2b8fe690-c969-47a2-ae70-503f92eeb804",
+    "prefLabel": {
+      "de": "Satzlehre"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

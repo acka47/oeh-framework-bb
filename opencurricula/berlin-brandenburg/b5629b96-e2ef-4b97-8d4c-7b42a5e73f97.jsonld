@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/b5629b96-e2ef-4b97-8d4c-7b42a5e73f97",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fb5629b96-e2ef-4b97-8d4c-7b42a5e73f97",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fb5629b96-e2ef-4b97-8d4c-7b42a5e73f97",
+  "prefLabel": {
+    "de": "Körper und Gesundheit"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0f31a388-30e6-4765-9cdb-c97906642364",
+      "prefLabel": {
+        "de": "Verdauung und Ernährung – den Nährstoffen auf der Spur"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/35f38a43-498e-49eb-92c6-dcb98556108d",
+      "prefLabel": {
+        "de": "Bewegungsapparat des Menschen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5c3a5aea-6bc4-404d-aea5-d5b9c9ac80de",
+      "prefLabel": {
+        "de": "Suchtprävention"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/c884a327-be63-4016-8f21-83f2788bb9a2",
+    "prefLabel": {
+      "de": "Naturwissenschaften (5/6)"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

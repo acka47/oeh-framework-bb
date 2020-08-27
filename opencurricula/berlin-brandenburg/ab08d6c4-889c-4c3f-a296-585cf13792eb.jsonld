@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ab08d6c4-889c-4c3f-a296-585cf13792eb",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fab08d6c4-889c-4c3f-a296-585cf13792eb",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fab08d6c4-889c-4c3f-a296-585cf13792eb",
+  "prefLabel": {
+    "de": "GH"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/011257c2-2b42-4d3c-bf06-5b5c74d08e0d",
+      "prefLabel": {
+        "de": "Gemeinsamkeiten und Unterschiede von historischen und gegenwärtigen Werten erörtern"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/143dd38d-39c3-420f-a686-303c272af2b9",
+      "prefLabel": {
+        "de": "die Vielfalt gegenwärtiger Werturteile erörtern und in ihrer Unterschiedlichkeit würdigen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/37c21d1c-c504-44c6-9fce-4334cd160bd5",
+      "prefLabel": {
+        "de": "begründen, welche Bedeutung die individuellen Werturteile für die eigene lebensweltliche Orientierung in der Gegenwart haben"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/e11c7c1f-f00f-43f8-9841-a1f5cb27b8d1",
+    "prefLabel": {
+      "de": "Historische Werturteile und Wertmaßstäbe entwickeln. bewerten und anwenden"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

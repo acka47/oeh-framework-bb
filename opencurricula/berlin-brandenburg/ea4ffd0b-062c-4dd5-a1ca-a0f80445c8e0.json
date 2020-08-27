@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ea4ffd0b-062c-4dd5-a1ca-a0f80445c8e0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fea4ffd0b-062c-4dd5-a1ca-a0f80445c8e0",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fea4ffd0b-062c-4dd5-a1ca-a0f80445c8e0",
+  "prefLabel": {
+    "de": "GH"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8196d53d-87ce-4a3a-a12c-e8f32bc59637",
+      "prefLabel": {
+        "de": "Projektthemen zunehmend selbstständig entwickeln und formulieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c8413a90-f4d2-4f71-8d9d-1a813f1d98a8",
+      "prefLabel": {
+        "de": "selbstständig Projektbereiche in Teams planen und umsetzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c9dc7807-e051-4d7a-94fa-59bafad81010",
+      "prefLabel": {
+        "de": "zunehmend selbstständig ein Konzept für ihr Gestaltungshandeln und ihre Bearbeitungswege entwickeln und umsetzen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a41eeac7-2830-402f-8939-5a453f8a6cd6",
+    "prefLabel": {
+      "de": "Projektorientiert arbeiten und planen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

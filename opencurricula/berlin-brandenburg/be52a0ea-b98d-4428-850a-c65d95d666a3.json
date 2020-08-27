@@ -1,0 +1,209 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/be52a0ea-b98d-4428-850a-c65d95d666a3",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbe52a0ea-b98d-4428-850a-c65d95d666a3",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbe52a0ea-b98d-4428-850a-c65d95d666a3",
+  "prefLabel": {
+    "de": "Deutsch"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/04150387-f6a2-4cd6-ba95-ee8f29636e28",
+      "prefLabel": {
+        "de": "Schreiben - Schreibfertigkeiten nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0ea149d9-857a-4499-ba8a-b74f3488da46",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 1/2"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/18cb7c3b-f65d-4cb7-aec5-1a2dd061d42a",
+      "prefLabel": {
+        "de": "Wahlpflichtfach"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/302bd65a-7b47-4744-8649-e120bb09ae21",
+      "prefLabel": {
+        "de": "Sprachwissen und Sprachbewusstheit entwickeln – Sprachbewusst handeln"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4b68ac43-1a64-4b89-b4bb-1b5191255a4e",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 5/6"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4d8634ef-dbc0-40f0-98e2-bc1a2dfcf98a",
+      "prefLabel": {
+        "de": "Mit Texten und Medien umgehen - Texte in anderer medialer Form erschließen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5f5f1b97-7fcb-4b1f-ad0c-1246ba9c9ac7",
+      "prefLabel": {
+        "de": "Sprechen und Zuhören - Zu anderen sprechen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6fb5f214-fc06-4625-85e3-d7865b3f36b8",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 9/10"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7a80e333-5077-46cf-aa52-6ac99780f299",
+      "prefLabel": {
+        "de": "Sprechen und Zuhören - Mit anderen sprechen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9cb1ddb2-976d-4e01-94fd-849f87f172a4",
+      "prefLabel": {
+        "de": "Lesen - Lesestrategien nutzen – Textverständnis sichern"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ad4ba029-8abb-4df2-b2a7-4bd4a8ade4ac",
+      "prefLabel": {
+        "de": "Sprechen und Zuhören – Verstehend zuhören"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ae0e00c2-12c6-48a3-86b8-5fbd7c0f10bb",
+      "prefLabel": {
+        "de": "Lesen - Lesefertigkeiten nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bab44aa5-dd89-4dd9-8f61-a820d5349550",
+      "prefLabel": {
+        "de": "Mit Texten und Medien umgehen - Literarische Texte erschließen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c9146b4a-b614-4028-8082-d99d8ed7f3c1",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 3/4"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/cefc825e-ff06-4c85-8232-28fe63121a59",
+      "prefLabel": {
+        "de": "Schreiben - Richtig schreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/db7151ea-6704-42cd-ac48-8f589620e517",
+      "prefLabel": {
+        "de": "Sprachwissen und Sprachbewusstheit entwickeln – Sprache nutzen und Sprachgebrauch untersuchen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e4dc2c09-aa56-4326-88da-f7b82bebd6ac",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 7/8"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/edddaa62-e501-4b6c-bede-551f861766f8",
+      "prefLabel": {
+        "de": "Schreiben - Schreibstrategien nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fa4fc052-fecf-481c-8aa4-f0db901d5d70",
+      "prefLabel": {
+        "de": "Mit Texten und Medien umgehen - Sach- und Gebrauchstexte (lineare und nichtlineare Texte) erschließen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/b6a652da-e09f-48a7-82d6-e703faff05f7",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

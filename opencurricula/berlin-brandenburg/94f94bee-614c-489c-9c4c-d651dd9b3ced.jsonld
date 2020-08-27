@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/94f94bee-614c-489c-9c4c-d651dd9b3ced",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F94f94bee-614c-489c-9c4c-d651dd9b3ced",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F94f94bee-614c-489c-9c4c-d651dd9b3ced",
+  "prefLabel": {
+    "de": "Mensch und Fortschritt"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/90340a06-0b76-458d-ac65-03bdf11872c4",
+      "prefLabel": {
+        "de": "Vertiefungsmöglichkeiten/mögliche Konkretisierungen - Ideengeschichtliche Perspektive"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c737c2f9-892d-491a-b042-aabd087a8b08",
+      "prefLabel": {
+        "de": "Vertiefungsmöglichkeiten/mögliche Konkretisierungen - Gesellschaftliche Perspektive"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/eb0de0cd-ecdb-4f19-a54b-9a789a19b5d7",
+      "prefLabel": {
+        "de": "Vertiefungsmöglichkeiten/mögliche Konkretisierungen - Individuelle Perspektive"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/61e400ab-e96c-4f80-a88b-9ebd839872ad",
+    "prefLabel": {
+      "de": "Was ist der Mensch? – Mensch und Gemeinschaft"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

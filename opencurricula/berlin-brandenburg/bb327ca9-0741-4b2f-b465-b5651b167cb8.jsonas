@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/bb327ca9-0741-4b2f-b465-b5651b167cb8",
+  "type": "Service",
+  "name": "aus geografischen Medien wie Tabellen, Diagrammen, Karikaturen erkenntnisleitende Fragen ableiten",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f62623332376361392d303734312d346232662d623436352d623536353162313637636238",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbb327ca9-0741-4b2f-b465-b5651b167cb8",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbb327ca9-0741-4b2f-b465-b5651b167cb8",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/bb327ca9-0741-4b2f-b465-b5651b167cb8#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/bb327ca9-0741-4b2f-b465-b5651b167cb8",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

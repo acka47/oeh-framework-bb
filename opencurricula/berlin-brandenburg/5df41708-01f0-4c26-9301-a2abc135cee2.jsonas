@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/5df41708-01f0-4c26-9301-a2abc135cee2",
+  "type": "Service",
+  "name": "über eigene Erfahrungen, Gefühle, reale und fiktive Ereignisse und Verhaltensweisen zusammenhängend und hinreichend präzise sprechen, sich über Wünsche und Pläne begründet äußern sowie kausale Zusammenhänge erklären",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f35646634313730382d303166302d346332362d393330312d613261626331333563656532",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F5df41708-01f0-4c26-9301-a2abc135cee2",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F5df41708-01f0-4c26-9301-a2abc135cee2",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/5df41708-01f0-4c26-9301-a2abc135cee2#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/5df41708-01f0-4c26-9301-a2abc135cee2",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

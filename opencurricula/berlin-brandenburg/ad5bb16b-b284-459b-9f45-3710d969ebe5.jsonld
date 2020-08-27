@@ -1,0 +1,191 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ad5bb16b-b284-459b-9f45-3710d969ebe5",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fad5bb16b-b284-459b-9f45-3710d969ebe5",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fad5bb16b-b284-459b-9f45-3710d969ebe5",
+  "prefLabel": {
+    "de": "Informatik"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/583f9227-0806-49d7-bced-a3abe7566b80",
+      "prefLabel": {
+        "de": "Problemlösen – Probleme erfassen und mit Informatiksystemen lösen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5caf4d7c-1455-4c32-80f3-2609a43eb22a",
+      "prefLabel": {
+        "de": "Information und Daten"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/62805f3a-fea5-46ba-a745-b9d384302dea",
+      "prefLabel": {
+        "de": "Informatiksysteme"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6a512c04-2001-4710-9cf7-204db33785a6",
+      "prefLabel": {
+        "de": "Geschichte der Informatik"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6ade15fe-1fa4-4ef2-b1c2-20dd79940cbb",
+      "prefLabel": {
+        "de": "Wechselwirkungen zwischen Informatiksystemen, Mensch und Gesellschaft beurteilen - Anwendungen erfassen und Auswirkungen abschätzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6fa82701-d47d-4225-bdbc-a7f0a6b29411",
+      "prefLabel": {
+        "de": "Datenbanken"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/75e37a7d-47cf-4baf-976f-3291576f27fe",
+      "prefLabel": {
+        "de": "Physical Computing"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7e972351-9cba-46c5-b6a4-3f5086bb2cb6",
+      "prefLabel": {
+        "de": "Projektmanagement"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/84a2725d-138d-485d-bb19-de7f9fa3e550",
+      "prefLabel": {
+        "de": "Mit Informationen umgehen – Information in Form von Daten darstellen und verarbeiten"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a0c30889-ed2a-4bb8-bff7-c0f8d0d15196",
+      "prefLabel": {
+        "de": "Algorithmisches Problemlösen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/aa0cbd05-227c-42ab-a9fa-125cfef7df0c",
+      "prefLabel": {
+        "de": "3.3\tLeben in und mit vernetzten Systemen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b7492b86-e5d4-4bc0-a331-0d12e2f50df7",
+      "prefLabel": {
+        "de": "Informatiksysteme verstehen – Wirkprinzipien kennen und anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d1510357-ffe8-4ff0-bc8a-0c73c53b48ee",
+      "prefLabel": {
+        "de": "Kommunizieren und Kooperieren – Teamarbeit organisieren und koordinieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d16d8cd8-eb3b-4921-9f2b-56fe34430ff5",
+      "prefLabel": {
+        "de": "Informatisches Modellieren – Modelle erstellen und bewerten"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e0af3a83-47cb-452c-b322-57fbde6bab62",
+      "prefLabel": {
+        "de": "Digitale Bilder und Visualisierung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ed9fe33a-5d14-4bc0-aeef-89d84b078d84",
+      "prefLabel": {
+        "de": "Standardsoftware"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/b6a652da-e09f-48a7-82d6-e703faff05f7",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

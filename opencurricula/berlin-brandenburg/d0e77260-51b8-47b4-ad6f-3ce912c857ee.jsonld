@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/d0e77260-51b8-47b4-ad6f-3ce912c857ee",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd0e77260-51b8-47b4-ad6f-3ce912c857ee",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd0e77260-51b8-47b4-ad6f-3ce912c857ee",
+  "prefLabel": {
+    "de": "EFGH"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/13ebaae7-fa36-4a31-8232-cf7640ba6d27",
+      "prefLabel": {
+        "de": "in Begegnungssituationen zunehmend sprachlich und kulturell angemessen agieren, mit anderen Perspektiven umgehen, ggf. Unstimmigkeiten aushalten und reflektiert Entscheidungen treffen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/58efa4ab-0746-4192-8561-11037a81fc84",
+      "prefLabel": {
+        "de": "ihr soziokulturelles Orientierungswissen zunehmend selbstständig erweitern, neue Informationen einordnen und dabei Stereotype zunehmend kritisch hinterfragen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f82cf97b-2fcf-4cb6-b2ef-d4e62ab2a86f",
+      "prefLabel": {
+        "de": "sich offen mit kulturspezifischen Wertvorstellungen und Handlungsweisen in den Zielsprachenländern reflektierend auseinandersetzen und diese mit ihren persönlichen kulturell und/oder sozial bedingten Erfahrungen vergleichen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/752726a1-b46d-4ddf-990d-3ad9d67772ef",
+    "prefLabel": {
+      "de": "Interkulturelle kommunikative Kompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

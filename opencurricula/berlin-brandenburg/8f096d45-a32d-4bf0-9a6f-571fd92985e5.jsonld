@@ -1,0 +1,125 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/8f096d45-a32d-4bf0-9a6f-571fd92985e5",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F8f096d45-a32d-4bf0-9a6f-571fd92985e5",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F8f096d45-a32d-4bf0-9a6f-571fd92985e5",
+  "prefLabel": {
+    "de": "G"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/237009dd-d383-4859-ba99-913c5c793007",
+      "prefLabel": {
+        "de": "mediale Möglichkeiten bewusst zur altersgemäßen gesellschaftlichen Teilhabe an demokratischen Prozessen nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4697b95e-27bf-41d4-8c91-db0bbc971f52",
+      "prefLabel": {
+        "de": "mediale Darstellungsmuster (Gesundheit, Sexualität, Mobilität u. a.) in der Öffentlichkeit identifizieren und ihre Wirkung in Bezug auf Rollenklischees und Menschenbilder untersuchen "
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6cc394e1-0a11-4c06-ac5d-ca6aaba6ca96",
+      "prefLabel": {
+        "de": "mediale Gewalt und Gewaltdarstellungen analysieren und ihre Wirkung untersuchen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8280221a-cea6-49ab-9fb6-0f5dc663e1d6",
+      "prefLabel": {
+        "de": "an aktuellen und historischen Beispielen den ökonomischen und politischen Einfluss von Medien(-konzernen) auf Meinungsbildungsprozesse in der Gesellschaft exemplarisch analysieren "
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c4163f25-16c9-4426-a95a-96c8dd061a80",
+      "prefLabel": {
+        "de": "Medien als Wirtschaftsfaktor an Beispielen untersuchen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/947bf2d2-00c9-4e2e-9514-2d1e9c985ba0",
+    "prefLabel": {
+      "de": "Medien in Politik und Gesellschaft"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}
