@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/126b3f1f-084b-4367-8bfc-d2df316d0130",
+  "type": "Service",
+  "name": "elementare kulturspezifische Sprach- und Verhaltensmuster unter Anleitung erkennen und in Alltagssituationen zunehmend angemessen agieren",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f637572726963756c756d5f62622f31323662336631662d303834622d343336372d386266632d643264663331366430313330",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F126b3f1f-084b-4367-8bfc-d2df316d0130",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F126b3f1f-084b-4367-8bfc-d2df316d0130",
+  "publicKey": {
+    "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/126b3f1f-084b-4367-8bfc-d2df316d0130#main-key",
+    "owner": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/126b3f1f-084b-4367-8bfc-d2df316d0130",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

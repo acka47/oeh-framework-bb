@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/3c77d869-e0da-43af-a409-bf4cbda2f1a4",
+  "type": "Service",
+  "name": "mit einfachen sprachlichen Mitteln unvorbereitet über vertraute Alltagsthemen zusammenhängend sprechen",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f637572726963756c756d5f62622f33633737643836392d653064612d343361662d613430392d626634636264613266316134",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F3c77d869-e0da-43af-a409-bf4cbda2f1a4",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F3c77d869-e0da-43af-a409-bf4cbda2f1a4",
+  "publicKey": {
+    "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/3c77d869-e0da-43af-a409-bf4cbda2f1a4#main-key",
+    "owner": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/3c77d869-e0da-43af-a409-bf4cbda2f1a4",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

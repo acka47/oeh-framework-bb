@@ -1,0 +1,137 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/dc2b1e0d-d372-448e-b342-b676d720654d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fdc2b1e0d-d372-448e-b342-b676d720654d",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fdc2b1e0d-d372-448e-b342-b676d720654d",
+  "prefLabel": {
+    "de": "Wasser ist Leben"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/004395cd-b76f-4388-b6a2-7cec6ad956de",
+      "prefLabel": {
+        "de": "Fließgewässer"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/6649b509-5bce-4f6b-a8bd-b4e7d9eb77fc",
+      "prefLabel": {
+        "de": "Wasser hat viele Gesichter"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/83777aff-8e5e-4a46-a12b-bd08c22a0b55",
+      "prefLabel": {
+        "de": "Wasser – knappe Ressource"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/95badae3-e5b1-42f9-8d9e-d621ea61d010",
+      "prefLabel": {
+        "de": "Wir untersuchen ein Gewässer"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/9a0a9eb4-cdfe-4c9d-ab94-0684ef19665a",
+      "prefLabel": {
+        "de": "Wasser – ein Lebensraum"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/b275c9d9-e311-4da6-9b1b-c1af29f2abff",
+      "prefLabel": {
+        "de": "Wasser ist global ungleich verteilt"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/dca8e7ca-1d51-4cca-b3c5-9f877ade0b21",
+      "prefLabel": {
+        "de": "Aquarium – ein künstliches Ökosystem"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/34517892-ae6c-4bdb-82e7-67a4c64251ac",
+    "prefLabel": {
+      "de": "Naturwissenschaften 7 – 10"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

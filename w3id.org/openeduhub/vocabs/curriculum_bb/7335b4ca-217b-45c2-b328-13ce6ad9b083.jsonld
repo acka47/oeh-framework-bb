@@ -1,0 +1,143 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/7335b4ca-217b-45c2-b328-13ce6ad9b083",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F7335b4ca-217b-45c2-b328-13ce6ad9b083",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F7335b4ca-217b-45c2-b328-13ce6ad9b083",
+  "prefLabel": {
+    "de": "Monologisches Sprechen"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/0fe8eec2-6484-451a-890e-18e019dd02dc",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/3bab3915-0d49-4adf-a949-5284c77aebc7",
+      "prefLabel": {
+        "de": "A"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/605bd69b-21c3-4be1-b0ff-14507acdbfa1",
+      "prefLabel": {
+        "de": "F"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/834335fe-6077-4641-ab0d-6791ed759933",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/9dddcdeb-ece9-4d94-aa91-b3042f3c54c8",
+      "prefLabel": {
+        "de": "H"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/d19e20db-7dcd-4f41-ba58-bfe9b3b6c9e2",
+      "prefLabel": {
+        "de": "E"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/df97f527-c478-43b4-80e1-a477333bbde5",
+      "prefLabel": {
+        "de": "B"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/e063e2a6-5965-40da-b8d6-e5b0887e9cd1",
+      "prefLabel": {
+        "de": "G"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/40079a7e-b79e-46a5-94c4-0f1c57291258",
+    "prefLabel": {
+      "de": "Sprechen"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

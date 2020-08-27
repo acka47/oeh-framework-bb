@@ -1,0 +1,131 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/de964c02-395e-4f3f-b352-e55c2d590884",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fde964c02-395e-4f3f-b352-e55c2d590884",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fde964c02-395e-4f3f-b352-e55c2d590884",
+  "prefLabel": {
+    "de": "Funktionale kommunikative Kompetenz"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/3e935f29-7fec-4494-8341-fa7e5cc87f74",
+      "prefLabel": {
+        "de": "Hör-/Hörsehverstehen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/7b5d948e-efb8-401b-97de-fd481679c718",
+      "prefLabel": {
+        "de": "Sprachmittlung"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/942cd193-5a03-4b3d-bb48-f8024d45d603",
+      "prefLabel": {
+        "de": "Sprechen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/b158cba9-3b6b-482a-b7e5-8f16c5c02c7d",
+      "prefLabel": {
+        "de": "Verfügen über sprachliche Mittel"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/e23eaaa2-dfca-419c-8fc7-2e657abe25b4",
+      "prefLabel": {
+        "de": "Schreiben"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/f0269973-d068-4013-b96b-4d3c97c01e51",
+      "prefLabel": {
+        "de": "Leseverstehen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/0a44111f-a983-48cc-bc97-8e4fc769aac1",
+    "prefLabel": {
+      "de": "Russisch"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

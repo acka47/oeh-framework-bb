@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/721770b7-2893-4d54-8386-3c74294fa303",
+  "type": "Service",
+  "name": "G",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f637572726963756c756d5f62622f37323137373062372d323839332d346435342d383338362d336337343239346661333033",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F721770b7-2893-4d54-8386-3c74294fa303",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F721770b7-2893-4d54-8386-3c74294fa303",
+  "publicKey": {
+    "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/721770b7-2893-4d54-8386-3c74294fa303#main-key",
+    "owner": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/721770b7-2893-4d54-8386-3c74294fa303",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

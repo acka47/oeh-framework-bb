@@ -1,0 +1,125 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/abea4533-6915-4c55-a633-454a847782b0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fabea4533-6915-4c55-a633-454a847782b0",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fabea4533-6915-4c55-a633-454a847782b0",
+  "prefLabel": {
+    "de": "Material einsetzen und nutzen"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/1f341388-c6c0-418e-880d-120424d0d964",
+      "prefLabel": {
+        "de": "DE"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/9a60b614-20a9-472a-a6a2-35a8ca64db46",
+      "prefLabel": {
+        "de": "FG"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/d70b2be5-7dfb-452b-8088-03be37ed98e0",
+      "prefLabel": {
+        "de": "H"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/dd104b5a-50dc-4380-b152-172db9966fb8",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/ea33ae58-ba2a-43ff-b30e-bf82c913640a",
+      "prefLabel": {
+        "de": "AB"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/595af2be-4ead-4dcc-839f-1428a8b52a6c",
+    "prefLabel": {
+      "de": "Gestalten"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

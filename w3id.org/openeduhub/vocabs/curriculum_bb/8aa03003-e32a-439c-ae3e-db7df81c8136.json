@@ -1,0 +1,113 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/8aa03003-e32a-439c-ae3e-db7df81c8136",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F8aa03003-e32a-439c-ae3e-db7df81c8136",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F8aa03003-e32a-439c-ae3e-db7df81c8136",
+  "prefLabel": {
+    "de": "EFG"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/8875f638-e249-46bc-9b2c-8d6d35d2b661",
+      "prefLabel": {
+        "de": "sprachliche Regeln erschließen und für das eigene Sprachhandeln bewusst nutzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/a359a3f8-1c3e-449f-bf4d-343cde8db543",
+      "prefLabel": {
+        "de": "in einer zunehmenden Vielfalt lebensweltbezogener Situationen die kulturelle Prägung von Sprachhandeln erkennen, reflektieren und beim eigenen Sprachgebrauch immer selbstständiger berücksichtigen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/a488fc5c-5dac-4f04-901b-736e10043655",
+      "prefLabel": {
+        "de": "die Bedeutung von Sprache für die Bildung von Identität reflektieren"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/e09df060-083d-470c-a5f3-6165b27755bf",
+    "prefLabel": {
+      "de": "Sprachbewusstheit"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

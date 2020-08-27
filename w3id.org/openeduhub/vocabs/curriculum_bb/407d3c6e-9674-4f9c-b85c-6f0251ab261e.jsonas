@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/407d3c6e-9674-4f9c-b85c-6f0251ab261e",
+  "type": "Service",
+  "name": "alle für die schulische Lektüre relevanten morphologischen Erscheinungen unmittelbar erschließen und beschreiben",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f637572726963756c756d5f62622f34303764336336652d393637342d346639632d623835632d366630323531616232363165",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F407d3c6e-9674-4f9c-b85c-6f0251ab261e",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F407d3c6e-9674-4f9c-b85c-6f0251ab261e",
+  "publicKey": {
+    "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/407d3c6e-9674-4f9c-b85c-6f0251ab261e#main-key",
+    "owner": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/407d3c6e-9674-4f9c-b85c-6f0251ab261e",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

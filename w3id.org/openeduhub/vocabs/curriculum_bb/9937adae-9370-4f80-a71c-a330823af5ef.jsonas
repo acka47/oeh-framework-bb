@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/9937adae-9370-4f80-a71c-a330823af5ef",
+  "type": "Service",
+  "name": "über ihre Person und ihr unmittelbares Lebensumfeld in einfachen kurzen Sätzen Auskunft geben, indem sie häufig geübte Sprachmuster reproduzieren",
+  "preferredUsername": "773369642e6f72672f6f70656e6564756875622f766f636162732f637572726963756c756d5f62622f39393337616461652d393337302d346638302d613731632d613333303832336166356566",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F9937adae-9370-4f80-a71c-a330823af5ef",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F9937adae-9370-4f80-a71c-a330823af5ef",
+  "publicKey": {
+    "id": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/9937adae-9370-4f80-a71c-a330823af5ef#main-key",
+    "owner": "https://test.skohub.iow3id.org/openeduhub/vocabs/curriculum_bb/9937adae-9370-4f80-a71c-a330823af5ef",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

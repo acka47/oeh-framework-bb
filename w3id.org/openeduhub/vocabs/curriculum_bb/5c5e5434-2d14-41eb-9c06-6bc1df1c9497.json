@@ -1,0 +1,209 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/5c5e5434-2d14-41eb-9c06-6bc1df1c9497",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F5c5e5434-2d14-41eb-9c06-6bc1df1c9497",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F5c5e5434-2d14-41eb-9c06-6bc1df1c9497",
+  "prefLabel": {
+    "de": "Deutsch"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/034d008f-a60b-4e1a-9d59-37692f936781",
+      "prefLabel": {
+        "de": "Sprachwissen und Sprachbewusstheit entwickeln – Sprache nutzen und Sprachgebrauch untersuchen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/05dcfa9a-475b-422a-8422-3e898ddf0f48",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 5/6"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/075bc8c5-cb3d-428a-8dea-a3672f48d5fd",
+      "prefLabel": {
+        "de": "Mit Texten und Medien umgehen - Literarische Texte erschließen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/0c14a0ab-5075-4bae-a226-d1167ce2a0dc",
+      "prefLabel": {
+        "de": "Sprechen und Zuhören – Verstehend zuhören"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/2245dade-ed00-4e9a-a2e5-e4451dbe69ca",
+      "prefLabel": {
+        "de": "Sprachwissen und Sprachbewusstheit entwickeln – Sprachbewusst handeln"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/407c7648-370b-4cb7-9e2c-3a3744eaa42f",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 9/10"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/415ac46d-efc6-4584-99ba-debc7d4130f6",
+      "prefLabel": {
+        "de": "Schreiben - Schreibfertigkeiten nutzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/5f92d9d5-1b2f-4792-89e2-33f1f8bbac42",
+      "prefLabel": {
+        "de": "Mit Texten und Medien umgehen - Texte in anderer medialer Form erschließen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/618a1e59-eb81-4a7e-9734-c994bb067924",
+      "prefLabel": {
+        "de": "Mit Texten und Medien umgehen - Sach- und Gebrauchstexte (lineare und nichtlineare Texte) erschließen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/79794c88-c7b6-415c-864b-84573ce13021",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 1/2"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/7b69973d-6b15-4e9f-9a16-f960676dafc1",
+      "prefLabel": {
+        "de": "Sprechen und Zuhören - Mit anderen sprechen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/8c8b220f-b962-4feb-8461-0e5e3780f648",
+      "prefLabel": {
+        "de": "Sprechen und Zuhören - Zu anderen sprechen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/a88312f1-aab5-4257-b74d-593bd5834cf3",
+      "prefLabel": {
+        "de": "Wahlpflichtfach"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/ac7d1cdf-b78c-4d65-b886-203e07513a12",
+      "prefLabel": {
+        "de": "Schreiben - Richtig schreiben"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/b6975bfe-eebd-4785-9b64-788a9b904eac",
+      "prefLabel": {
+        "de": "Schreiben - Schreibstrategien nutzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/c9eac266-6767-4da6-8193-93385dfb446d",
+      "prefLabel": {
+        "de": "Lesen - Lesefertigkeiten nutzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/caa234f7-6735-4560-9b2a-24afdfcdd23e",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 3/4"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/de2bca64-c0d7-4ab9-a852-2b0a213f08dd",
+      "prefLabel": {
+        "de": "Lesend, schreibend und im Gespräch mit Texten und Medien umgehen 7/8"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/e49dc31e-09d2-470b-b957-948e80a6084b",
+      "prefLabel": {
+        "de": "Lesen - Lesestrategien nutzen – Textverständnis sichern"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/9d8165ee-99bc-49c7-be4c-d67f79590f7c",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

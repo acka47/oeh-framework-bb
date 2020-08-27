@@ -1,0 +1,197 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/cd4774bb-f7ca-46cf-9837-6c24d3fbe534",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fcd4774bb-f7ca-46cf-9837-6c24d3fbe534",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fcd4774bb-f7ca-46cf-9837-6c24d3fbe534",
+  "prefLabel": {
+    "de": "Chemie"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/01befcf4-378a-44e0-8e3b-74a1b7153869",
+      "prefLabel": {
+        "de": "Das Periodensystem der Elemente"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/0298fb70-ec79-48be-89c7-95ab3963e132",
+      "prefLabel": {
+        "de": "Metalle"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/0d47cbf2-c5ee-412d-ac33-82339d24dded",
+      "prefLabel": {
+        "de": "Organische Säuren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/26e4d362-8428-42b0-8387-e6c697052640",
+      "prefLabel": {
+        "de": "Wasser"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/355bdfb3-cc3a-4de6-8616-bb390c51ba79",
+      "prefLabel": {
+        "de": "Gase"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/368eee98-1334-497f-801e-688e8f8dff45",
+      "prefLabel": {
+        "de": "Mit Fachwissen umgehen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/36fb8f38-60e7-42ce-8de5-c3c8d68c2430",
+      "prefLabel": {
+        "de": "Alkohole"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/3ad2e2b2-1417-46ee-904d-7f141d3006b0",
+      "prefLabel": {
+        "de": "Faszination Chemie"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/491922c6-dd85-4a16-bf90-fab7cb14e494",
+      "prefLabel": {
+        "de": "Erkenntnisse gewinnen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/4982690b-b1f5-48df-9c99-b1946c866e13",
+      "prefLabel": {
+        "de": "Säuren und Laugen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/4ea4864f-a48b-4a6c-a6ae-23fa6c39f097",
+      "prefLabel": {
+        "de": "Salze"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/54da53e1-5d38-4148-bbc1-84472eeba72e",
+      "prefLabel": {
+        "de": "Kommunizieren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/5b32a1e2-bd62-40b2-9894-2e851a0069af",
+      "prefLabel": {
+        "de": "Bewerten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/6748ad59-3ba1-4f0b-89a0-05d391e61cf0",
+      "prefLabel": {
+        "de": "Wahlpflichtfach"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/730e83e6-a6a4-4268-9c16-1611a551b4cd",
+      "prefLabel": {
+        "de": "Kohlenwasserstoffe"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/d6e72ec5-f72c-41f3-a18c-639db0df966c",
+      "prefLabel": {
+        "de": "Ester"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/e678ae0c-14d8-4f70-b145-03010a144717",
+      "prefLabel": {
+        "de": "Klare Verhältnisse"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/9d8165ee-99bc-49c7-be4c-d67f79590f7c",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/ec8fe6ca-adf4-4672-8bb7-f2f7367474c1",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fec8fe6ca-adf4-4672-8bb7-f2f7367474c1",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fec8fe6ca-adf4-4672-8bb7-f2f7367474c1",
+  "prefLabel": {
+    "de": "Menschsein – existenzielle Erfahrung"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/0f5b25a3-5a4e-4311-8a2c-506f92ec8a32",
+      "prefLabel": {
+        "de": "Gefühle und Erfahrungen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/1e8325f8-dbe1-4f76-a2cb-b224bb00043d",
+      "prefLabel": {
+        "de": "Erfahrungen machen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/5791cc0d-84f4-4b48-9e89-0b48b88605a4",
+      "prefLabel": {
+        "de": "Das Leben gestalten – am Leben scheitern"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/8eb1fb04-b459-4ede-99aa-92d9bc86099c",
+      "prefLabel": {
+        "de": "Subjektive und objektive Wahrheiten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/c99c3420-5674-4822-ad3d-3e157d6478b7",
+      "prefLabel": {
+        "de": "Existenzielle Erfahrungen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/f5412b97-f34e-4537-bd48-497f1248ad38",
+      "prefLabel": {
+        "de": "Dem Leben Sinn geben"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/2109fe7c-8d5b-482c-8ae7-3e42d4f37142",
+    "prefLabel": {
+      "de": "Lebensgestaltung-Ethik-Religionskunde"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

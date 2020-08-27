@@ -1,0 +1,149 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/f0946d40-e537-488d-be52-bcf551d7bab9",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Ff0946d40-e537-488d-be52-bcf551d7bab9",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Ff0946d40-e537-488d-be52-bcf551d7bab9",
+  "prefLabel": {
+    "de": "Japanisch"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/41af53aa-d352-4eab-a04c-6f6b3148893f",
+      "prefLabel": {
+        "de": "Gesellschaft und öffentliches Leben"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/51823607-25d7-4ac4-809f-39f58c635567",
+      "prefLabel": {
+        "de": "Text- und Medienkompetenz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/57dec34c-5da7-4a87-8cdb-6639a4f2952e",
+      "prefLabel": {
+        "de": "Funktionale kommunikative Kompetenz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/62ce884b-ec6d-4fd1-a504-6a6de3e0c715",
+      "prefLabel": {
+        "de": "Sprachbewusstheit"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/88e29007-e1dd-4d40-95eb-3aead4307f53",
+      "prefLabel": {
+        "de": "Sprachlernkompetenz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/99d9f828-3270-4c90-9647-588409444026",
+      "prefLabel": {
+        "de": "Interkulturelle kommunikative Kompetenz"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/addc20d6-248d-43a3-a1ff-cecb772895ec",
+      "prefLabel": {
+        "de": "Individuum und Lebenswelt"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/b2b18ff0-235b-4f1c-a120-2ef876d40c4d",
+      "prefLabel": {
+        "de": "Natur und Umwelt"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/b60d7050-1020-46a8-919e-58eb894c5213",
+      "prefLabel": {
+        "de": "Kultur und historischer Hintergrund"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/9d8165ee-99bc-49c7-be4c-d67f79590f7c",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

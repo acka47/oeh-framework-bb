@@ -1,0 +1,137 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/a2a71022-da26-40ff-881c-84d498ed5ae7",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fa2a71022-da26-40ff-881c-84d498ed5ae7",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2Fa2a71022-da26-40ff-881c-84d498ed5ae7",
+  "prefLabel": {
+    "de": "Wahrnehmen und deuten"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/3a158065-6646-40fe-b048-c233cf3e776b",
+      "prefLabel": {
+        "de": "Gefühle und Empfindungen reflektieren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/43b2a9c0-d820-4584-ae71-d7ba54b5df7f",
+      "prefLabel": {
+        "de": "Texte erschließen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/5bff4c64-9909-43b2-854b-8bbe250e1185",
+      "prefLabel": {
+        "de": "Mediale Darstellungen deuten"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/79b1d704-4b2f-4fa7-abc7-e87999427063",
+      "prefLabel": {
+        "de": "Begriffe klären und verwenden"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/b4622f39-1b24-4e7e-b6ea-aae7e5ab551a",
+      "prefLabel": {
+        "de": "Ethische Problemfragen entwickeln"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/cca0f233-98c9-4511-91ad-3b4c87548fa7",
+      "prefLabel": {
+        "de": "Wertvorstellungen reflektieren"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/f0d39827-eff4-4810-b80e-70eaaac20f57",
+      "prefLabel": {
+        "de": "Vereinbarungen kennen, anwenden und problematisieren"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/15dd2022-bb79-4d4e-945b-23f92ac4630c",
+    "prefLabel": {
+      "de": "Ethik"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

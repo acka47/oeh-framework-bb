@@ -1,0 +1,125 @@
+{
+  "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/933b7975-78a7-4b39-a79e-b8e8194be024",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F933b7975-78a7-4b39-a79e-b8e8194be024",
+  "inbox": "https://test.skohub.io/inbox?target=w3id.org%2Fopeneduhub%2Fvocabs%2Fcurriculum_bb%2F933b7975-78a7-4b39-a79e-b8e8194be024",
+  "prefLabel": {
+    "de": "EFG"
+  },
+  "narrower": [
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/0a12a273-d32c-4ba3-99b5-c346c8aadb64",
+      "prefLabel": {
+        "de": "Präsentationsformen zunehmend selbstständig und funktional in Bezug auf einfache Inhalte anwenden"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/2897ae09-fb17-48f6-80e4-267e3dbe7dbf",
+      "prefLabel": {
+        "de": "digitale und analoge Medien weitgehend selbstständig zur Informations-beschaffung und Textproduktion nutzen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/39ec2db8-362a-42d6-8577-970412c572d1",
+      "prefLabel": {
+        "de": "mithilfe sprachlichen, inhaltlichen sowie textsortenspezifischen Wissens einfache, auf ihre Lebenswelt bezogene literarische Texte, Sachtexte, diskontinuierliche Texte und mediale Präsentationen aufgabenbezogen erschließen"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/4bbf6eff-b6c6-4c59-b1ba-5816dc3d5790",
+      "prefLabel": {
+        "de": "Kenntnisse über wesentliche Merkmale einer zunehmenden Anzahl verbreiteter Textsorten bei der eigenen Textproduktion anwenden"
+      }
+    },
+    {
+      "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/55bbcc2f-7d01-45b6-9747-34a1d8768a64",
+      "prefLabel": {
+        "de": "sich in kreativen Aufgaben mit den Perspektiven und Handlungsmustern von Personen, Charakteren und Figuren, die ihrer Lebenswelt nahe stehen, auseinandersetzen und ggf. einen Perspektivwechsel vollziehen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/9b8fb392-1479-404b-a1b0-f597ea90a303",
+    "prefLabel": {
+      "de": "Text- und Medienkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://w3id.org/openeduhub/vocabs/curriculum_bb/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}
