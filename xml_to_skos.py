@@ -104,9 +104,9 @@ def buildSkos(nodes):
     name_of_graph = "curriculum_bb"
     description_of_vocab = "Darstellung des Lehrplans von BB als kontrolliertes Vokabular"
 
-    OEH = Namespace("http://w3id.org/openeduhub/vocabs/" + name_of_graph + "/")
+    OCBB = Namespace("http://opencurricula/berlin-brandenburg/")
 
-    base = URIRef(OEH)
+    base = URIRef(OCBB)
 
     title = Literal(name_of_graph, lang="de")
     description = Literal(description_of_vocab, lang="de")
@@ -146,9 +146,10 @@ def buildSkos(nodes):
     # Bind a few prefix, namespace pairs for more readable output
     g.bind("dct", DCTERMS)
     g.bind("skos", SKOS)
+    g.bind("ocbb", OCBB)
 
-    output = g.serialize(format='turtle', base=base).decode("utf-8")
-    print("Graph built.")
+    output = g.serialize(format='turtle').decode("utf-8")
+    print(f"Graph built. Length of graph: {len(g)}")
 
     return output
 
