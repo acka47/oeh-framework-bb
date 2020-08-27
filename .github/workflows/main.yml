@@ -25,7 +25,7 @@ jobs:
       - run: git clone https://github.com/sroertgen/oeh-framework-bb.git data/
 
       - name: build public dir with docker image
-        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data laocoon667/openeduhub-skohub-vocabs:docker
+        run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data laocoon667/skohubvocabs:oeh-framework-bb
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
