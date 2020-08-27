@@ -22,7 +22,7 @@ jobs:
 
       - run: mkdir data
 
-      - run: git clone https://github.com/openeduhub/oeh-framework-bb.git data/
+      - run: git clone https://github.com/sroertgen/oeh-framework-bb.git data/
 
       - name: build public dir with docker image
         run: docker run -v $(pwd)/public:/app/public -v $(pwd)/data:/app/data laocoon667/openeduhub-skohub-vocabs:docker
