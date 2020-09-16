@@ -100,12 +100,13 @@ def addToNode(data):
 
 
 def buildSkos(nodes):
+    print("converting data to graph...")
     g = Graph()
     name_of_graph = "curriculum_bb"
     description_of_vocab = "Darstellung des Lehrplans von BB als kontrolliertes Vokabular"
 
     OCBB = Namespace("http://opencurricula/berlin-brandenburg/")
-
+    OEH = Namespace("http://w3id.org/openeduhub/learning-resource-terms/")
     base = URIRef(OCBB)
 
     title = Literal(name_of_graph, lang="de")
@@ -119,12 +120,22 @@ def buildSkos(nodes):
 
     def add_items(nodes):
         for item in nodes.children:
+            if re.search("^[A-H]+$", item.prefLabel) != None:
+                niveaus = list(item.prefLabel)
+            else:
+                niveaus = []
+
             node = base + URIRef(item.internal_identifier)
 
             g.add((node, RDF.type, SKOS.Concept))
 
             prefLabelLiteral = Literal(item.prefLabel, lang="de")
             g.add( (node, SKOS.prefLabel, prefLabelLiteral) )
+
+            # add oeh:educationalNiveau
+            for niveau in niveaus:
+                niveauLiteral = Literal(niveau, lang="de")
+                g.add( (node, OEH.educationalNiveau, niveauLiteral) )
 
             # add inScheme
             g.add((node, SKOS.inScheme, base))
@@ -147,6 +158,7 @@ def buildSkos(nodes):
     g.bind("dct", DCTERMS)
     g.bind("skos", SKOS)
     g.bind("ocbb", OCBB)
+    g.bind("oeh", OEH)
 
     output = g.serialize(format='turtle').decode("utf-8")
     print(f"Graph built. Length of graph: {len(g)}")
