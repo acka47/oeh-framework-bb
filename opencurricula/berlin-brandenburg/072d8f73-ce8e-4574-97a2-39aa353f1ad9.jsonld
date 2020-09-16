@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/072d8f73-ce8e-4574-97a2-39aa353f1ad9",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F072d8f73-ce8e-4574-97a2-39aa353f1ad9",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F072d8f73-ce8e-4574-97a2-39aa353f1ad9",
+  "prefLabel": {
+    "de": "Eine eigene Position darstellen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/859afa43-2957-47e6-aa7e-dd99231a38ab",
+      "prefLabel": {
+        "de": "H"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bb0ebeda-293d-4a1d-a3d5-3cb44e49ae52",
+      "prefLabel": {
+        "de": "G"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e229a35b-088b-47b6-a386-da7ceff4dbfc",
+      "prefLabel": {
+        "de": "EF"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a02c778f-a23f-4204-a617-61f0bc2a15f9",
+    "prefLabel": {
+      "de": "Einen Diskurs gestalten"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

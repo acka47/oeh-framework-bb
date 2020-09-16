@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/d0bbaf3b-2411-4d7c-9975-a8f3a451782b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd0bbaf3b-2411-4d7c-9975-a8f3a451782b",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd0bbaf3b-2411-4d7c-9975-a8f3a451782b",
+  "prefLabel": {
+    "de": "DEF"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a770e2f9-814f-48a6-9adf-a6f4a10b49a9",
+      "prefLabel": {
+        "de": "informierende Texte (z. B. Bericht, Protokoll) zu geografischen Sachverhalten unter Nutzung von geeigneten Textmustern und -bausteinen in ihren Zusammenhängen geordnet schreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c7e353ca-a569-44ba-8314-08da96945ba1",
+      "prefLabel": {
+        "de": "geografisch relevante alltags- und fachsprachliche Formulierungen unterscheiden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/da7301d8-8fcd-413a-82e2-0f670656257d",
+      "prefLabel": {
+        "de": "einfache geografische Sachverhalte in ihren Zusammenhängen geordnet verbalisieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f1c1d65a-a5d1-47c7-a677-c179345be9d5",
+      "prefLabel": {
+        "de": "Fachsprache sachgerecht in mündlichen und schriftlichen Darbietungen anwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/abd12ccc-d428-4fef-a5d7-294f8e3b3cec",
+    "prefLabel": {
+      "de": "Geografische Sachverhalte mündlich und schriftlich darstellen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

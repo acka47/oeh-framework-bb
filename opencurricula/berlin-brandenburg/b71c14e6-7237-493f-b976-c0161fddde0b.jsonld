@@ -1,0 +1,131 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/b71c14e6-7237-493f-b976-c0161fddde0b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fb71c14e6-7237-493f-b976-c0161fddde0b",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fb71c14e6-7237-493f-b976-c0161fddde0b",
+  "prefLabel": {
+    "de": "Rechtschreibhilfen nutzen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/327f8229-58ce-4caf-847f-d6821908f10a",
+      "prefLabel": {
+        "de": "E"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/59a001b6-9ff9-4349-ad43-57cba9e8bafb",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7ea1af84-5e6f-4eb3-9fe5-77d548ce24cc",
+      "prefLabel": {
+        "de": "B"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9ef98c0b-c07f-440e-bc9c-3e2385c5196f",
+      "prefLabel": {
+        "de": "FGH"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/dfd32f7a-764e-48ff-ad0d-88372a507b30",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/eb79ea3d-bf27-4524-a3b0-ca63aebcd04a",
+      "prefLabel": {
+        "de": "A"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/9e432315-c360-4689-b338-b7261f3a4cb4",
+    "prefLabel": {
+      "de": "Schreiben - Richtig schreiben"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/bd037cf4-fd89-4eba-84bb-117a56a7bad4",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbd037cf4-fd89-4eba-84bb-117a56a7bad4",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbd037cf4-fd89-4eba-84bb-117a56a7bad4",
+  "prefLabel": {
+    "de": "G"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/54518027-3836-48ab-90a3-03e79c4aadf5",
+      "prefLabel": {
+        "de": "authentischen Hör-/Hörsehtexten die Hauptaussage (global) und gezielt Einzelinformationen (selektiv) entnehmen, wenn über Themen mit Alltags- oder Lebensweltbezug deutlich und in Standardsprache gesprochen wird"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9eade53d-c16f-4c26-9161-cb365febb06a",
+      "prefLabel": {
+        "de": "[orientiert an B1/GeR]"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e6f45000-39ef-418d-b3de-70c08fb93669",
+      "prefLabel": {
+        "de": "aus einem Repertoire von Hörtechniken und Strategien zur Bedeutungserschließung selbstständig die passenden auswählen und anwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/6e0bccf8-99a0-4c81-9493-9f0f9e459e90",
+    "prefLabel": {
+      "de": "Hör-/Hörsehverstehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

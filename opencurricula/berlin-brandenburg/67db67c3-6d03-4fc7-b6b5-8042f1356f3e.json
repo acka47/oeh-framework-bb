@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/67db67c3-6d03-4fc7-b6b5-8042f1356f3e",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F67db67c3-6d03-4fc7-b6b5-8042f1356f3e",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F67db67c3-6d03-4fc7-b6b5-8042f1356f3e",
+  "prefLabel": {
+    "de": "Monologisches Sprechen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0a5aed70-0477-4889-8040-8baeb03461f2",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/14ff85ec-215f-4cb3-b0e0-11a12b0ecc92",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/44d48b5a-871e-40a9-abfe-6b7a9d18ea5c",
+      "prefLabel": {
+        "de": "B"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/484387d0-8d6c-420f-b6d3-c10aedede1e3",
+      "prefLabel": {
+        "de": "G"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6b992a98-7f0b-414d-97af-09013314e647",
+      "prefLabel": {
+        "de": "E"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/cbca2575-1563-446f-85ac-7912ec8d6423",
+      "prefLabel": {
+        "de": "A"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d8ebb8ad-f6e4-4339-a611-48342e3b51de",
+      "prefLabel": {
+        "de": "F"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f79a7264-e22e-4700-a4b8-32f2e0126f82",
+      "prefLabel": {
+        "de": "H"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/fb0e90f5-3270-476e-b7aa-0350d5025741",
+    "prefLabel": {
+      "de": "Sprechen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/69e90ee9-3fb4-4dcb-a8c3-3e169b7b7482",
+  "type": "Service",
+  "name": "Hebel",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f36396539306565392d336662342d346463622d613863332d336531363962376237343832",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F69e90ee9-3fb4-4dcb-a8c3-3e169b7b7482",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F69e90ee9-3fb4-4dcb-a8c3-3e169b7b7482",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/69e90ee9-3fb4-4dcb-a8c3-3e169b7b7482#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/69e90ee9-3fb4-4dcb-a8c3-3e169b7b7482",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

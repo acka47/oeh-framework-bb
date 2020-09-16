@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/90a5a19a-b3ad-490d-ae0c-ffbc1a8537e0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F90a5a19a-b3ad-490d-ae0c-ffbc1a8537e0",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F90a5a19a-b3ad-490d-ae0c-ffbc1a8537e0",
+  "prefLabel": {
+    "de": "Hör-/Hörsehverstehen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1e848768-c2b2-43b9-b6fc-924ece668026",
+      "prefLabel": {
+        "de": "G"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/23dece9b-4cc2-4595-bc8c-9143e7afe51d",
+      "prefLabel": {
+        "de": "F"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ab597158-32a2-4dbb-9a9f-f4f7c4775e81",
+      "prefLabel": {
+        "de": "B"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ac13b9b9-c459-4b48-a2da-9e9999e9d31a",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/afc3069c-36c1-4da1-adde-321badea18ef",
+      "prefLabel": {
+        "de": "E"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bc7f8676-eb51-409b-a48e-1a21db7d5fce",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bf002fa6-12ce-4a41-88af-ee3545555109",
+      "prefLabel": {
+        "de": "A"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d55b5522-5f7d-469e-88e9-93ffab38a009",
+      "prefLabel": {
+        "de": "H"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/52866720-c166-497f-9970-c406c51bb8b7",
+    "prefLabel": {
+      "de": "Hör-/Hörsehverstehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

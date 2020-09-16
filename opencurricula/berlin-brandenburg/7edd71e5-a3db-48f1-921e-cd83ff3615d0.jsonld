@@ -1,0 +1,125 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/7edd71e5-a3db-48f1-921e-cd83ff3615d0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F7edd71e5-a3db-48f1-921e-cd83ff3615d0",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F7edd71e5-a3db-48f1-921e-cd83ff3615d0",
+  "prefLabel": {
+    "de": "Informationen aus  grafischen Darstellungen entnehmen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0d440cb6-2c4e-4db5-bcb9-9a1e702d9d44",
+      "prefLabel": {
+        "de": "F"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4a117aad-cf6f-46db-9dd7-edfb12ca5977",
+      "prefLabel": {
+        "de": "G"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/64d92ba0-c443-433a-94f7-c456964db334",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/92aa38b1-985e-472d-ac14-3340f9ad67b2",
+      "prefLabel": {
+        "de": "E"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e03a30a2-ad73-48e4-b1d0-9e6332ee1fe8",
+      "prefLabel": {
+        "de": "H"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a65993ce-8397-48ac-84c7-8bf823a8d099",
+    "prefLabel": {
+      "de": "Informationen erschließen – Textrezeption (mündlich und schriftlich)"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

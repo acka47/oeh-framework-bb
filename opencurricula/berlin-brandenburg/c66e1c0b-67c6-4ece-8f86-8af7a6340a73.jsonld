@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/c66e1c0b-67c6-4ece-8f86-8af7a6340a73",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fc66e1c0b-67c6-4ece-8f86-8af7a6340a73",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fc66e1c0b-67c6-4ece-8f86-8af7a6340a73",
+  "prefLabel": {
+    "de": "D"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/14dd7443-1aa8-4e43-83bc-294a4932f124",
+      "prefLabel": {
+        "de": "die Medienlandschaft aus ihrer Lebenswelt heraus in Grundzügen beschreiben "
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/206b5243-cf8a-4f23-80f2-c06183ca2596",
+      "prefLabel": {
+        "de": "ihnen bekannte Kommunikationsdienstleister beschreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6b34f301-df4f-4a03-99ba-560b977fa21e",
+      "prefLabel": {
+        "de": "ausgewählte Aspekte des Urheber- und Persönlichkeitsrechts sowie des Datenschutzes bei der medialen Kommunikation beschreiben und beachten "
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/762abf6a-dd09-4c24-b5eb-c75fac0166d2",
+    "prefLabel": {
+      "de": "Kommunikationsbedingungen in der Mediengesellschaft"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

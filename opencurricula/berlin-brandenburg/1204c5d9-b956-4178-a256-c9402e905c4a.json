@@ -1,0 +1,185 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/1204c5d9-b956-4178-a256-c9402e905c4a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F1204c5d9-b956-4178-a256-c9402e905c4a",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F1204c5d9-b956-4178-a256-c9402e905c4a",
+  "prefLabel": {
+    "de": "Kondensate zum Essen und Verpacken"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/01a03360-ecf3-4c2f-9d6f-2e83a9f59431",
+      "prefLabel": {
+        "de": "Kohlenhydrate - Aufbau und Eigenschaften:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/04691acd-ff8e-4538-a187-3e72711809f2",
+      "prefLabel": {
+        "de": "Lipide - Natur:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1a39a33c-4944-4c34-9994-6887eb717bf7",
+      "prefLabel": {
+        "de": "Kunststoffe - Gesundheit:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3b7362e6-2eab-4044-b58b-c98a6c4eb103",
+      "prefLabel": {
+        "de": "Kunststoffe - Industrie/Alltag:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3c3cddba-c94d-4523-8a66-a8721af3d7d9",
+      "prefLabel": {
+        "de": "Proteine - Aufbau und Eigenschaften:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3e99f0fe-86e5-4624-98e3-9788b9215ca5",
+      "prefLabel": {
+        "de": "Lipide - Industrie/Alltag:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/426a0ea9-de0a-4765-b5c1-c802aab2d1c7",
+      "prefLabel": {
+        "de": "Kohlenhydrate - Industrie/Alltag:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/49ffec27-2ca4-4447-b20f-ce4c163ae177",
+      "prefLabel": {
+        "de": "Kohlenhydrate - Natur:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4f62668a-7951-40a7-b8d1-45c694371122",
+      "prefLabel": {
+        "de": "Kunststoffe - Aufbau und Eigenschaften:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/618682cd-d9d9-444b-957d-537d88a23831",
+      "prefLabel": {
+        "de": "Lipide - Gesundheit:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/61c3bda7-0dc4-42e1-9b44-684160722f7f",
+      "prefLabel": {
+        "de": "Lipide - Aufbau und Eigenschaften:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/71fa279e-a35b-413c-b424-7b0379bd7508",
+      "prefLabel": {
+        "de": "Proteine - Industrie/Alltag:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/73bd78ea-b97a-40b6-aa7f-a99083f27e31",
+      "prefLabel": {
+        "de": "Kohlenhydrate - Gesundheit:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a9aab6e3-23b1-4c17-b571-2d92ede5150c",
+      "prefLabel": {
+        "de": "Proteine - Natur:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bc74f4a3-674e-4a78-bfae-e616582f5f5c",
+      "prefLabel": {
+        "de": "Proteine - Gesundheit:"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ecee8006-184a-485b-8edb-5e35ab6d9609",
+    "prefLabel": {
+      "de": "Naturwissenschaften 7 – 10"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

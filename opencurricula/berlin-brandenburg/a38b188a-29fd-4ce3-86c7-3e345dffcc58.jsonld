@@ -1,0 +1,125 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/a38b188a-29fd-4ce3-86c7-3e345dffcc58",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa38b188a-29fd-4ce3-86c7-3e345dffcc58",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa38b188a-29fd-4ce3-86c7-3e345dffcc58",
+  "prefLabel": {
+    "de": "Was ist der Mensch? – Mensch und Gemeinschaft"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1e13b840-89a7-420a-abfe-e6431403d34d",
+      "prefLabel": {
+        "de": "Mensch und Moral"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/760d00cf-8e29-4380-9a6c-00bc216172ae",
+      "prefLabel": {
+        "de": "Mensch und Fortschritt"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/773d9b41-ea96-44a8-b154-53921560edc2",
+      "prefLabel": {
+        "de": "C-Eth-3-4-1-1"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b009dedc-c9a3-4691-847c-2abd003d2314",
+      "prefLabel": {
+        "de": "Toleranz und Konflikte"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c61fe968-bb33-49da-892c-4af6f29c7d5f",
+      "prefLabel": {
+        "de": "Feste und Rituale"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/95b7f73e-0410-4d1f-a28e-d0c5331473bd",
+    "prefLabel": {
+      "de": "Ethik"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

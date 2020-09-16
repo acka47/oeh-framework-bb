@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/68c9d230-ab60-417c-8ad1-61df76e02b90",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F68c9d230-ab60-417c-8ad1-61df76e02b90",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F68c9d230-ab60-417c-8ad1-61df76e02b90",
+  "prefLabel": {
+    "de": "Elemente der Mathematik anwenden"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/39a45211-30a0-477d-bf96-0a8e7d99e98e",
+      "prefLabel": {
+        "de": "Messwerte erfassen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/81efe0a3-8a65-4c55-9874-20e9f08f8ff0",
+      "prefLabel": {
+        "de": "Mathematische Verfahren anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9a155924-5683-450b-be57-7f98af4e4c45",
+      "prefLabel": {
+        "de": "Mit naturwissenschaftlichen Größen umgehen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/049e5cbe-d9f6-4c77-b287-2e6c0ef38678",
+    "prefLabel": {
+      "de": "Erkenntnisse gewinnen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

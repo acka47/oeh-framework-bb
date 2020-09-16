@@ -1,0 +1,137 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/c5bb8ee0-244d-41af-9d38-e8127b748117",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fc5bb8ee0-244d-41af-9d38-e8127b748117",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fc5bb8ee0-244d-41af-9d38-e8127b748117",
+  "prefLabel": {
+    "de": "Zeitliche Abfolgen und grammatische Tempora untersuchen und anwenden"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0607a315-22f6-4e98-9829-218d66d47f0e",
+      "prefLabel": {
+        "de": "A"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/14c38d86-e271-4af8-8cb9-d4a498c5cabc",
+      "prefLabel": {
+        "de": "F"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1f1d3479-d7f4-4537-893c-0bf686d42ded",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2d0abf7d-2c09-42eb-874f-061f1e2a1b65",
+      "prefLabel": {
+        "de": "GH"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a7631bde-02f1-4c62-b54d-403154ab1175",
+      "prefLabel": {
+        "de": "E"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bb6253c8-b15c-4249-8106-905b8a42c3fa",
+      "prefLabel": {
+        "de": "B"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/be764882-5246-4de6-9080-5d905742b6fa",
+      "prefLabel": {
+        "de": "D"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/87efb682-b2f2-41ff-a8ca-7774ad5b7ffc",
+    "prefLabel": {
+      "de": "Sprachwissen und Sprachbewusstheit entwickeln – Sprache nutzen und Sprachgebrauch untersuchen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

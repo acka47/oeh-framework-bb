@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/db5f8e98-f5e7-4bfc-9eaf-46d3b73769f2",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fdb5f8e98-f5e7-4bfc-9eaf-46d3b73769f2",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fdb5f8e98-f5e7-4bfc-9eaf-46d3b73769f2",
+  "prefLabel": {
+    "de": "CD"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/22769a10-c8ba-49fc-9064-c385ac031a90",
+      "prefLabel": {
+        "de": "ihre Vorkenntnisse und Erfahrungen zu Texten nutzen, um angeleitet Rückschlüsse über Inhalt und Funktion von fremdsprachigen Texten zu ziehen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/430ed07c-fa0e-4df2-9c95-1fc20e9b7ce5",
+      "prefLabel": {
+        "de": "einfache vertraute Textsorten benennen und mit Hilfe von Vorlagen produzieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9b4f7987-ce17-440a-9c6b-daec0d8152ce",
+      "prefLabel": {
+        "de": "bekannte digitale und analoge Medien zur Informationsbeschaffung und Textproduktion unter Anleitung nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e54b6d81-c121-46ad-a504-a6edb4f84688",
+      "prefLabel": {
+        "de": "einfache Präsentationsformen unter Anleitung verwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/dd771697-4106-4e24-adb9-27f42ac22e4e",
+    "prefLabel": {
+      "de": "Text- und Medienkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

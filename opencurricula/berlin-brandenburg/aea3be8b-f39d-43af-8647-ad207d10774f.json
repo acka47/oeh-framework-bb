@@ -1,0 +1,155 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/aea3be8b-f39d-43af-8647-ad207d10774f",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Faea3be8b-f39d-43af-8647-ad207d10774f",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Faea3be8b-f39d-43af-8647-ad207d10774f",
+  "prefLabel": {
+    "de": "Mensch – Bewegung – Gesundheit"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/20e5e691-bad6-4041-b179-82c363888b1c",
+      "prefLabel": {
+        "de": "Was leistet der Mensch?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5b07237f-66cf-46e8-90d9-e014fb20258e",
+      "prefLabel": {
+        "de": "Gesundheit und Krankheit"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/69e90ee9-3fb4-4dcb-a8c3-3e169b7b7482",
+      "prefLabel": {
+        "de": "Hebel"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/734444ee-227f-4e6c-8f90-8ccbe966d606",
+      "prefLabel": {
+        "de": "Sport und Ernährung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7ba020c3-8883-4c36-bc2d-ac1e539bce3e",
+      "prefLabel": {
+        "de": "Wege der Nahrung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7dc680f4-3531-4002-a3f8-a16be9124165",
+      "prefLabel": {
+        "de": "Karate"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b11f5122-381e-4adb-b23e-d4fb3986d330",
+      "prefLabel": {
+        "de": "Der Mensch wird mit Energie versorgt"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bcc8882a-d498-4b0e-b795-e0aa054f01fa",
+      "prefLabel": {
+        "de": "Gewichtheben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e255c3a8-f7b2-4e80-9620-193653cfc0c3",
+      "prefLabel": {
+        "de": "Esskultur"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f7f6ae8b-e79e-4a95-b895-96c5ca54448e",
+      "prefLabel": {
+        "de": "Zusammensetzung von Nahrungsmitteln"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ecee8006-184a-485b-8edb-5e35ab6d9609",
+    "prefLabel": {
+      "de": "Naturwissenschaften 7 – 10"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

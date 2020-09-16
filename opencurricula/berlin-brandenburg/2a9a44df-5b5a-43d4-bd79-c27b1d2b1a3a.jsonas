@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2a9a44df-5b5a-43d4-bd79-c27b1d2b1a3a",
+  "type": "Service",
+  "name": "elementare kulturspezifische Sprach- und Verhaltensmuster unter Anleitung erkennen und in Alltagssituationen zunehmend angemessen agieren",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32613961343464662d356235612d343364342d626437392d633237623164326231613361",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F2a9a44df-5b5a-43d4-bd79-c27b1d2b1a3a",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F2a9a44df-5b5a-43d4-bd79-c27b1d2b1a3a",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2a9a44df-5b5a-43d4-bd79-c27b1d2b1a3a#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/2a9a44df-5b5a-43d4-bd79-c27b1d2b1a3a",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

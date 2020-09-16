@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/164d2554-5e38-4ae3-a8f8-f423fb295a34",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F164d2554-5e38-4ae3-a8f8-f423fb295a34",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F164d2554-5e38-4ae3-a8f8-f423fb295a34",
+  "prefLabel": {
+    "de": "D"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/14106788-b4ac-4618-9c5d-33bc74a5c751",
+      "prefLabel": {
+        "de": "einfache Fragen und Feststellungen formulieren und auf solche reagieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/50fa3739-b21a-4336-a183-0650e0ad6660",
+      "prefLabel": {
+        "de": "unter Verwendung geübter sprachlicher Mittel zu sehr vertrauten Alltagsthemen einen Dialog führen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ecfb7869-e822-4267-bc86-890202122f66",
+      "prefLabel": {
+        "de": "[orientiert an A1/GeR]"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/2cb7cf7c-aae0-4b35-847b-5ffa8b93b4f8",
+    "prefLabel": {
+      "de": "Dialogisches Sprechen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

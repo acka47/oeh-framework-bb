@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/bb32befa-1050-4f10-b795-216dd3904bf5",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbb32befa-1050-4f10-b795-216dd3904bf5",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbb32befa-1050-4f10-b795-216dd3904bf5",
+  "prefLabel": {
+    "de": "Merkmale von Sach- und Gebrauchstexten untersuchen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3f6bcd89-94ab-4d32-aed8-8b575b02658f",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/431357cc-79bf-4c18-b4ec-dc04caf90bf7",
+      "prefLabel": {
+        "de": "E"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/64b51ae3-97ec-48e0-a06d-dddef12de683",
+      "prefLabel": {
+        "de": "B"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/660a5418-6f19-43f3-b917-74042ae80574",
+      "prefLabel": {
+        "de": "G"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6f33f0e4-28bb-4e90-abae-736ce16c4d69",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9aff24bc-da70-4085-a79b-857d1100253a",
+      "prefLabel": {
+        "de": "A"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b090c06c-ecfb-4c77-a781-d52117249736",
+      "prefLabel": {
+        "de": "F"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/dabf3764-a350-4139-bcce-b8877c075c1f",
+      "prefLabel": {
+        "de": "H"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/9e0d64cb-f67d-4df7-804f-8a9ed91e70ec",
+    "prefLabel": {
+      "de": "Mit Texten und Medien umgehen - Sach- und Gebrauchstexte (lineare und nichtlineare Texte) erschließen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

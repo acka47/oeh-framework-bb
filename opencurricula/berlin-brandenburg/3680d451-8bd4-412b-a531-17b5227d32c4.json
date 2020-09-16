@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/3680d451-8bd4-412b-a531-17b5227d32c4",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F3680d451-8bd4-412b-a531-17b5227d32c4",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F3680d451-8bd4-412b-a531-17b5227d32c4",
+  "prefLabel": {
+    "de": "CD"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3fe155f9-3884-4eff-b4dc-06a60cefafac",
+      "prefLabel": {
+        "de": "Strategien des Sprachenlernens angeleitet nutzen (z. B. Verfahren zur Wortschatzaneignung, Anwendung von Hilfsmitteln und Nachschlagewerken)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/51468207-9349-423d-ba68-fe0c4ee23061",
+      "prefLabel": {
+        "de": "Strategien der Sprachproduktion und -rezeption aufgabenbezogen einsetzen (z. B. selektives Lesen, Kompensationsstrategien, Strategien zum Umgang mit Nichtverstehen)"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c336560a-e2e3-47a8-bb8c-b8664ee66d7d",
+      "prefLabel": {
+        "de": "eigene sprachliche Kompetenzen angeleitet überprüfen und Möglichkeiten für die individuelle Weiterarbeit nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ea810add-8462-424a-82da-9df0a6a3f716",
+      "prefLabel": {
+        "de": "Begegnungen mit der Fremdsprache für das eigene Sprachenlernen angeleitet nutzen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/036260c1-75f2-4f77-a33a-1f2cc1d031b0",
+    "prefLabel": {
+      "de": "Sprachlernkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

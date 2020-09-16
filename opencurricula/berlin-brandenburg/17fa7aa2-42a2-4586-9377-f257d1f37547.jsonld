@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/17fa7aa2-42a2-4586-9377-f257d1f37547",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F17fa7aa2-42a2-4586-9377-f257d1f37547",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F17fa7aa2-42a2-4586-9377-f257d1f37547",
+  "prefLabel": {
+    "de": "Fachsprache angemessen verwenden"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/766e56a2-23db-4060-8119-aba16e92f055",
+      "prefLabel": {
+        "de": "DE"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a42bbd56-7d08-4d67-9153-b62f078e2eb7",
+      "prefLabel": {
+        "de": "GH"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/eebc92bd-2f03-4a47-b99d-9e9a8f123671",
+      "prefLabel": {
+        "de": "F"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/9b077c1b-ce4c-4102-a1ed-cc61b419dc51",
+    "prefLabel": {
+      "de": "Kommunizieren und Kooperieren – Teamarbeit organisieren und koordinieren"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/074ed2e5-561f-4b5f-ba45-ca6e61419a6c",
+  "type": "Service",
+  "name": "Problemlagen, Entscheidungen und Kontroversen mit Hilfe von Kriterien und Kategorien (z. B. Gerechtigkeit, Kosten, Interessen, Nutzen etc.) beschreiben",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f30373465643265352d353631662d346235662d626134352d636136653631343139613663",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F074ed2e5-561f-4b5f-ba45-ca6e61419a6c",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F074ed2e5-561f-4b5f-ba45-ca6e61419a6c",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/074ed2e5-561f-4b5f-ba45-ca6e61419a6c#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/074ed2e5-561f-4b5f-ba45-ca6e61419a6c",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/c4e04b38-2a99-44f7-be2d-39569d71e2a0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fc4e04b38-2a99-44f7-be2d-39569d71e2a0",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fc4e04b38-2a99-44f7-be2d-39569d71e2a0",
+  "prefLabel": {
+    "de": "Analysieren"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9d3adf29-ad4d-4b8c-8ac8-bacb2a956bc8",
+      "prefLabel": {
+        "de": "Gestaltung, Aussage und Botschaft von Medienangeboten"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ad1d83b6-5011-4100-9974-c612cbda19a3",
+      "prefLabel": {
+        "de": "Orientierung im Medienangebot"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e402dae5-681b-4e45-977a-86acb935fb87",
+      "prefLabel": {
+        "de": "Bedeutung und Wirkung von Medienangeboten"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ae84447d-7e31-4827-b172-cf03513b01bf",
+    "prefLabel": {
+      "de": "Basiscurriculum Medienbildung"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

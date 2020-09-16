@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/5b0f7635-5897-4c23-9a42-b7712fd77f83",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F5b0f7635-5897-4c23-9a42-b7712fd77f83",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F5b0f7635-5897-4c23-9a42-b7712fd77f83",
+  "prefLabel": {
+    "de": "D"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/87a80543-5296-4300-92b7-24ace28584c0",
+      "prefLabel": {
+        "de": "[orientiert an A1/GeR]"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/89a07e5b-338a-4f62-9f23-7c9815e2b85e",
+      "prefLabel": {
+        "de": "angeleitet visuelle Elemente, den Kontext und Hörerwartungen zum Verstehen nutzen, sowie einfache Hörtechniken anwenden und bei Verständnisschwierigkeiten weiterhin folgen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/92fb0899-e9e2-4587-ae2a-422fbc5d2bff",
+      "prefLabel": {
+        "de": "einfachen – ggf. auch authentischen – Hör-/Hörsehtexten mit weitgehend bekannten sprachlichen Mitteln das Thema (global) und gezielt Einzelinformationen (selektiv) entnehmen, wenn langsam, deutlich und mit Pausen oder Wiederholungen in Standardsprache zu vertrauten Alltagsthemen gesprochen wird"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/7119b627-064d-49ab-9011-4ff1bc7835cd",
+    "prefLabel": {
+      "de": "Hör-/Hörsehverstehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

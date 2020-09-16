@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/1a73b54a-9d53-4ebc-8261-07e49cfcaaeb",
+  "type": "Service",
+  "name": "wesentliche Funktionen von Kasus, Tempora, Aspekten, Modi (einschließlich konditionaler Satzgefüge) und Genera verbi benennen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f31613733623534612d396435332d346562632d383236312d303765343963666361616562",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F1a73b54a-9d53-4ebc-8261-07e49cfcaaeb",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F1a73b54a-9d53-4ebc-8261-07e49cfcaaeb",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/1a73b54a-9d53-4ebc-8261-07e49cfcaaeb#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/1a73b54a-9d53-4ebc-8261-07e49cfcaaeb",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

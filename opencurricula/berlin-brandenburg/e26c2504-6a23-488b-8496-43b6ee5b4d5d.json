@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/e26c2504-6a23-488b-8496-43b6ee5b4d5d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe26c2504-6a23-488b-8496-43b6ee5b4d5d",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe26c2504-6a23-488b-8496-43b6ee5b4d5d",
+  "prefLabel": {
+    "de": "Hörweisen und Musikgeschmack"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/18debf95-a82d-4ee1-8077-e0d69007505a",
+      "prefLabel": {
+        "de": "Jahrgangsstufen 7 – 10:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/53df800f-d54a-4379-bc31-6a745c3408e3",
+      "prefLabel": {
+        "de": "Jahrgangsstufen 1 – 4:"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/dd9a8895-1e41-454b-8f7c-d14332f97181",
+      "prefLabel": {
+        "de": "Jahrgangsstufen 5 – 6:"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/4826fb37-753d-49cc-a7f0-fe4ea4d54ca9",
+    "prefLabel": {
+      "de": "Wirkung und Funktion"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

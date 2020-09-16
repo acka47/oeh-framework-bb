@@ -1,0 +1,131 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/8cc8c57e-79d0-46dc-a4ea-b6052f020795",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F8cc8c57e-79d0-46dc-a4ea-b6052f020795",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F8cc8c57e-79d0-46dc-a4ea-b6052f020795",
+  "prefLabel": {
+    "de": "Ästhetische Praktiken, Werkzeuge, Techniken und künstlerische Strategien anwenden"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/19da279b-b161-4db5-8920-83f041e8ccd7",
+      "prefLabel": {
+        "de": "C"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6e4fec66-6ed4-4c68-a192-e74b6526089a",
+      "prefLabel": {
+        "de": "H"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/94246e0a-7ce9-4c36-a738-1cdceda6261a",
+      "prefLabel": {
+        "de": "FG"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/972d01b4-2694-4569-9890-d92f3914e5a3",
+      "prefLabel": {
+        "de": "A"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c3b019d0-838c-42b0-ac6b-21da21753207",
+      "prefLabel": {
+        "de": "BC"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e0393b2a-d0f6-44e0-9f2b-4947ccfdf0bd",
+      "prefLabel": {
+        "de": "DE"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/3ee8b001-f119-4fd6-8a21-60355b7516e2",
+    "prefLabel": {
+      "de": "Gestalten"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

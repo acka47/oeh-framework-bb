@@ -1,0 +1,107 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/dd1f2099-1acb-401d-8f19-4bc3c856afb1",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fdd1f2099-1acb-401d-8f19-4bc3c856afb1",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fdd1f2099-1acb-401d-8f19-4bc3c856afb1",
+  "prefLabel": {
+    "de": "GH"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/06dbf3a2-7d81-4a88-a133-ca961ce6c3f1",
+      "prefLabel": {
+        "de": "informierende und argumentierende Texte zu komplexen geografischen Sachverhalten unter Nutzung geeigneter Textmuster und -bausteine in ihren Zusammenhängen geordnet schreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4ff1a229-e18b-4c6e-b13e-dd19edbeee10",
+      "prefLabel": {
+        "de": "geografische Sachverhalte anhand verschiedener Darstellungen (Text, Grafik, Diagramm) zielgerichtet zur Fragestellung, sachlogisch geordnet und unter der Verwendung der Fachsprache beschreiben"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/abd12ccc-d428-4fef-a5d7-294f8e3b3cec",
+    "prefLabel": {
+      "de": "Geografische Sachverhalte mündlich und schriftlich darstellen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

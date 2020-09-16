@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/005bff29-2afa-485b-86cf-b4922fa3a492",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F005bff29-2afa-485b-86cf-b4922fa3a492",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F005bff29-2afa-485b-86cf-b4922fa3a492",
+  "prefLabel": {
+    "de": "Armut und Reichtum 7/8 (Unterricht im gesellschaftswissenschaftlichen Fächerverbund)"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/218b19f1-d798-47ef-a0fb-645acb890a66",
+      "prefLabel": {
+        "de": "Teilhabechancen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bc3462a6-18c1-4072-bb7e-7efa0895d079",
+      "prefLabel": {
+        "de": "Soziale Ungleichheit"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fe0f0bc9-9b63-42e3-ad4f-f6dd2fcba0dc",
+      "prefLabel": {
+        "de": "Sozialstaat"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/940309f4-b040-4d5a-96e5-0b90bb7abf74",
+    "prefLabel": {
+      "de": "Politische Bildung"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

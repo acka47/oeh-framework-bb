@@ -1,0 +1,107 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/d54569bd-79d2-44d9-b313-161a7a3ec2ba",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd54569bd-79d2-44d9-b313-161a7a3ec2ba",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd54569bd-79d2-44d9-b313-161a7a3ec2ba",
+  "prefLabel": {
+    "de": "B"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3b93b293-537b-475b-8637-dc70285b9cca",
+      "prefLabel": {
+        "de": "mit geeigneten Redemitteln/Textbausteinen Fragen und Rückfragen stellen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5d655c97-fc8d-422a-9dcf-934e223d5f7a",
+      "prefLabel": {
+        "de": "Wörter des einfachen Grundwortschatzes (1/2) verwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/82c64d88-4ea2-418b-9924-aac4b1af9753",
+    "prefLabel": {
+      "de": "Wortschatz entwickeln und Redemittel/Textbausteine nutzen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/95ba6d11-6d95-4f87-b7fb-ee3591caaaf2",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F95ba6d11-6d95-4f87-b7fb-ee3591caaaf2",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F95ba6d11-6d95-4f87-b7fb-ee3591caaaf2",
+  "prefLabel": {
+    "de": "A"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/33779dea-54be-4a1d-8b49-d456e9158121",
+      "prefLabel": {
+        "de": "die Bedeutung von unbekannten Wörtern in vorgelesenen Texten erfragen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8a8f08d8-6af2-4a8d-bbd7-75f53a9ba1a5",
+      "prefLabel": {
+        "de": "einem vorgelesenen Text Bilder zuordnen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ce0bf3e6-1ef6-4f7d-be95-ff70453aa825",
+    "prefLabel": {
+      "de": "Während des Lesens"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

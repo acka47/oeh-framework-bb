@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/466f69e5-0bbb-4097-8245-344dcb38e6b0",
+  "type": "Service",
+  "name": "Begriffe, Sachverhalte, Gegenstände und Zusammenhänge in der Alltagssprache beschreiben und erläutern",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f34363666363965352d306262622d343039372d383234352d333434646362333865366230",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F466f69e5-0bbb-4097-8245-344dcb38e6b0",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F466f69e5-0bbb-4097-8245-344dcb38e6b0",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/466f69e5-0bbb-4097-8245-344dcb38e6b0#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/466f69e5-0bbb-4097-8245-344dcb38e6b0",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

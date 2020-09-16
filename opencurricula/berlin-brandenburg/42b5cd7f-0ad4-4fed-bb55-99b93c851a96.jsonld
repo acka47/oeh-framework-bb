@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/42b5cd7f-0ad4-4fed-bb55-99b93c851a96",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F42b5cd7f-0ad4-4fed-bb55-99b93c851a96",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F42b5cd7f-0ad4-4fed-bb55-99b93c851a96",
+  "prefLabel": {
+    "de": "D"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/30c842c1-84c7-4690-add7-79e5d45ce0f7",
+      "prefLabel": {
+        "de": "[orientiert an A1/GeR]"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/54563c26-e3f9-4538-a810-79e7a795eb7a",
+      "prefLabel": {
+        "de": "mit einfachen vertrauten sprachlichen Mitteln kurze, vorbereitete Texte zu Alltagsthemen verfassen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9b924203-16bf-4df7-bf8d-c9e509e82496",
+      "prefLabel": {
+        "de": "unter Anleitung Schreibprozesse durch das Sammeln von Ideen und Wortmaterial vorbereiten"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/527341f0-d16a-4e47-b82e-71b763dc0e69",
+    "prefLabel": {
+      "de": "Schreiben"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/8218bf51-fae4-40cb-9656-443ebc8e3097",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F8218bf51-fae4-40cb-9656-443ebc8e3097",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F8218bf51-fae4-40cb-9656-443ebc8e3097",
+  "prefLabel": {
+    "de": "B"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/23e2d645-b148-4811-b1d5-b0c9d5fe00b9",
+      "prefLabel": {
+        "de": "Unterschiede und Gemeinsamkeiten von Modell und Original benennen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4f5820c8-f742-4350-ba19-a90d4ed60b4d",
+      "prefLabel": {
+        "de": "fachbezogene Methoden zur Bearbeitung anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8478abbb-1edd-4cd8-8e23-6c0f15feb1d4",
+      "prefLabel": {
+        "de": "Beobachtungen, Erprobungen und Versuche durchführen "
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8f57f614-4eb3-47ed-98e2-6ad23ab9f85a",
+      "prefLabel": {
+        "de": "einen Sachverhalt (z. B. ein Objekt, eine Situation) auf Grundlage einer Fragestellung untersuchen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bc344751-2953-40df-be31-1f5383ddfd76",
+      "prefLabel": {
+        "de": "vorgegebene Medien (z. B. Sachtexte, Bilder, Karten, Skizzen) zur Informationsentnahme nutzen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/9e43001a-42f5-4812-bb1c-99307a64f753",
+    "prefLabel": {
+      "de": "Untersuchen, beobachten, sich informieren und dokumentieren"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

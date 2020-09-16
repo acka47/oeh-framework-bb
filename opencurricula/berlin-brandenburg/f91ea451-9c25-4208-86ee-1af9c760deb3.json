@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/f91ea451-9c25-4208-86ee-1af9c760deb3",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff91ea451-9c25-4208-86ee-1af9c760deb3",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff91ea451-9c25-4208-86ee-1af9c760deb3",
+  "prefLabel": {
+    "de": "ABCD"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/687f0b56-700a-406d-8592-e69f327b48df",
+      "prefLabel": {
+        "de": "landeskundliche Gegebenheiten der jeweiligen Zielsprachenländer wahrnehmen, diese mit ihrer eigenen Kultur vergleichen und sich exemplarisch soziokulturelles Wissen aneignen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/900c6d4d-5036-4e75-a68e-96542f07cc3c",
+      "prefLabel": {
+        "de": "Fremdem und Ungewohntem offen und interessiert begegnen, Unterschiede wahrnehmen sowie sich auf interkulturelle Begegnungssituationen einlassen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/98f367cc-4c01-484c-a6d4-2a530219e8a0",
+      "prefLabel": {
+        "de": "elementare kulturspezifische Sprach- und Verhaltensmuster unter Anleitung erkennen und in Alltagssituationen zunehmend angemessen agieren"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/499e82ec-2d9e-4264-9553-4e7103368676",
+    "prefLabel": {
+      "de": "Interkulturelle kommunikative Kompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

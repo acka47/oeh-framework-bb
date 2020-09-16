@@ -1,0 +1,107 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/dc6c52e3-1689-44da-8220-45f28ef77705",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fdc6c52e3-1689-44da-8220-45f28ef77705",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fdc6c52e3-1689-44da-8220-45f28ef77705",
+  "prefLabel": {
+    "de": "EF"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a7057055-d618-4f47-967d-fdd62e77268d",
+      "prefLabel": {
+        "de": "einfach zu entnehmende Informationen aus authentischen Texten zu vertrauten Alltagssituationen und -themen adressaten- und situationsangemessen sinngemäß in die jeweils andere Sprache übertragen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d3d6a65f-184d-406d-af2c-a56e42642fda",
+      "prefLabel": {
+        "de": "grundlegende Techniken der lexikalischen Umschreibung und syntaktischen Vereinfachung anwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/9d9a2d4b-f7f9-4e88-a307-304d9e936a1a",
+    "prefLabel": {
+      "de": "Sprachmittlung"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

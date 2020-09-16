@@ -1,0 +1,149 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ba57416f-2781-497c-8eae-2cfa937e82a0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fba57416f-2781-497c-8eae-2cfa937e82a0",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fba57416f-2781-497c-8eae-2cfa937e82a0",
+  "prefLabel": {
+    "de": "Chinesisch"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/018941ab-1d5e-480e-8df5-e8841aa137a1",
+      "prefLabel": {
+        "de": "Kultur und historischer Hintergrund"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/03372b52-adc1-4817-8042-0adb97f3c0e8",
+      "prefLabel": {
+        "de": "Text- und Medienkompetenz"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/07fbcc7c-92d3-4ded-b1fb-ffa335a59887",
+      "prefLabel": {
+        "de": "Sprachlernkompetenz"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/221c6c8f-e288-4e09-865a-26b508c2bed5",
+      "prefLabel": {
+        "de": "Interkulturelle kommunikative Kompetenz"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/38edd41b-7f2c-482d-9e3f-941caf1c72c4",
+      "prefLabel": {
+        "de": "Funktionale kommunikative Kompetenz"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/70686e0d-b77f-43eb-a90f-b273ffc27bc3",
+      "prefLabel": {
+        "de": "Natur und Umwelt"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7d3280cc-a54b-4afe-aa25-1d7667495006",
+      "prefLabel": {
+        "de": "Sprachbewusstheit"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7f2dd702-de8e-4424-9459-c9fab2debf76",
+      "prefLabel": {
+        "de": "Gesellschaft und öffentliches Leben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d7d71d04-ce83-4544-bc71-4ef8660adff8",
+      "prefLabel": {
+        "de": "Individuum und Lebenswelt"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/59019f52-ae6f-48ab-a7c2-e3bf7a7d6975",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

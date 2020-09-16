@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/d2a33587-6160-4e7d-a34e-be5b3c20a3a1",
+  "type": "Service",
+  "name": "mit einem Repertoire von Lesetechniken und Strategien routiniert, flexibel und zielorientiert umgehen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f64326133333538372d363136302d346537642d613334652d626535623363323061336131",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd2a33587-6160-4e7d-a34e-be5b3c20a3a1",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd2a33587-6160-4e7d-a34e-be5b3c20a3a1",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/d2a33587-6160-4e7d-a34e-be5b3c20a3a1#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/d2a33587-6160-4e7d-a34e-be5b3c20a3a1",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

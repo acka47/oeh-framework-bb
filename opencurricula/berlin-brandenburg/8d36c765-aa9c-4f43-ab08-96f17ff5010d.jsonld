@@ -1,0 +1,131 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/8d36c765-aa9c-4f43-ab08-96f17ff5010d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F8d36c765-aa9c-4f43-ab08-96f17ff5010d",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F8d36c765-aa9c-4f43-ab08-96f17ff5010d",
+  "prefLabel": {
+    "de": "Funktionale kommunikative Kompetenz"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1fdbad0a-d68c-47a0-b2b7-2876b5b1a14c",
+      "prefLabel": {
+        "de": "Sprechen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4809e89b-86ff-454b-8605-59a75647f7ed",
+      "prefLabel": {
+        "de": "Schreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5e7d6993-a9c7-4326-ae22-acc96358aafb",
+      "prefLabel": {
+        "de": "Leseverstehen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/73d9d29b-875c-4e1c-940b-c70d86613bd4",
+      "prefLabel": {
+        "de": "Hör-/Hörsehverstehen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8ed50870-a615-4130-8ad5-fbfdbfc14227",
+      "prefLabel": {
+        "de": "Sprachmittlung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a5d15373-6fb6-4140-b275-8d9e4f83dc56",
+      "prefLabel": {
+        "de": "Verfügen über sprachliche Mittel"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/9e6e9d4d-2eec-4b03-be96-ab3bb818c671",
+    "prefLabel": {
+      "de": "Hebräisch"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

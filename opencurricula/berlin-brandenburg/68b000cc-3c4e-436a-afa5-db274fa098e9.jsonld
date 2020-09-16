@@ -1,0 +1,125 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/68b000cc-3c4e-436a-afa5-db274fa098e9",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F68b000cc-3c4e-436a-afa5-db274fa098e9",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F68b000cc-3c4e-436a-afa5-db274fa098e9",
+  "prefLabel": {
+    "de": "Aufmerksam und ausdauernd zuhören"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3698b5a5-374e-42c2-8a51-20c4f02018d0",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/51876e59-f1a3-4684-9d1c-f0cc51c55840",
+      "prefLabel": {
+        "de": "EF"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/58e5257a-e771-401a-acbb-937decfa3838",
+      "prefLabel": {
+        "de": "AB"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d7025179-db23-4d37-9cc1-fdf0b4556d0c",
+      "prefLabel": {
+        "de": "GH"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e9e693c5-66b5-48e4-b081-1045aafb1d3b",
+      "prefLabel": {
+        "de": "C"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a6eca34f-9093-4d5f-ad1d-e09877ee11ee",
+    "prefLabel": {
+      "de": "Wahrnehmen und deuten"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

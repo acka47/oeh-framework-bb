@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/b5075738-3c75-4cd1-8e00-ba251f507f16",
+  "type": "Service",
+  "name": "mit Unterstützung grundlegende Rechercheformen, theatrale Gestaltungsmittel und Kompositionsmethoden für die Entwicklung einer Inszenierungsidee nutzen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f62353037353733382d336337352d346364312d386530302d626132353166353037663136",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fb5075738-3c75-4cd1-8e00-ba251f507f16",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fb5075738-3c75-4cd1-8e00-ba251f507f16",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/b5075738-3c75-4cd1-8e00-ba251f507f16#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/b5075738-3c75-4cd1-8e00-ba251f507f16",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

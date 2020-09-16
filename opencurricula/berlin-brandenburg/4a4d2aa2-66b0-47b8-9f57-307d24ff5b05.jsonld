@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/4a4d2aa2-66b0-47b8-9f57-307d24ff5b05",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F4a4d2aa2-66b0-47b8-9f57-307d24ff5b05",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F4a4d2aa2-66b0-47b8-9f57-307d24ff5b05",
+  "prefLabel": {
+    "de": "F"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/32deb6dc-9774-4a8f-bd1c-0da82f363613",
+      "prefLabel": {
+        "de": "tabellarische Übersichten zur Ermittlung von Formen anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4f071c3b-f161-4b39-8b5c-2f27507afbba",
+      "prefLabel": {
+        "de": "flektierte Formen eingeführter Vokabeln (Artikel, Substantive, Adjektive, Pronomina, Verben) auf die Grundform zurückführen, in Wortstamm und Ausgang bzw. Stamm und Endung zerlegen und bestimmen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bc01050e-1801-46e1-94f2-40ca32075d35",
+      "prefLabel": {
+        "de": "bei eingeführten Vokabeln flektierbare von nicht flektierbaren Wörtern und Substantive von Verben unterscheiden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c430ab66-f227-4db4-a262-05da9d000714",
+      "prefLabel": {
+        "de": "zu einem eingeführten Substantiv die Deklination, das Genus, den Genitiv Singular und den Wortstamm sowie zu einem Verb die eingeführten Stammformen nennen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/6bd0b280-9377-468d-9dfa-d993221e4172",
+    "prefLabel": {
+      "de": "Formenlehre"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

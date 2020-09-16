@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/7a92c69b-054b-404c-bd6b-7f9b3883d40a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F7a92c69b-054b-404c-bd6b-7f9b3883d40a",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F7a92c69b-054b-404c-bd6b-7f9b3883d40a",
+  "prefLabel": {
+    "de": "G"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1fc5cc17-b174-42c1-b416-0d741deb69db",
+      "prefLabel": {
+        "de": "[orientiert an B1/GeR]"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/67d25f17-d672-4718-8bb2-98aeaf378c65",
+      "prefLabel": {
+        "de": "aus einem Repertoire von Lesetechniken und Strategien zur Bedeutungserschließung selbstständig die passenden auswählen und anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/950038d0-7d72-455d-a874-0e95fe2f7611",
+      "prefLabel": {
+        "de": "längeren authentischen Texten zu vertrauten Alltagsthemen und Themen, die mit eigenen Interessen in Zusammenhang stehen, gezielt Hauptaussagen (global) und Einzelinformationen (selektiv) entnehmen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/b043dfc6-3932-413e-9420-6a0b8e1104e8",
+    "prefLabel": {
+      "de": "Leseverstehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/219e3e2d-1791-4444-8925-340ba2bcdcfb",
+  "type": "Service",
+  "name": "Daten, Trends und Beziehungen interpretieren, diese erklären und weiterführende Schlussfolgerungen ableiten",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32313965336532642d313739312d343434342d383932352d333430626132626364636662",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F219e3e2d-1791-4444-8925-340ba2bcdcfb",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F219e3e2d-1791-4444-8925-340ba2bcdcfb",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/219e3e2d-1791-4444-8925-340ba2bcdcfb#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/219e3e2d-1791-4444-8925-340ba2bcdcfb",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

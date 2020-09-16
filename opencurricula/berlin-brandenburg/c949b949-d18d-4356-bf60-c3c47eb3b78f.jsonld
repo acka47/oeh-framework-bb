@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/c949b949-d18d-4356-bf60-c3c47eb3b78f",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fc949b949-d18d-4356-bf60-c3c47eb3b78f",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fc949b949-d18d-4356-bf60-c3c47eb3b78f",
+  "prefLabel": {
+    "de": "Individuum und Lebenswelt"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/407c6902-5eab-4076-a522-3251502d5b02",
+      "prefLabel": {
+        "de": "Wohnen und Wohnumfeld"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6f798a4b-630f-482d-8a8e-5304a499c52e",
+      "prefLabel": {
+        "de": "Kontakte, Alltag und Konsum"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bbd0979d-6860-4ad7-bb97-49ea6dd2cbdc",
+      "prefLabel": {
+        "de": "Persönlichkeit"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/df4b8525-dc54-42a2-ada6-f9d2e2dd3408",
+    "prefLabel": {
+      "de": "Russisch"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

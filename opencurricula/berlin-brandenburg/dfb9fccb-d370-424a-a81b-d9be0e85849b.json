@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/dfb9fccb-d370-424a-a81b-d9be0e85849b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fdfb9fccb-d370-424a-a81b-d9be0e85849b",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fdfb9fccb-d370-424a-a81b-d9be0e85849b",
+  "prefLabel": {
+    "de": "GH"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/49ae55ac-e5ce-4681-b38c-07011050c688",
+      "prefLabel": {
+        "de": "beginnend selbstständig ihr szenisches Handeln ästhetisch reflektieren und beschreiben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/53d7aa88-35d7-4063-989c-910a65143692",
+      "prefLabel": {
+        "de": "zunehmend selbstorganisiert Feedbackverfahren realisieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/707ce3c5-68a8-46a8-99e9-6c8bcd4ef9dd",
+      "prefLabel": {
+        "de": "mit Unterstützung Alltags-und Bildungssprache zunehmend funktional und reflektiert verwenden und für die Beschreibung und Weiterentwicklung des Gestaltungsprozesses zunehmend bewusst anwenden"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/b7cb8052-8f92-40d7-8dfa-2d05f62f7a26",
+    "prefLabel": {
+      "de": "Über Gestaltungs-und Gruppenhandeln reflektieren"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

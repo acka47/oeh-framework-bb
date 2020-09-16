@@ -1,0 +1,161 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/95b7f73e-0410-4d1f-a28e-d0c5331473bd",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F95b7f73e-0410-4d1f-a28e-d0c5331473bd",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F95b7f73e-0410-4d1f-a28e-d0c5331473bd",
+  "prefLabel": {
+    "de": "Ethik"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0ded90c8-600c-47b5-9404-e98e080eee8c",
+      "prefLabel": {
+        "de": "Was ist gerecht? – Recht und Gerechtigkeit"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/26b357eb-920e-49f9-b2c2-ce3f941c6e9d",
+      "prefLabel": {
+        "de": "Unterricht im Wahlpflichtfach Ethik"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2c7a25a6-f7a5-4a21-b1f4-31dae1f26dc8",
+      "prefLabel": {
+        "de": "Wie frei bin ich? – Freiheit und Verantwortung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2e1f22aa-da08-4ac4-9744-ed90f68294b0",
+      "prefLabel": {
+        "de": "Argumentieren und urteilen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4ef5b50f-3459-4646-b620-f4d3318a2410",
+      "prefLabel": {
+        "de": "Worauf kann ich vertrauen? – Wissen und Glauben"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/80d1cd14-c866-43dd-8a1f-ae1e2fe69207",
+      "prefLabel": {
+        "de": "Wer bin ich? – Identität und Rolle"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/832a55e3-84e0-402e-a613-2f8402adcb97",
+      "prefLabel": {
+        "de": "Wahrnehmen und deuten"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a38b188a-29fd-4ce3-86c7-3e345dffcc58",
+      "prefLabel": {
+        "de": "Was ist der Mensch? – Mensch und Gemeinschaft"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c317bc03-b140-4e61-ab83-c033bdedf115",
+      "prefLabel": {
+        "de": "Perspektiven einnehmen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/cc07d31b-8052-4a34-ad3f-e2e3433a16f6",
+      "prefLabel": {
+        "de": "Was soll ich tun? – Handeln und Moral"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e7167370-c532-464b-9277-bebf9c0d5e5e",
+      "prefLabel": {
+        "de": "Sich im Dialog verständigen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/59019f52-ae6f-48ab-a7c2-e3bf7a7d6975",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

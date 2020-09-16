@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/5e6e466f-12b8-4c53-b46e-3517504c9594",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F5e6e466f-12b8-4c53-b46e-3517504c9594",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F5e6e466f-12b8-4c53-b46e-3517504c9594",
+  "prefLabel": {
+    "de": "Wahrnehmen und Beschreiben"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/049fb426-57e5-4eed-aed6-4041e515e469",
+      "prefLabel": {
+        "de": "Wahrgenommenes mit Wissen verknüpfen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/09e28854-f725-4f50-b270-778ffda682cd",
+      "prefLabel": {
+        "de": "Zeichen und Symbole erschließen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/cd3487ce-9d4a-4931-83e0-5467d34bfbe7",
+      "prefLabel": {
+        "de": "Beobachtetes zum Ausdruck bringen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a70937f9-da16-4671-8f85-a537dfb5991c",
+    "prefLabel": {
+      "de": "Lebensgestaltung-Ethik-Religionskunde"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

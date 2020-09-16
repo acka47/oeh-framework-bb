@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/be9fa749-3649-4d90-8355-d6881af13b7b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbe9fa749-3649-4d90-8355-d6881af13b7b",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbe9fa749-3649-4d90-8355-d6881af13b7b",
+  "prefLabel": {
+    "de": "Rad"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/050272a8-232d-412a-a2e5-9fcbaa2824bb",
+      "prefLabel": {
+        "de": "Was bringt die Lampe zum Leuchten?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3dbd017e-3a7d-42c5-ae9d-b3e13436f5d0",
+      "prefLabel": {
+        "de": "Was bewegt sich wie?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4c1fa72f-fd24-46fc-b235-e63ec3ab5f15",
+      "prefLabel": {
+        "de": "Sehen und gesehen werden, wie geht das?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/744a2152-e260-4f27-be8b-606f233916e9",
+      "prefLabel": {
+        "de": "Was haben Menschen noch so alles erfunden?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7e6e6cdc-1b1f-4eb4-9c4a-ad41aace20c6",
+      "prefLabel": {
+        "de": "Warum will ich woanders hin?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/93b5bafe-f5f5-451f-a13a-e469b882ed86",
+      "prefLabel": {
+        "de": "Was ist im Straßenverkehr zu beachten?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b7e7904d-98d2-483c-b783-e9bb4c5b68b2",
+      "prefLabel": {
+        "de": "Wie kam und kommt das Rad ins Rollen?"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fe0d43f5-c815-43cc-b179-a5adc0d5db8a",
+      "prefLabel": {
+        "de": "Welche Verkehrsmittel und -wege gibt es?"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/6eaa9542-c2d5-4711-bd5f-edf962737b24",
+    "prefLabel": {
+      "de": "Sachunterricht"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

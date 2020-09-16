@@ -1,0 +1,125 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/e57c59b7-dacd-4ee6-8990-69f8e30bf442",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe57c59b7-dacd-4ee6-8990-69f8e30bf442",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe57c59b7-dacd-4ee6-8990-69f8e30bf442",
+  "prefLabel": {
+    "de": "Sprachbewusstheit"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0a0b0157-4694-4e32-8d9b-ec07ee723bac",
+      "prefLabel": {
+        "de": "D"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/266f61cf-ecdf-46d0-bfd9-44d5fc805c08",
+      "prefLabel": {
+        "de": "GH"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d104a3c1-2f7c-48b0-9af4-dd0a1a0f42d8",
+      "prefLabel": {
+        "de": "EF"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d4887e56-ee49-4b98-936c-75f7c3b0a932",
+      "prefLabel": {
+        "de": "BC"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d6c8333e-c4be-4ac8-9106-bc5142f60a01",
+      "prefLabel": {
+        "de": "A"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/35e1c056-28f7-46fa-b283-5612a01dd75d",
+    "prefLabel": {
+      "de": "Sprachwissen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

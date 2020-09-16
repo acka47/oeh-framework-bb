@@ -1,0 +1,113 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/95b9d654-dc67-427e-8985-ee83122548c1",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F95b9d654-dc67-427e-8985-ee83122548c1",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F95b9d654-dc67-427e-8985-ee83122548c1",
+  "prefLabel": {
+    "de": "F"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3e4b1a86-4083-45a7-b5f8-2c00e2b79cad",
+      "prefLabel": {
+        "de": "[orientiert an A2/GeR]"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9baca829-2a1b-43e0-bd2c-248e8462b306",
+      "prefLabel": {
+        "de": "mit einfachen sprachlichen Mitteln unvorbereitet über vertraute Alltagsthemen zusammenhängend sprechen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c96defeb-d324-4cae-9119-cb90dbdb7e07",
+      "prefLabel": {
+        "de": "einfache kurze Vorträge zu Alltagsthemen halten, dabei auch Meinungen und Gründe anführen sowie auf einfache Nachfragen reagieren"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/f1d188eb-72c4-4005-bbdc-127a981a433c",
+    "prefLabel": {
+      "de": "Monologisches Sprechen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

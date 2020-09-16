@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/cbda19ff-3aac-466b-878d-4c12436f2e5d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcbda19ff-3aac-466b-878d-4c12436f2e5d",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcbda19ff-3aac-466b-878d-4c12436f2e5d",
+  "prefLabel": {
+    "de": "H"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/06f7b4d1-a4b6-4df6-9e6c-06de2f01db81",
+      "prefLabel": {
+        "de": "ihre Kenntnisse zu verschiedenen Textsorten gezielt für die Texterschließung einsetzen und für die eigene Textproduktion anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6d22d7c3-857d-4416-8e91-b59ce7171309",
+      "prefLabel": {
+        "de": "digitale und analoge Medien selbstständig und zunehmend kritisch zur Informationsbeschaffung und Textproduktion nutzen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/972089da-97ec-41a3-b932-89e5b60bcba1",
+      "prefLabel": {
+        "de": "Präsentationsformen selbstständig und funktional in Bezug auf komplexere Inhalte anwenden"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d1c60897-6e32-4ef2-b5a6-bda7d46d0c38",
+      "prefLabel": {
+        "de": "die Wirkung grundlegender sprachlicher und medial vermittelter Gestaltungsmittel erkennen und deuten"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/432d9e63-9fba-430d-b35e-83efa957b504",
+    "prefLabel": {
+      "de": "Text- und Medienkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

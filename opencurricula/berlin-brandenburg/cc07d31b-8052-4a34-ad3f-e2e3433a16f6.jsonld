@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/cc07d31b-8052-4a34-ad3f-e2e3433a16f6",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcc07d31b-8052-4a34-ad3f-e2e3433a16f6",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcc07d31b-8052-4a34-ad3f-e2e3433a16f6",
+  "prefLabel": {
+    "de": "Was soll ich tun? – Handeln und Moral"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1aacfede-cf69-4cee-a76b-0537176ff725",
+      "prefLabel": {
+        "de": "Gewissen und Moral"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ac4f3d98-ec54-437b-9839-0e822d1d8bec",
+      "prefLabel": {
+        "de": "Gut und Böse"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d48a5fe4-47de-47e1-b845-54d1509760e9",
+      "prefLabel": {
+        "de": "Pflichten"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f99f9178-d41a-4116-9849-d216288acd49",
+      "prefLabel": {
+        "de": "Moralische Kriterien"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/95b7f73e-0410-4d1f-a28e-d0c5331473bd",
+    "prefLabel": {
+      "de": "Ethik"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

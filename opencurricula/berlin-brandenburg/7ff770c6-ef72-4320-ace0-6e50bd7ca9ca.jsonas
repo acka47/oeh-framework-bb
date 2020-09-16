@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/7ff770c6-ef72-4320-ace0-6e50bd7ca9ca",
+  "type": "Service",
+  "name": "Gespräche über vertraute Alltagsthemen und Themen, die mit eigenen Interessen und bekannten Sachgebieten in Zusammenhang stehen, situativ angemessen und adressatengerecht initiieren, an ihnen teilnehmen und sie aufrechterhalten",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f37666637373063362d656637322d343332302d616365302d366535306264376361396361",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F7ff770c6-ef72-4320-ace0-6e50bd7ca9ca",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F7ff770c6-ef72-4320-ace0-6e50bd7ca9ca",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/7ff770c6-ef72-4320-ace0-6e50bd7ca9ca#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/7ff770c6-ef72-4320-ace0-6e50bd7ca9ca",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

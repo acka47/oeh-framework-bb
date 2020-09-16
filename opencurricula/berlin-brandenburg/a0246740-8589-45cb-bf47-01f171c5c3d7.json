@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/a0246740-8589-45cb-bf47-01f171c5c3d7",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa0246740-8589-45cb-bf47-01f171c5c3d7",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa0246740-8589-45cb-bf47-01f171c5c3d7",
+  "prefLabel": {
+    "de": "Geeignete Standardsoftware auswählen"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6729d96b-1230-43dd-8a2a-66ca1a538f19",
+      "prefLabel": {
+        "de": "G"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/80bdf2e0-7b5d-4b8f-91b7-af335a6e9992",
+      "prefLabel": {
+        "de": "H"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d2d48efb-55dd-4e0e-bcea-aaba2bb3b802",
+      "prefLabel": {
+        "de": "DE"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/db121a20-c320-45c9-9ce3-7b2cf41e30fa",
+      "prefLabel": {
+        "de": "F"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/f36fe4e6-152f-495d-9491-bf155f6a6979",
+    "prefLabel": {
+      "de": "Problemlösen – Probleme erfassen und mit Informatiksystemen lösen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

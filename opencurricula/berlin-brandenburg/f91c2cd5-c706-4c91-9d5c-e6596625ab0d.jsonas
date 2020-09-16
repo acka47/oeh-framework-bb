@@ -1,0 +1,19 @@
+{
+  "context": {
+    "@context": [
+      "https://www.w3.org/ns/activitystreams",
+      "https://w3id.org/security/v1"
+    ]
+  },
+  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f91c2cd5-c706-4c91-9d5c-e6596625ab0d",
+  "type": "Service",
+  "name": "mithilfe sprachlichen, inhaltlichen sowie textsortenspezifischen Wissens einfache, auf ihre Lebenswelt bezogene literarische Texte, Sachtexte, diskontinuierliche Texte und mediale Präsentationen aufgabenbezogen erschließen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f66393163326364352d633730362d346339312d396435632d653635393636323561623064",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff91c2cd5-c706-4c91-9d5c-e6596625ab0d",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff91c2cd5-c706-4c91-9d5c-e6596625ab0d",
+  "publicKey": {
+    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f91c2cd5-c706-4c91-9d5c-e6596625ab0d#main-key",
+    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/f91c2cd5-c706-4c91-9d5c-e6596625ab0d",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

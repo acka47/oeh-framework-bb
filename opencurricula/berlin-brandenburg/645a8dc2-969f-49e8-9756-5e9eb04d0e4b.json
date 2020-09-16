@@ -1,0 +1,131 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/645a8dc2-969f-49e8-9756-5e9eb04d0e4b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F645a8dc2-969f-49e8-9756-5e9eb04d0e4b",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F645a8dc2-969f-49e8-9756-5e9eb04d0e4b",
+  "prefLabel": {
+    "de": "Information und Kommunikation"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/37ed8cb5-de8f-4c3b-9a91-8716e34279f1",
+      "prefLabel": {
+        "de": "Daten und Informationen"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/46c85a94-128a-4632-bc89-f3a6c816f0d9",
+      "prefLabel": {
+        "de": "Kommunikationsprozesse auf zellulärer Ebene"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5a649d30-e3d5-4b8a-81aa-c841bdfc6240",
+      "prefLabel": {
+        "de": "Reiz und Reizverarbeitung"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/79e67d03-c63a-49e0-984d-01760d0cf1d9",
+      "prefLabel": {
+        "de": "Tendenzen und Auswirkungen der neuen Technologien auf die Gesellschaft"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a819813e-9055-48d3-a38d-9a5c15379250",
+      "prefLabel": {
+        "de": "Kommunikation bei Tier und Mensch"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fdc0fcfc-d2bc-4f21-9654-6185b8fbb965",
+      "prefLabel": {
+        "de": "Morsen – Telefonieren – Skypen"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ecee8006-184a-485b-8edb-5e35ab6d9609",
+    "prefLabel": {
+      "de": "Naturwissenschaften 7 – 10"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}

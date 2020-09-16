@@ -1,0 +1,119 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/a351d24d-7335-4c2b-a53f-b3854e91307e",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa351d24d-7335-4c2b-a53f-b3854e91307e",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa351d24d-7335-4c2b-a53f-b3854e91307e",
+  "prefLabel": {
+    "de": "Informationen weitergeben – Textproduktion (mündlich und schriftlich)"
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6b1f7d84-97f1-4ee6-9f7d-6729b541c64e",
+      "prefLabel": {
+        "de": "Texte zu Sachverhalten produzieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8e0138b7-0646-44a0-9ca7-74a41db52b0c",
+      "prefLabel": {
+        "de": "Dokumentieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d169d805-d0bc-4121-b0cd-8f4b1d896225",
+      "prefLabel": {
+        "de": "Präsentieren"
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fc0617ee-ba92-44f0-84f1-abd62b10f266",
+      "prefLabel": {
+        "de": "Darstellungsformen wechseln"
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/b52e94d5-2abc-49b4-9375-c255e256301a",
+    "prefLabel": {
+      "de": "Kommunizieren"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/",
+    "title": {
+      "de": "curriculum_bb"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": "@language"
+    },
+    "note": {
+      "@container": "@language"
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    }
+  }
+}
