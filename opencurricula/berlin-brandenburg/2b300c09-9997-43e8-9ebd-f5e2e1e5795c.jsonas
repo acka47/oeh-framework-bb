@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2b300c09-9997-43e8-9ebd-f5e2e1e5795c",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2b300c09-9997-43e8-9ebd-f5e2e1e5795c",
   "type": "Service",
   "name": "als Teil einer Gruppe Aufgaben ausführen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32623330306330392d393939372d343365382d396562642d663565326531653537393563",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F2b300c09-9997-43e8-9ebd-f5e2e1e5795c",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F2b300c09-9997-43e8-9ebd-f5e2e1e5795c",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2b300c09-9997-43e8-9ebd-f5e2e1e5795c#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/2b300c09-9997-43e8-9ebd-f5e2e1e5795c",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2b300c09-9997-43e8-9ebd-f5e2e1e5795c#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/2b300c09-9997-43e8-9ebd-f5e2e1e5795c",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

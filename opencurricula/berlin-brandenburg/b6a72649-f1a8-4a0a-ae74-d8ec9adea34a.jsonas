@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/b6a72649-f1a8-4a0a-ae74-d8ec9adea34a",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/b6a72649-f1a8-4a0a-ae74-d8ec9adea34a",
   "type": "Service",
   "name": "authentischen Hör-/Hörsehtexten mit häufig gebrauchten Wörtern und Wendungen die Hauptaussage (global) sowie gezielt Einzelinformationen (selektiv) entnehmen, wenn über Themen mit Alltags- oder Lebensweltbezug langsam, deutlich und in Standardsprache gesprochen wird",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f62366137323634392d663161382d346130612d616537342d643865633961646561333461",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fb6a72649-f1a8-4a0a-ae74-d8ec9adea34a",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fb6a72649-f1a8-4a0a-ae74-d8ec9adea34a",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/b6a72649-f1a8-4a0a-ae74-d8ec9adea34a#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/b6a72649-f1a8-4a0a-ae74-d8ec9adea34a",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/b6a72649-f1a8-4a0a-ae74-d8ec9adea34a#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/b6a72649-f1a8-4a0a-ae74-d8ec9adea34a",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

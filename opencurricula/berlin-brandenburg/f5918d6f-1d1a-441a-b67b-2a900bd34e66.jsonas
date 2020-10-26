@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f5918d6f-1d1a-441a-b67b-2a900bd34e66",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/f5918d6f-1d1a-441a-b67b-2a900bd34e66",
   "type": "Service",
   "name": "Hypothesen formulieren und begründen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f66353931386436662d316431612d343431612d623637622d326139303062643334653636",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff5918d6f-1d1a-441a-b67b-2a900bd34e66",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff5918d6f-1d1a-441a-b67b-2a900bd34e66",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f5918d6f-1d1a-441a-b67b-2a900bd34e66#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/f5918d6f-1d1a-441a-b67b-2a900bd34e66",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/f5918d6f-1d1a-441a-b67b-2a900bd34e66#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/f5918d6f-1d1a-441a-b67b-2a900bd34e66",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/bbb0276e-30b2-4931-8af2-5b398b8e8b48",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/bbb0276e-30b2-4931-8af2-5b398b8e8b48",
   "type": "Service",
   "name": "sehr kurze, einfache – ggf. auch authentische – Texte zu vertrauten Alltagsthemen mit bekanntem Wortschatz Satz für Satz lesen, dabei das Thema erschließen bzw. einzelne Informationen entnehmen, wenn visuelle Hilfen das Verstehen unterstützen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f62626230323736652d333062322d343933312d386166322d356233393862386538623438",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbbb0276e-30b2-4931-8af2-5b398b8e8b48",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbbb0276e-30b2-4931-8af2-5b398b8e8b48",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/bbb0276e-30b2-4931-8af2-5b398b8e8b48#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/bbb0276e-30b2-4931-8af2-5b398b8e8b48",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/bbb0276e-30b2-4931-8af2-5b398b8e8b48#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/bbb0276e-30b2-4931-8af2-5b398b8e8b48",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

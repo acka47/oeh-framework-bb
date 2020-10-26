@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/501bf895-ae23-4af0-abb4-7d8ef21a3aa2",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/501bf895-ae23-4af0-abb4-7d8ef21a3aa2",
   "type": "Service",
   "name": "Informationen auch aus längeren, stellenweise komplexen authentischen Texten zu Alltagssituationen sowie zu Themen, die im Zusammenhang mit eigenen Interessen oder bekannten Sachgebieten stehen, sinngemäß, situations- und adressatengerecht in die jeweils andere Sprache übertragen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f35303162663839352d616532332d346166302d616262342d376438656632316133616132",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F501bf895-ae23-4af0-abb4-7d8ef21a3aa2",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F501bf895-ae23-4af0-abb4-7d8ef21a3aa2",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/501bf895-ae23-4af0-abb4-7d8ef21a3aa2#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/501bf895-ae23-4af0-abb4-7d8ef21a3aa2",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/501bf895-ae23-4af0-abb4-7d8ef21a3aa2#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/501bf895-ae23-4af0-abb4-7d8ef21a3aa2",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

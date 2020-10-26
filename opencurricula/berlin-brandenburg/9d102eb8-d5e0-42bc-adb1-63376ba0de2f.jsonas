@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/9d102eb8-d5e0-42bc-adb1-63376ba0de2f",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/9d102eb8-d5e0-42bc-adb1-63376ba0de2f",
   "type": "Service",
   "name": "Ernährung und Konsum aus regionaler und globaler Sicht (P9) 9/10",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f39643130326562382d643565302d343262632d616462312d363333373662613064653266",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F9d102eb8-d5e0-42bc-adb1-63376ba0de2f",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F9d102eb8-d5e0-42bc-adb1-63376ba0de2f",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/9d102eb8-d5e0-42bc-adb1-63376ba0de2f#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/9d102eb8-d5e0-42bc-adb1-63376ba0de2f",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/9d102eb8-d5e0-42bc-adb1-63376ba0de2f#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/9d102eb8-d5e0-42bc-adb1-63376ba0de2f",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f5a69769-d7f9-4e59-9b00-f56ee8a76cbe",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/f5a69769-d7f9-4e59-9b00-f56ee8a76cbe",
   "type": "Service",
   "name": "Funktionale kommunikative Kompetenz",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f66356136393736392d643766392d346535392d396230302d663536656538613736636265",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff5a69769-d7f9-4e59-9b00-f56ee8a76cbe",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff5a69769-d7f9-4e59-9b00-f56ee8a76cbe",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f5a69769-d7f9-4e59-9b00-f56ee8a76cbe#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/f5a69769-d7f9-4e59-9b00-f56ee8a76cbe",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/f5a69769-d7f9-4e59-9b00-f56ee8a76cbe#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/f5a69769-d7f9-4e59-9b00-f56ee8a76cbe",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

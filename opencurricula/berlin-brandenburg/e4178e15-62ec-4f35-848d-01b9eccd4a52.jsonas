@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/e4178e15-62ec-4f35-848d-01b9eccd4a52",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e4178e15-62ec-4f35-848d-01b9eccd4a52",
   "type": "Service",
   "name": "Strategien zur Sprachmittlung selbstständig anwenden und Inhalte interkulturell angemessen erklären",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f65343137386531352d363265632d346633352d383438642d303162396563636434613532",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe4178e15-62ec-4f35-848d-01b9eccd4a52",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe4178e15-62ec-4f35-848d-01b9eccd4a52",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/e4178e15-62ec-4f35-848d-01b9eccd4a52#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/e4178e15-62ec-4f35-848d-01b9eccd4a52",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e4178e15-62ec-4f35-848d-01b9eccd4a52#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/e4178e15-62ec-4f35-848d-01b9eccd4a52",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

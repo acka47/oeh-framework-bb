@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/62841679-29b5-40d5-80e8-d9fc3eafb91c",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/62841679-29b5-40d5-80e8-d9fc3eafb91c",
   "type": "Service",
   "name": "kontinuierliche Texte in Fachsprache umwandeln (z. B. Größengleichungen, chemische Formeln, Reaktionsgleichungen)",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f36323834313637392d323962352d343064352d383065382d643966633365616662393163",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F62841679-29b5-40d5-80e8-d9fc3eafb91c",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F62841679-29b5-40d5-80e8-d9fc3eafb91c",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/62841679-29b5-40d5-80e8-d9fc3eafb91c#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/62841679-29b5-40d5-80e8-d9fc3eafb91c",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/62841679-29b5-40d5-80e8-d9fc3eafb91c#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/62841679-29b5-40d5-80e8-d9fc3eafb91c",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

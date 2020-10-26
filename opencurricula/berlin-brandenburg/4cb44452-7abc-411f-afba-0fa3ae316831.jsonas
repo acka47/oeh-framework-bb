@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/4cb44452-7abc-411f-afba-0fa3ae316831",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/4cb44452-7abc-411f-afba-0fa3ae316831",
   "type": "Service",
   "name": "in konkreten Handlungen zugrundeliegende ethische Normen oder deren Verletzungen benennen und die Folgen erschließen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f34636234343435322d376162632d343131662d616662612d306661336165333136383331",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F4cb44452-7abc-411f-afba-0fa3ae316831",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F4cb44452-7abc-411f-afba-0fa3ae316831",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/4cb44452-7abc-411f-afba-0fa3ae316831#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/4cb44452-7abc-411f-afba-0fa3ae316831",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/4cb44452-7abc-411f-afba-0fa3ae316831#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/4cb44452-7abc-411f-afba-0fa3ae316831",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

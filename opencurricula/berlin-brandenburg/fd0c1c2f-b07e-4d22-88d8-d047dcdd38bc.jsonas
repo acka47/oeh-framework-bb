@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/fd0c1c2f-b07e-4d22-88d8-d047dcdd38bc",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/fd0c1c2f-b07e-4d22-88d8-d047dcdd38bc",
   "type": "Service",
   "name": "einfache Fragen und Feststellungen mit sprachlichen Hilfen formulieren und auf diese reagieren",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f66643063316332662d623037652d346432322d383864382d643034376463646433386263",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ffd0c1c2f-b07e-4d22-88d8-d047dcdd38bc",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ffd0c1c2f-b07e-4d22-88d8-d047dcdd38bc",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/fd0c1c2f-b07e-4d22-88d8-d047dcdd38bc#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/fd0c1c2f-b07e-4d22-88d8-d047dcdd38bc",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/fd0c1c2f-b07e-4d22-88d8-d047dcdd38bc#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/fd0c1c2f-b07e-4d22-88d8-d047dcdd38bc",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

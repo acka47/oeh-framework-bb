@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/baf27af7-0af3-4fc4-a8bd-1dd3d1c19519",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/baf27af7-0af3-4fc4-a8bd-1dd3d1c19519",
   "type": "Service",
   "name": "digitale und analoge Medien selbstständig und zunehmend kritisch zur Informationsbeschaffung und Textproduktion nutzen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f62616632376166372d306166332d346663342d613862642d316464336431633139353139",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbaf27af7-0af3-4fc4-a8bd-1dd3d1c19519",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbaf27af7-0af3-4fc4-a8bd-1dd3d1c19519",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/baf27af7-0af3-4fc4-a8bd-1dd3d1c19519#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/baf27af7-0af3-4fc4-a8bd-1dd3d1c19519",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/baf27af7-0af3-4fc4-a8bd-1dd3d1c19519#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/baf27af7-0af3-4fc4-a8bd-1dd3d1c19519",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

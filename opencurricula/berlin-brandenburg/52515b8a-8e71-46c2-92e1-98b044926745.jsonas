@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/52515b8a-8e71-46c2-92e1-98b044926745",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/52515b8a-8e71-46c2-92e1-98b044926745",
   "type": "Service",
   "name": "naturwissenschaftliche Fragen formulieren",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f35323531356238612d386537312d343663322d393265312d393862303434393236373435",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F52515b8a-8e71-46c2-92e1-98b044926745",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F52515b8a-8e71-46c2-92e1-98b044926745",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/52515b8a-8e71-46c2-92e1-98b044926745#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/52515b8a-8e71-46c2-92e1-98b044926745",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/52515b8a-8e71-46c2-92e1-98b044926745#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/52515b8a-8e71-46c2-92e1-98b044926745",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

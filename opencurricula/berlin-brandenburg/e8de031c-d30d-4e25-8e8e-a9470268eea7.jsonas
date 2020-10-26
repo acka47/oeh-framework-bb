@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/e8de031c-d30d-4e25-8e8e-a9470268eea7",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e8de031c-d30d-4e25-8e8e-a9470268eea7",
   "type": "Service",
   "name": "sich im Dialog explizit auf die Menschenrechte und auf die Prinzipien der Freiheit und Gleichheit beziehen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f65386465303331632d643330642d346532352d386538652d613934373032363865656137",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe8de031c-d30d-4e25-8e8e-a9470268eea7",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe8de031c-d30d-4e25-8e8e-a9470268eea7",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/e8de031c-d30d-4e25-8e8e-a9470268eea7#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/e8de031c-d30d-4e25-8e8e-a9470268eea7",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e8de031c-d30d-4e25-8e8e-a9470268eea7#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/e8de031c-d30d-4e25-8e8e-a9470268eea7",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

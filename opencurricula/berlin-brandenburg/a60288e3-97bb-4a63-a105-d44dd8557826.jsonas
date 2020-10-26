@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/a60288e3-97bb-4a63-a105-d44dd8557826",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/a60288e3-97bb-4a63-a105-d44dd8557826",
   "type": "Service",
   "name": "Widersprüche in einer Argumentation erläutern",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f61363032383865332d393762622d346136332d613130352d643434646438353537383236",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa60288e3-97bb-4a63-a105-d44dd8557826",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa60288e3-97bb-4a63-a105-d44dd8557826",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/a60288e3-97bb-4a63-a105-d44dd8557826#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/a60288e3-97bb-4a63-a105-d44dd8557826",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/a60288e3-97bb-4a63-a105-d44dd8557826#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/a60288e3-97bb-4a63-a105-d44dd8557826",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

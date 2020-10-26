@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/5dd7c227-07d7-408f-8895-67ed2dc36464",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/5dd7c227-07d7-408f-8895-67ed2dc36464",
   "type": "Service",
   "name": "Individuum und Lebenswelt",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f35646437633232372d303764372d343038662d383839352d363765643264633336343634",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F5dd7c227-07d7-408f-8895-67ed2dc36464",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F5dd7c227-07d7-408f-8895-67ed2dc36464",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/5dd7c227-07d7-408f-8895-67ed2dc36464#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/5dd7c227-07d7-408f-8895-67ed2dc36464",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/5dd7c227-07d7-408f-8895-67ed2dc36464#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/5dd7c227-07d7-408f-8895-67ed2dc36464",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

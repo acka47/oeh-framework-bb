@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/13b390e1-4b98-464a-8aca-f1d0f0aeb52a",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/13b390e1-4b98-464a-8aca-f1d0f0aeb52a",
   "type": "Service",
   "name": "zwischen wörtlich Gemeintem und möglicher Bedeutung in Texten unterscheiden",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f31336233393065312d346239382d343634612d386163612d663164306630616562353261",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F13b390e1-4b98-464a-8aca-f1d0f0aeb52a",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F13b390e1-4b98-464a-8aca-f1d0f0aeb52a",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/13b390e1-4b98-464a-8aca-f1d0f0aeb52a#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/13b390e1-4b98-464a-8aca-f1d0f0aeb52a",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/13b390e1-4b98-464a-8aca-f1d0f0aeb52a#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/13b390e1-4b98-464a-8aca-f1d0f0aeb52a",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

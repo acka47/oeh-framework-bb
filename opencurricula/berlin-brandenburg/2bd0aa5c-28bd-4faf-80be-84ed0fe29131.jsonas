@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2bd0aa5c-28bd-4faf-80be-84ed0fe29131",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2bd0aa5c-28bd-4faf-80be-84ed0fe29131",
   "type": "Service",
   "name": "in einfachen kurzen medialen Sehtexten mit bekannten sprachlichen Mitteln und unkomplizierten Handlungen/Inhalten Informationen mit Unterstützung entnehmen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32626430616135632d323862642d346661662d383062652d383465643066653239313331",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F2bd0aa5c-28bd-4faf-80be-84ed0fe29131",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F2bd0aa5c-28bd-4faf-80be-84ed0fe29131",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2bd0aa5c-28bd-4faf-80be-84ed0fe29131#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/2bd0aa5c-28bd-4faf-80be-84ed0fe29131",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2bd0aa5c-28bd-4faf-80be-84ed0fe29131#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/2bd0aa5c-28bd-4faf-80be-84ed0fe29131",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

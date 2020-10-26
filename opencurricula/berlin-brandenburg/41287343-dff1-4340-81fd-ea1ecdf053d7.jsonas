@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/41287343-dff1-4340-81fd-ea1ecdf053d7",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/41287343-dff1-4340-81fd-ea1ecdf053d7",
   "type": "Service",
   "name": "den Einfluss von Medien auf Wahrnehmung, Wertvorstellungen, und Verhaltensweisen untersuchen und bewerten",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f34313238373334332d646666312d343334302d383166642d656131656364663035336437",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F41287343-dff1-4340-81fd-ea1ecdf053d7",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F41287343-dff1-4340-81fd-ea1ecdf053d7",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/41287343-dff1-4340-81fd-ea1ecdf053d7#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/41287343-dff1-4340-81fd-ea1ecdf053d7",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/41287343-dff1-4340-81fd-ea1ecdf053d7#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/41287343-dff1-4340-81fd-ea1ecdf053d7",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/ec1ec11d-8d66-4bd3-b510-6505a866681c",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/ec1ec11d-8d66-4bd3-b510-6505a866681c",
   "type": "Service",
   "name": "Rechtschreibstrategien nutzen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f65633165633131642d386436362d346264332d623531302d363530356138363636383163",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fec1ec11d-8d66-4bd3-b510-6505a866681c",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fec1ec11d-8d66-4bd3-b510-6505a866681c",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/ec1ec11d-8d66-4bd3-b510-6505a866681c#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/ec1ec11d-8d66-4bd3-b510-6505a866681c",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/ec1ec11d-8d66-4bd3-b510-6505a866681c#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/ec1ec11d-8d66-4bd3-b510-6505a866681c",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

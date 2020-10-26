@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/0948391e-79b5-44a8-b1ed-cb3eeff19ffe",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/0948391e-79b5-44a8-b1ed-cb3eeff19ffe",
   "type": "Service",
   "name": "mit vertrauten sprachlichen Mitteln zusammenhängende Texte zu Alltagsthemen verfassen, dabei elementare Textsortenmerkmale beachten und einfache Mittel der Strukturierung verwenden",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f30393438333931652d373962352d343461382d623165642d636233656566663139666665",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F0948391e-79b5-44a8-b1ed-cb3eeff19ffe",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F0948391e-79b5-44a8-b1ed-cb3eeff19ffe",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/0948391e-79b5-44a8-b1ed-cb3eeff19ffe#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/0948391e-79b5-44a8-b1ed-cb3eeff19ffe",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/0948391e-79b5-44a8-b1ed-cb3eeff19ffe#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/0948391e-79b5-44a8-b1ed-cb3eeff19ffe",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

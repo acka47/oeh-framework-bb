@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/26cf9b2c-38ec-46cf-98d7-a382a3b3c406",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/26cf9b2c-38ec-46cf-98d7-a382a3b3c406",
   "type": "Service",
   "name": "technische Skizzen und technische Zeichnungen als Planungshilfen mit Zeichengeräten bzw. unter Einsatz von Software anfertigen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32366366396232632d333865632d343663662d393864372d613338326133623363343036",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F26cf9b2c-38ec-46cf-98d7-a382a3b3c406",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F26cf9b2c-38ec-46cf-98d7-a382a3b3c406",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/26cf9b2c-38ec-46cf-98d7-a382a3b3c406#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/26cf9b2c-38ec-46cf-98d7-a382a3b3c406",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/26cf9b2c-38ec-46cf-98d7-a382a3b3c406#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/26cf9b2c-38ec-46cf-98d7-a382a3b3c406",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/a3b4c567-7a33-4855-857b-d437112ca915",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/a3b4c567-7a33-4855-857b-d437112ca915",
   "type": "Service",
   "name": "Eigenschaften und Wirkungen der Wärmestrahlung beschreiben",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f61336234633536372d376133332d343835352d383537622d643433373131326361393135",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa3b4c567-7a33-4855-857b-d437112ca915",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa3b4c567-7a33-4855-857b-d437112ca915",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/a3b4c567-7a33-4855-857b-d437112ca915#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/a3b4c567-7a33-4855-857b-d437112ca915",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/a3b4c567-7a33-4855-857b-d437112ca915#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/a3b4c567-7a33-4855-857b-d437112ca915",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

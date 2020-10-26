@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/448ef5c7-b8c5-43f5-9914-792c26ab443b",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/448ef5c7-b8c5-43f5-9914-792c26ab443b",
   "type": "Service",
   "name": "kulturelle Bezüge von Texten, Bildern, Filmen und Alltagssituationen untersuchen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f34343865663563372d623863352d343366352d393931342d373932633236616234343362",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F448ef5c7-b8c5-43f5-9914-792c26ab443b",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F448ef5c7-b8c5-43f5-9914-792c26ab443b",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/448ef5c7-b8c5-43f5-9914-792c26ab443b#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/448ef5c7-b8c5-43f5-9914-792c26ab443b",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/448ef5c7-b8c5-43f5-9914-792c26ab443b#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/448ef5c7-b8c5-43f5-9914-792c26ab443b",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

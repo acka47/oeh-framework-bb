@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53",
   "type": "Service",
   "name": "einige Unterschiede im sprachlichen Verhalten in Abhängigkeit von Situation und Adressat benennen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f33623535646339312d653438632d343862302d613162332d616432626261306231663533",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/3b55dc91-e48c-48b0-a1b3-ad2bba0b1f53",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

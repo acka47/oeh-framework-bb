@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f54fe4a0-2c1d-4cb2-acb2-84b369bff0bf",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/f54fe4a0-2c1d-4cb2-acb2-84b369bff0bf",
   "type": "Service",
   "name": "Sprachlernstrategien selbständig und bewusst anwenden, ihren Nutzen differenziert beurteilen und an die eigenen Sprachlernbedürfnisse anpassen sowie die Einschätzung des eigenen Lernstands als Grundlage für die Planung des eigenen Lernens nutzen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f66353466653461302d326331642d346362322d616362322d383462333639626666306266",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff54fe4a0-2c1d-4cb2-acb2-84b369bff0bf",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff54fe4a0-2c1d-4cb2-acb2-84b369bff0bf",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/f54fe4a0-2c1d-4cb2-acb2-84b369bff0bf#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/f54fe4a0-2c1d-4cb2-acb2-84b369bff0bf",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/f54fe4a0-2c1d-4cb2-acb2-84b369bff0bf#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/f54fe4a0-2c1d-4cb2-acb2-84b369bff0bf",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }

@@ -1,19 +1,17 @@
 {
-  "context": {
-    "@context": [
-      "https://www.w3.org/ns/activitystreams",
-      "https://w3id.org/security/v1"
-    ]
-  },
-  "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2f099286-998c-4947-b64f-8634bfa9b443",
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2f099286-998c-4947-b64f-8634bfa9b443",
   "type": "Service",
   "name": "sprachlich einfache und inhaltlich überschaubare didaktisierte Texte in verständliches Deutsch übersetzen",
   "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32663039393238362d393938632d343934372d623634662d383633346266613962343433",
   "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F2f099286-998c-4947-b64f-8634bfa9b443",
   "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F2f099286-998c-4947-b64f-8634bfa9b443",
   "publicKey": {
-    "id": "https://test.skohub.ioopencurricula/berlin-brandenburg/2f099286-998c-4947-b64f-8634bfa9b443#main-key",
-    "owner": "https://test.skohub.ioopencurricula/berlin-brandenburg/2f099286-998c-4947-b64f-8634bfa9b443",
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2f099286-998c-4947-b64f-8634bfa9b443#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/2f099286-998c-4947-b64f-8634bfa9b443",
     "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
-  }
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
 }
