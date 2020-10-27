@@ -2,3 +2,6 @@ convert_bb_to_ttl.ipynb
 .vscode/
 .ipynb_checkpoints/
 oeh-framework-bb
+/.DS_Store
+/TODOs.org
+/__pycache__/
