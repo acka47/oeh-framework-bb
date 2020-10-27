@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/63d70b86-5e8b-4746-b2f3-0097b7a1a108",
+  "type": "Service",
+  "name": "Informationen mit selbst entwickelten Aufträgen und selbst erschlossenen Informationsorten sammeln, aufbereiten und präsentieren",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f636f6d706574656e6365732f36336437306238362d356538622d343734362d623266332d303039376237613161313038",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F63d70b86-5e8b-4746-b2f3-0097b7a1a108",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F63d70b86-5e8b-4746-b2f3-0097b7a1a108",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/63d70b86-5e8b-4746-b2f3-0097b7a1a108#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/63d70b86-5e8b-4746-b2f3-0097b7a1a108",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

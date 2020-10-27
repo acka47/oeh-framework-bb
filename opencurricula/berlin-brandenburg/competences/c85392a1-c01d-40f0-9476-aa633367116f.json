@@ -1,0 +1,176 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/c85392a1-c01d-40f0-9476-aa633367116f",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc85392a1-c01d-40f0-9476-aa633367116f",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc85392a1-c01d-40f0-9476-aa633367116f",
+  "prefLabel": {
+    "de": "Basiscurriculum Sprachbildung"
+  },
+  "note": {
+    "de": [
+      "B-BCS"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/023e3fcd-d7d0-429f-962e-e47eb2286e79",
+      "prefLabel": {
+        "de": "Rezeption/Leseverstehen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/46a214fb-9133-4a40-be87-fb5b59e56e9c",
+      "prefLabel": {
+        "de": "Produktion/Schreiben"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/56aaa4c6-4bf0-4355-be2d-517c46c35242",
+      "prefLabel": {
+        "de": "Rezeption/Hörverstehen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/a6592c22-89c8-49d4-80e8-d87f11e02d12",
+      "prefLabel": {
+        "de": "Interaktion"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/e5054396-2d5e-4847-9c8c-13dee90f171f",
+      "prefLabel": {
+        "de": "Sprachbewusstheit"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/f3fc7dd8-dd4d-415a-b999-fb44ddc5f514",
+      "prefLabel": {
+        "de": "Produktion/Sprechen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/aef7acba-7753-47c3-aa6d-590d7db3cf6b",
+    "prefLabel": {
+      "de": "Fachübergreifende Kompetenzentwicklung"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

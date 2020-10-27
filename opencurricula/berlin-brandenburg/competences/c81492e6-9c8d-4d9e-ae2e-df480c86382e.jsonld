@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/c81492e6-9c8d-4d9e-ae2e-df480c86382e",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc81492e6-9c8d-4d9e-ae2e-df480c86382e",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc81492e6-9c8d-4d9e-ae2e-df480c86382e",
+  "prefLabel": {
+    "de": "Textkompetenz"
+  },
+  "note": {
+    "de": [
+      "C-La-K2"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/af82b9b0-6b97-4cd7-b14d-e551012a46d0",
+      "prefLabel": {
+        "de": "Interpretieren"
+      },
+      "note": {
+        "de": [
+          "C-La-K2-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/f3ec20a9-cc09-40f1-9df2-fe3e8cf094f8",
+      "prefLabel": {
+        "de": "Lesen/Texte erschließen"
+      },
+      "note": {
+        "de": [
+          "C-La-K2-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/f4835e27-297c-403f-a064-86f462c5bd92",
+      "prefLabel": {
+        "de": "Übersetzen"
+      },
+      "note": {
+        "de": [
+          "C-La-K2-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/35638786-43f1-4c12-b4bf-9f17a6be28d7",
+    "prefLabel": {
+      "de": "Latein"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

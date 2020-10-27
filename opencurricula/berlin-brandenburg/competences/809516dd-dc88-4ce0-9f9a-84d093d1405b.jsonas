@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/809516dd-dc88-4ce0-9f9a-84d093d1405b",
+  "type": "Service",
+  "name": "die Entwicklung eigener musikalischer Vorlieben und Abneigungen nachvollziehen und erläutern",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f636f6d706574656e6365732f38303935313664642d646338382d346365302d396639612d383464303933643134303562",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F809516dd-dc88-4ce0-9f9a-84d093d1405b",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F809516dd-dc88-4ce0-9f9a-84d093d1405b",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/809516dd-dc88-4ce0-9f9a-84d093d1405b#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/809516dd-dc88-4ce0-9f9a-84d093d1405b",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

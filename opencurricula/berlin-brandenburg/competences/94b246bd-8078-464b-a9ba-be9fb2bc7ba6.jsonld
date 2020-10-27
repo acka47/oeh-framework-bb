@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/94b246bd-8078-464b-a9ba-be9fb2bc7ba6",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F94b246bd-8078-464b-a9ba-be9fb2bc7ba6",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F94b246bd-8078-464b-a9ba-be9fb2bc7ba6",
+  "prefLabel": {
+    "de": "EFGH"
+  },
+  "note": {
+    "de": [
+      "C-FS-K2-1-EFGH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/4c59106c-2b28-4b5d-9e3e-60325de4174d",
+      "prefLabel": {
+        "de": "in Begegnungssituationen zunehmend sprachlich und kulturell angemessen agieren, mit anderen Perspektiven umgehen, ggf. Unstimmigkeiten aushalten und reflektiert Entscheidungen treffen"
+      },
+      "note": {
+        "de": [
+          "C-FS-K2-1-EFGH-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/66215533-0aa7-40dd-ba83-1eef87cd6b9b",
+      "prefLabel": {
+        "de": "sich offen mit kulturspezifischen Wertvorstellungen und Handlungsweisen in den Zielsprachenländern reflektierend auseinandersetzen und diese mit ihren persönlichen kulturell und/oder sozial bedingten Erfahrungen vergleichen"
+      },
+      "note": {
+        "de": [
+          "C-FS-K2-1-EFGH-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/ac0c3034-d252-40ba-a557-2647a51f7e33",
+      "prefLabel": {
+        "de": "ihr soziokulturelles Orientierungswissen zunehmend selbstständig erweitern, neue Informationen einordnen und dabei Stereotype zunehmend kritisch hinterfragen"
+      },
+      "note": {
+        "de": [
+          "C-FS-K2-1-EFGH-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/48ae9681-dc7c-4cc9-84ce-e56cacd14a86",
+    "prefLabel": {
+      "de": "Interkulturelle kommunikative Kompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

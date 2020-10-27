@@ -1,0 +1,165 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/94db4fe7-8a8b-4515-aeba-756aa6147a70",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F94db4fe7-8a8b-4515-aeba-756aa6147a70",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F94db4fe7-8a8b-4515-aeba-756aa6147a70",
+  "prefLabel": {
+    "de": "EFG"
+  },
+  "note": {
+    "de": [
+      "C-FR-K3-1-EFG"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/2e621b32-2e33-4d7d-991d-65509db38572",
+      "prefLabel": {
+        "de": "sich in kreativen Aufgaben mit den Perspektiven und Handlungsmustern von Personen, Charakteren und Figuren, die ihrer Lebenswelt nahe stehen, auseinandersetzen und ggf. einen Perspektivwechsel vollziehen"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/424959cd-7d6a-4249-b10c-1cc900354da7",
+      "prefLabel": {
+        "de": "digitale und analoge Medien weitgehend selbstständig zur Informations-beschaffung und Textproduktion nutzen"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/979e7cfc-bfb3-4c65-b551-5e2db71ef3ad",
+      "prefLabel": {
+        "de": "Präsentationsformen zunehmend selbstständig und funktional in Bezug auf einfache Inhalte anwenden"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/acd9623d-b899-4c52-808b-74c6ae66ddb3",
+      "prefLabel": {
+        "de": "Kenntnisse über wesentliche Merkmale einer zunehmenden Anzahl verbreiteter Textsorten bei der eigenen Textproduktion anwenden"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/cf7e4a35-2d93-46d5-a426-0c2c74b1ba60",
+      "prefLabel": {
+        "de": "mithilfe sprachlichen, inhaltlichen sowie textsortenspezifischen Wissens einfache, auf ihre Lebenswelt bezogene literarische Texte, Sachtexte, diskontinuierliche Texte und mediale Präsentationen aufgabenbezogen erschließen"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/e3717a54-82ca-4537-869c-e5941087a43b",
+    "prefLabel": {
+      "de": "Text- und Medienkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

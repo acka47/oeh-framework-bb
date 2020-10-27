@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/themes/a52e012f-e41c-429b-b1c5-fab021c3c6e6",
+  "type": "Service",
+  "name": "Umwelt und Ökologie",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f7468656d65732f61353265303132662d653431632d343239622d623163352d666162303231633363366536",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fthemes%2Fa52e012f-e41c-429b-b1c5-fab021c3c6e6",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fthemes%2Fa52e012f-e41c-429b-b1c5-fab021c3c6e6",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/themes/a52e012f-e41c-429b-b1c5-fab021c3c6e6#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/themes/a52e012f-e41c-429b-b1c5-fab021c3c6e6",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

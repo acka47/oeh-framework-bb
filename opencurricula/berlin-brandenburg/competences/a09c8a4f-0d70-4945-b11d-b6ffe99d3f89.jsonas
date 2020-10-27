@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/a09c8a4f-0d70-4945-b11d-b6ffe99d3f89",
+  "type": "Service",
+  "name": "ihr Textverständnis in anderen Darstellungsformen ausdrücken (z. B. Grafiken, Bilder, Modelle, Tabellen, Inszenierungen)",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f636f6d706574656e6365732f61303963386134662d306437302d343934352d623131642d623666666539396433663839",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fa09c8a4f-0d70-4945-b11d-b6ffe99d3f89",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fa09c8a4f-0d70-4945-b11d-b6ffe99d3f89",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/a09c8a4f-0d70-4945-b11d-b6ffe99d3f89#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/a09c8a4f-0d70-4945-b11d-b6ffe99d3f89",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

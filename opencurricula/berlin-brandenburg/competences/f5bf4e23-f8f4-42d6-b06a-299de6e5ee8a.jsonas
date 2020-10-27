@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/f5bf4e23-f8f4-42d6-b06a-299de6e5ee8a",
+  "type": "Service",
+  "name": "unterschiedliche Formen der Entscheidungsfindung und Durchsetzung von (eigenen/gesellschaftlichen) Interessen kriterienorientiert auswählen (Vor- und Nachteile einzelner Verfahren reflektieren)",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f636f6d706574656e6365732f66356266346532332d663866342d343264362d623036612d323939646536653565653861",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Ff5bf4e23-f8f4-42d6-b06a-299de6e5ee8a",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Ff5bf4e23-f8f4-42d6-b06a-299de6e5ee8a",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/f5bf4e23-f8f4-42d6-b06a-299de6e5ee8a#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/competences/f5bf4e23-f8f4-42d6-b06a-299de6e5ee8a",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

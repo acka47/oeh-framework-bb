@@ -1,0 +1,154 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/themes/71d670af-6171-40f8-9650-072c570b6380",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fthemes%2F71d670af-6171-40f8-9650-072c570b6380",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fthemes%2F71d670af-6171-40f8-9650-072c570b6380",
+  "prefLabel": {
+    "de": "Was ist gerecht? – Recht und Gerechtigkeit"
+  },
+  "note": {
+    "de": [
+      "C-Eth-3-3"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/27b0e4c2-9b8c-4745-a17d-ccd914d02170",
+      "prefLabel": {
+        "de": "Gerechtes Verteilen"
+      },
+      "note": {
+        "de": [
+          "C-Eth-3-3-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/d671f3b6-3f86-4299-b3c9-914e67e8c53e",
+      "prefLabel": {
+        "de": "C-Eth-3-3-3-1"
+      },
+      "note": {
+        "de": [
+          "C-Eth-3-3-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/ec308b95-7de3-4dff-8bd4-61004a5ebf47",
+      "prefLabel": {
+        "de": "Gerechtigkeit und Strafe"
+      },
+      "note": {
+        "de": [
+          "C-Eth-3-3-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/f3ce4c32-dc62-4213-83b4-3567605467f8",
+      "prefLabel": {
+        "de": "Gerechtigkeit in verschiedenen Sphären"
+      },
+      "note": {
+        "de": [
+          "C-Eth-3-3-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/0a8cb345-a725-4f22-9339-75beac53bc04",
+    "prefLabel": {
+      "de": "Ethik"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Themen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

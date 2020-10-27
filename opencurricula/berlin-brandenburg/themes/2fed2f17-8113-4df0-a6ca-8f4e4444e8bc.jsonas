@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/themes/2fed2f17-8113-4df0-a6ca-8f4e4444e8bc",
+  "type": "Service",
+  "name": "Doppeljahrgangsstufe 9/10",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f7468656d65732f32666564326631372d383131332d346466302d613663612d386634653434343465386263",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fthemes%2F2fed2f17-8113-4df0-a6ca-8f4e4444e8bc",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fthemes%2F2fed2f17-8113-4df0-a6ca-8f4e4444e8bc",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/themes/2fed2f17-8113-4df0-a6ca-8f4e4444e8bc#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/themes/2fed2f17-8113-4df0-a6ca-8f4e4444e8bc",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

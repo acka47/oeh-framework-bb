@@ -1,0 +1,165 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/c1221b4c-f140-4a50-80a6-d034895355f0",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc1221b4c-f140-4a50-80a6-d034895355f0",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc1221b4c-f140-4a50-80a6-d034895355f0",
+  "prefLabel": {
+    "de": "Chinesisch"
+  },
+  "note": {
+    "de": [
+      "C-ZH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/05dfb931-c96d-4aa3-9e31-ad12e1058ac6",
+      "prefLabel": {
+        "de": "Funktionale kommunikative Kompetenz"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/09eeaddb-05cd-4545-8234-d150667341b2",
+      "prefLabel": {
+        "de": "Sprachlernkompetenz"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/59b83497-6a2b-4cfb-842d-ef641202df48",
+      "prefLabel": {
+        "de": "Interkulturelle kommunikative Kompetenz"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/6cf0b8cd-85cf-4ce9-a69a-550d78cc79c5",
+      "prefLabel": {
+        "de": "Sprachbewusstheit"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/82d3129f-bbd7-4faa-9e47-5111eed95950",
+      "prefLabel": {
+        "de": "Text- und Medienkompetenz"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/b53e58aa-a695-4d0f-ad0a-0e459e630174",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/53da086e-3207-40ab-b867-53923dee331c",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F53da086e-3207-40ab-b867-53923dee331c",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F53da086e-3207-40ab-b867-53923dee331c",
+  "prefLabel": {
+    "de": "GH"
+  },
+  "note": {
+    "de": [
+      "C-AGR-K1-1-GH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/570cc8c9-5fda-4bd4-9f09-4622d3518392",
+      "prefLabel": {
+        "de": "zuvor erschlossene Sätze und Texte von zunehmendem Schwierigkeitsgrad mit sinnentsprechender Betonung lesen"
+      },
+      "note": {
+        "de": [
+          "C-AGR-K1-1-GH-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/7ed3c6b6-b46a-4d22-8281-8f7675e5f795",
+      "prefLabel": {
+        "de": "alle für das Textverständnis wesentlichen Akzentuierungen im Textzusammenhang erklären"
+      },
+      "note": {
+        "de": [
+          "C-AGR-K1-1-GH-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/ab43ebe8-6bc1-416a-ad33-b06d1b80baea",
+      "prefLabel": {
+        "de": "Lautgesetze (Elision, Krasis etc.) im Textzusammenhang erklären und für die Worterschließung anwenden"
+      },
+      "note": {
+        "de": [
+          "C-AGR-K1-1-GH-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/3631a886-ef3f-46b1-adcc-9cfe90180271",
+    "prefLabel": {
+      "de": "Laut/Schrift"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

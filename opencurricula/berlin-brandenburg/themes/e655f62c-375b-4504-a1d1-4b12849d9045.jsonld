@@ -1,0 +1,198 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/themes/e655f62c-375b-4504-a1d1-4b12849d9045",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fthemes%2Fe655f62c-375b-4504-a1d1-4b12849d9045",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fthemes%2Fe655f62c-375b-4504-a1d1-4b12849d9045",
+  "prefLabel": {
+    "de": "Wohnen"
+  },
+  "note": {
+    "de": [
+      "C-SU-3-7"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/45e5a2c7-af6c-44bb-9792-db7fbce047c8",
+      "prefLabel": {
+        "de": "Was kann man hier unternehmen? (Sport, Freizeit, Kultur und Engagement)"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/6420d6d1-be31-4a28-a468-b95c83828b6a",
+      "prefLabel": {
+        "de": "Wie wohnen andere Menschen bei uns und Menschen anderswo?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/910e76bf-0979-4360-9571-6259ef0a63cb",
+      "prefLabel": {
+        "de": "Wie wohnten Menschen früher?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/a0b58742-ed50-4ada-bf12-f685e73d47a4",
+      "prefLabel": {
+        "de": "Wie funktioniert ein Wohnhaus?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-8"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/bd9307eb-4710-4cc6-8543-3c0be3450a9c",
+      "prefLabel": {
+        "de": "Wie baut man ein Haus?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/d03a5d1c-fde1-4b91-9f11-45050a6e1b87",
+      "prefLabel": {
+        "de": "Wer lebt hier wie? Wovon leben die Menschen? (Gesellschaft, Wirtschaft und Politik)"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/e85be58c-1c74-4599-9a31-0f47a314c128",
+      "prefLabel": {
+        "de": "Wie stellen wir uns die Zukunft vor?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-7"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/f711bdbb-3020-400e-9d78-97c908c41ec3",
+      "prefLabel": {
+        "de": "Wie und wo wohnen und leben wir?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-7-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/3e7c7e8b-9f08-4ecf-b60c-2cf5f1a71dec",
+    "prefLabel": {
+      "de": "Sachunterricht"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Themen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

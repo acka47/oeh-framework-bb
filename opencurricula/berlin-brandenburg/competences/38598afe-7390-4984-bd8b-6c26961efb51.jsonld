@@ -1,0 +1,154 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/38598afe-7390-4984-bd8b-6c26961efb51",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F38598afe-7390-4984-bd8b-6c26961efb51",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F38598afe-7390-4984-bd8b-6c26961efb51",
+  "prefLabel": {
+    "de": "G"
+  },
+  "note": {
+    "de": [
+      "B-BCS-K4-1-G"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/30a089fa-43d6-4578-a12d-caa6590b04d6",
+      "prefLabel": {
+        "de": "Zusammenfassungen, Protokolle unter Nutzung geeigneter Textmuster und -bausteine (z. B. Kraft einwirken, ausüben) schreiben"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K4-1-G-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/7d6c25df-c3c2-422a-904f-e3837e0336f2",
+      "prefLabel": {
+        "de": "einen Kommentar oder eine Stellungnahme unter Nutzung geeigneter Textmuster und -bausteine verfassen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K4-1-G-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/b1ab4e8c-ecc2-4c96-a989-a00f6951d2ee",
+      "prefLabel": {
+        "de": "weitere sprachliche Mittel (z. B. Passiv/ Aktiv, indirekte Rede) nutzen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K4-1-G-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/b60d8197-6a15-4b15-ace7-1f00ea61d27a",
+      "prefLabel": {
+        "de": "Textmuster (z. B. formeller Brief, Bauanleitung, Tabelle) und fachspezifische Textbausteine (z. B. Formelschreibweise) anwenden"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K4-1-G-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/e2528825-6b8a-49bf-9d34-1c8537e564b7",
+    "prefLabel": {
+      "de": "Texte schreiben"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

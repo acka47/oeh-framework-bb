@@ -1,0 +1,272 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/aef7acba-7753-47c3-aa6d-590d7db3cf6b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Faef7acba-7753-47c3-aa6d-590d7db3cf6b",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Faef7acba-7753-47c3-aa6d-590d7db3cf6b",
+  "prefLabel": {
+    "de": "Fachübergreifende Kompetenzentwicklung"
+  },
+  "note": {
+    "de": [
+      "B"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/0c74868e-cb4c-4643-adad-b95bcfebb925",
+      "prefLabel": {
+        "de": "Gleichstellung und Gleichberechtigung der Geschlechter (Gender Mainstreaming)"
+      },
+      "note": {
+        "de": [
+          "B-GEN"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/106c3d50-0557-44e4-b4f7-53009b1f6d07",
+      "prefLabel": {
+        "de": "Mobilitätsbildung und Verkehrserziehung"
+      },
+      "note": {
+        "de": [
+          "B-MB"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/1103cda6-1724-4283-9b17-1fffe4bdd01b",
+      "prefLabel": {
+        "de": "Basiscurriculum Medienbildung"
+      },
+      "note": {
+        "de": [
+          "B-BCM"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/29670142-b47b-41b9-938b-fbd852beb801",
+      "prefLabel": {
+        "de": "Sexualerziehung/Bildung für sexuelle Selbstbestimmung"
+      },
+      "note": {
+        "de": [
+          "B-SE"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/2d67a3a4-e554-41bf-9201-d32b5e60dc08",
+      "prefLabel": {
+        "de": "Kulturelle Bildung"
+      },
+      "note": {
+        "de": [
+          "B-KB"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/3e364ebc-894a-4737-8635-932acdeffcff",
+      "prefLabel": {
+        "de": "Interkulturelle Bildung und Erziehung"
+      },
+      "note": {
+        "de": [
+          "B-IKB"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/6fbc6d7f-f21d-4f26-a882-fa226dbb22ed",
+      "prefLabel": {
+        "de": "Nachhaltige Entwicklung/Lernen in globalen Zusammenhängen"
+      },
+      "note": {
+        "de": [
+          "B-BNE"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/9acb6d29-de83-46c5-81f2-da265edd230c",
+      "prefLabel": {
+        "de": "Gesundheitsförderung"
+      },
+      "note": {
+        "de": [
+          "B-GES"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/9c5108d9-2cb2-440c-8237-80c0714fda31",
+      "prefLabel": {
+        "de": "Europabildung in der Schule"
+      },
+      "note": {
+        "de": [
+          "B-EUR"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/bf1e88c0-f0d8-4b74-8ff2-ab41be4458af",
+      "prefLabel": {
+        "de": "Demokratiebildung"
+      },
+      "note": {
+        "de": [
+          "B-DEM"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/c069750f-0f6c-4386-9d80-7a5696cd8174",
+      "prefLabel": {
+        "de": "Berufs- und Studienorientierung"
+      },
+      "note": {
+        "de": [
+          "B-BSO"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/c3e6992c-eaa1-4b0f-9b61-e85bfbf1f5d2",
+      "prefLabel": {
+        "de": "Verbraucherbildung"
+      },
+      "note": {
+        "de": [
+          "B-VB"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/c85392a1-c01d-40f0-9476-aa633367116f",
+      "prefLabel": {
+        "de": "Basiscurriculum Sprachbildung"
+      },
+      "note": {
+        "de": [
+          "B-BCS"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/deef3aa7-55b8-4f23-bc9f-d7d141f4071a",
+      "prefLabel": {
+        "de": "Bildung zur Akzeptanz von Vielfalt (Diversity)"
+      },
+      "note": {
+        "de": [
+          "B-DIV"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/e35ac5a2-6d9e-4e9b-9928-03a65324d8bd",
+      "prefLabel": {
+        "de": "Gewaltprävention"
+      },
+      "note": {
+        "de": [
+          "B-GEW"
+        ]
+      }
+    }
+  ],
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "topConceptOf": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

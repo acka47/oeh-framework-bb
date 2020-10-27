@@ -1,0 +1,154 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/ed6d9039-35a7-42ef-a3b0-5a72c72470f4",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fed6d9039-35a7-42ef-a3b0-5a72c72470f4",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fed6d9039-35a7-42ef-a3b0-5a72c72470f4",
+  "prefLabel": {
+    "de": "CD"
+  },
+  "note": {
+    "de": [
+      "C-ZH-K5-1-CD"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/373ef40d-1061-4f96-9b43-b61819f8cf31",
+      "prefLabel": {
+        "de": "Strategien der Sprachproduktion und -rezeption aufgabenbezogen einsetzen (z. B. selektives Lesen, Kompensationsstrategien, Strategien zum Umgang mit Nichtverstehen)"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K5-1-CD-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/a9b421b3-4aed-402e-8e2c-962d61645122",
+      "prefLabel": {
+        "de": "eigene sprachliche Kompetenzen angeleitet überprüfen und Möglichkeiten für die individuelle Weiterarbeit nutzen"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K5-1-CD-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/cc787f99-58a8-452c-91fb-e2b0673023ed",
+      "prefLabel": {
+        "de": "Begegnungen mit der Fremdsprache für das eigene Sprachenlernen angeleitet nutzen"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K5-1-CD-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/e2f6360d-5e6f-40ff-9a6f-58cda77cb165",
+      "prefLabel": {
+        "de": "Strategien des Sprachenlernens angeleitet nutzen (z. B. Verfahren zur Wortschatzaneignung, Anwendung von Hilfsmitteln und Nachschlagewerken)"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K5-1-CD-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/6b72741e-9f44-41b7-acda-ba05af13b2f4",
+    "prefLabel": {
+      "de": "Sprachlernkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

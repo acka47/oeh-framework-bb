@@ -1,0 +1,165 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/themes/cb3da44e-ece2-441e-bc4d-e65e4410bba5",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fthemes%2Fcb3da44e-ece2-441e-bc4d-e65e4410bba5",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fthemes%2Fcb3da44e-ece2-441e-bc4d-e65e4410bba5",
+  "prefLabel": {
+    "de": "Zeit"
+  },
+  "note": {
+    "de": [
+      "C-SU-3-8"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/660c47de-4d04-4a07-a7f5-3d19ca9c580e",
+      "prefLabel": {
+        "de": "Woher bekommen wir Wissen über die Vergangenheit?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-8-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/6e283939-c9d0-406a-ba9e-da899a1d84cc",
+      "prefLabel": {
+        "de": "Wie lebten die Menschen früher?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-8-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/dba251b5-d2d0-4780-8026-a2a81196c148",
+      "prefLabel": {
+        "de": "Was verändert sich mit der Zeit?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-8-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/e6a14ec5-1fbf-4225-b1fe-ccadbbfe9113",
+      "prefLabel": {
+        "de": "Was kehrt immer wieder?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-8-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/fb80ed43-b274-41eb-bc42-df7f4d3952cc",
+      "prefLabel": {
+        "de": "Kann man Zeit sichtbar machen?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-8-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/3e7c7e8b-9f08-4ecf-b60c-2cf5f1a71dec",
+    "prefLabel": {
+      "de": "Sachunterricht"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Themen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

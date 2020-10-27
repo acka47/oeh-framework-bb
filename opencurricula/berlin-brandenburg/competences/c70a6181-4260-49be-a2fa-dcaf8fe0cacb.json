@@ -1,0 +1,154 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/c70a6181-4260-49be-a2fa-dcaf8fe0cacb",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc70a6181-4260-49be-a2fa-dcaf8fe0cacb",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2Fc70a6181-4260-49be-a2fa-dcaf8fe0cacb",
+  "prefLabel": {
+    "de": "EFGH"
+  },
+  "note": {
+    "de": [
+      "C-EL-K5-1-EFGH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/6058f536-fb2f-4b6c-9255-50f4d61ac450",
+      "prefLabel": {
+        "de": "zunehmend selbstständig grundlegende Strategien der Sprachproduktion und -rezeption anwenden"
+      },
+      "note": {
+        "de": [
+          "C-EL-K5-1-EFGH-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/b002f532-098b-46ea-b372-06b3f2be3b6e",
+      "prefLabel": {
+        "de": "die Einschätzung des eigenen Lernstands als Grundlage für die Planung der individuellen Lernarbeit nutzen"
+      },
+      "note": {
+        "de": [
+          "C-EL-K5-1-EFGH-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/b3b49a84-1407-4eba-be7e-ca28f3de5d1b",
+      "prefLabel": {
+        "de": "zunehmend selbstständig grundlegende Strategien des Sprachenlernens anwenden"
+      },
+      "note": {
+        "de": [
+          "C-EL-K5-1-EFGH-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/de36c9d4-52be-449c-8554-ad89ac39890b",
+      "prefLabel": {
+        "de": "Begegnungen mit der Fremdsprache zunehmend selbstständig für das eigene Sprachenlernen nutzen"
+      },
+      "note": {
+        "de": [
+          "C-EL-K5-1-EFGH-4"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/06c51908-510a-4885-8594-2d509336fdaf",
+    "prefLabel": {
+      "de": "Sprachlernkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

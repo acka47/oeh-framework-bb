@@ -1,0 +1,165 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/competences/95ac9418-dee8-482e-9c47-65b72fca7ba1",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F95ac9418-dee8-482e-9c47-65b72fca7ba1",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcompetences%2F95ac9418-dee8-482e-9c47-65b72fca7ba1",
+  "prefLabel": {
+    "de": "Literatur- und Kulturkompetenz"
+  },
+  "note": {
+    "de": [
+      "C-La-K3"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/31702821-2777-4c12-a403-dd34e9346f39",
+      "prefLabel": {
+        "de": "Kulturkompetenz: Kunstwerke rezipieren"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/56cefd9e-d4c2-4b95-8132-d7225f301876",
+      "prefLabel": {
+        "de": "Kulturkompetenz: Perspektiven der Antike erkennen"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/71c5a73e-7add-46e0-8df0-d6eac009826b",
+      "prefLabel": {
+        "de": "Literaturkompetenz"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/d33bcb3d-943c-4ac3-953c-4f327f4690c9",
+      "prefLabel": {
+        "de": "Kulturkompetenz: Unterschiede zwischen Antike und Gegenwart erkennen"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/competences/d7276f40-b5e9-4665-8520-aae60b00fafe",
+      "prefLabel": {
+        "de": "Kulturkompetenz: Entwicklungen erkennen"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/35638786-43f1-4c12-b4bf-9f17a6be28d7",
+    "prefLabel": {
+      "de": "Latein"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/competences/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Kompetenzen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

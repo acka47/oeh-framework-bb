@@ -1,0 +1,286 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/themes/266cc843-07ef-46df-92e6-e29ddfbedd8c",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fthemes%2F266cc843-07ef-46df-92e6-e29ddfbedd8c",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fthemes%2F266cc843-07ef-46df-92e6-e29ddfbedd8c",
+  "prefLabel": {
+    "de": "Naturwissenschaften 7 – 10"
+  },
+  "note": {
+    "de": [
+      "C-NW"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/013996b0-1443-4be6-be27-41fd98837073",
+      "prefLabel": {
+        "de": "(Ein-)Blick in den Haushalt"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-8"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/085ba55c-19de-4b8a-b58b-ad49fe4a40ef",
+      "prefLabel": {
+        "de": "Klima im Wandel"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-7"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/138d6e34-6380-44cd-baac-35e7fbf84201",
+      "prefLabel": {
+        "de": "Mensch – Bewegung – Gesundheit"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/57ecd95d-a919-45af-a30a-310a9ba8da9f",
+      "prefLabel": {
+        "de": "Energie gehört zum Leben – Energieversorgung der Menschheit"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/6b293f8d-42ba-44d0-971d-452d99234512",
+      "prefLabel": {
+        "de": "Die Natur"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-12"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/78162dbd-c96f-49eb-981d-90167c687d61",
+      "prefLabel": {
+        "de": "Wasser ist Leben"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/8fcfa231-f1dd-4b09-baef-bf4f2ed5fa62",
+      "prefLabel": {
+        "de": "Die Grenzen des Sichtbaren – optische Geräte"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/9e4213ee-5c90-40be-aace-dd3432d09308",
+      "prefLabel": {
+        "de": "Bauen und Wohnen"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-9"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/b5737373-794c-47ec-90ee-79fb72a4a402",
+      "prefLabel": {
+        "de": "Information und Kommunikation"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-10"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/bce208d6-ec99-4d3b-98c4-34998b0aa541",
+      "prefLabel": {
+        "de": "3.14\tNahrung für die Welt"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-14"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/c4432ed9-3742-4144-9093-4c71a49a0bc9",
+      "prefLabel": {
+        "de": "Forschen wie eine Naturwissenschaftlerin bzw. ein Naturwissenschaftler"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/c5a71ff6-ac92-4fb9-97af-10abe79e8e6d",
+      "prefLabel": {
+        "de": "Licht und Farbe"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-13"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/c859f06e-03dc-4e07-b67a-94715b10e24c",
+      "prefLabel": {
+        "de": "Kondensate zum Essen und Verpacken"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-15"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/dce9bd65-2457-4bbe-a6a5-9335f7d595d5",
+      "prefLabel": {
+        "de": "Sucht, Drogen und Doping"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-11"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/e838bdb0-2501-4877-8bb2-0b9c9160c71c",
+      "prefLabel": {
+        "de": "Das Wetter–\tBeobachtung von Wetter-/Klima-Elementen"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-7-1-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/themes/f23bf281-de7a-41f4-aba4-d1eb49f3d7cd",
+      "prefLabel": {
+        "de": "Vom ganz Kleinen und ganz Großen"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/1bf8b840-f393-49aa-b3d8-b00b85fac383",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/themes/",
+    "title": {
+      "de": "RLP Berlin-Brandenburg Themen"
+    }
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
