@@ -24,7 +24,11 @@ data, logging = sortData(parsedXML)
 log.extend(logging)
 
 nodes = addToNode(data)
-serialized_graph = buildSkos(nodes, name_of_graph="RLP Berlin-Brandenburg Kompetenzen")
+serialized_graph = buildSkos(
+    nodes,
+    name_of_graph="RLP Berlin-Brandenburg Kompetenzen",
+    base_url="http://opencurricula/berlin-brandenburg/competences/"
+)
 
 # create data dir if not there
 Path(Path.cwd() / "data").mkdir(exist_ok=True)

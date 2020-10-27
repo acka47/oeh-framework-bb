@@ -211,13 +211,13 @@ def addToNode(data):
     return root
 
 
-def buildSkos(nodes, name_of_graph):
+def buildSkos(nodes, name_of_graph, base_url):
     print("converting data to graph...")
     g = Graph()
     name_of_graph = name_of_graph
     description_of_vocab = "Darstellung des Lehrplans von BB als kontrolliertes Vokabular"
 
-    OCBB = Namespace("http://opencurricula/berlin-brandenburg/")
+    OCBB = Namespace(base_url)
     OEH = Namespace("http://w3id.org/openeduhub/learning-resource-terms/")
     SDO = Namespace("http://schema.org/")
     base = URIRef(OCBB)
