@@ -1,0 +1,173 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/38658ac2-b5a1-4107-944b-2e8936ea05c4",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F38658ac2-b5a1-4107-944b-2e8936ea05c4",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F38658ac2-b5a1-4107-944b-2e8936ea05c4",
+  "prefLabel": {
+    "de": "Kind"
+  },
+  "note": {
+    "de": [
+      "C-SU-3-2"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/08f918b8-1472-4e4f-b34a-84be43b764f0",
+      "prefLabel": {
+        "de": "Womit kennen wir uns aus?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-2-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/474edfd9-45a1-4174-bac5-f398d53a2fee",
+      "prefLabel": {
+        "de": "Wie lebten Kinder früher?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-2-6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/52f4efe0-f4e4-4609-8ef4-d998da5f6add",
+      "prefLabel": {
+        "de": "Was ist für unser Zusammenleben wichtig? (Beziehungen leben und gestalten)"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-2-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7d04d600-89d0-4ac6-8b9e-b19bc0746fa6",
+      "prefLabel": {
+        "de": "Welche Rechte haben Kinder?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-2-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b6ea9deb-0b7f-433d-974c-a610332e1a9f",
+      "prefLabel": {
+        "de": "Wie funktioniert unser Körper?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-2-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e980441c-1577-4857-a12e-1c657378ed39",
+      "prefLabel": {
+        "de": "Wie leben Kinder?"
+      },
+      "note": {
+        "de": [
+          "C-SU-3-2-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/09069399-7aad-482f-a17c-0479b9550db3",
+    "prefLabel": {
+      "de": "Sachunterricht"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

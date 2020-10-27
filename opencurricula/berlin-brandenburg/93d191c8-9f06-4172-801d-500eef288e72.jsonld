@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/93d191c8-9f06-4172-801d-500eef288e72",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F93d191c8-9f06-4172-801d-500eef288e72",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F93d191c8-9f06-4172-801d-500eef288e72",
+  "prefLabel": {
+    "de": "Sprache im Fachunterricht thematisieren"
+  },
+  "note": {
+    "de": [
+      "C-NW-K3-4-1"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b4f40af4-0f09-4d81-9c6f-d41b4f7c603c",
+      "prefLabel": {
+        "de": "GH"
+      },
+      "note": {
+        "de": [
+          "C-NW-K3-4-1-GH"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d9c798a0-16de-4e96-8c0b-277e2d941cb6",
+      "prefLabel": {
+        "de": "E"
+      },
+      "note": {
+        "de": [
+          "C-NW-K3-4-1-E"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e8c949a3-8d40-4784-8857-4684a552e458",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "C-NW-K3-4-1-D"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fffcd7bf-4384-41fa-83b1-8a59322e5d79",
+      "prefLabel": {
+        "de": "F"
+      },
+      "note": {
+        "de": [
+          "C-NW-K3-4-1-F"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/dd60820f-61ba-442f-99cb-b2f84e775941",
+    "prefLabel": {
+      "de": "Über (Fach)sprache nachdenken – Sprachbewusstheit"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

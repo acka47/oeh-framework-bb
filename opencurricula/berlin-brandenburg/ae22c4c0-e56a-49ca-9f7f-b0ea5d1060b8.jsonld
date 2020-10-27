@@ -1,0 +1,195 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ae22c4c0-e56a-49ca-9f7f-b0ea5d1060b8",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fae22c4c0-e56a-49ca-9f7f-b0ea5d1060b8",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fae22c4c0-e56a-49ca-9f7f-b0ea5d1060b8",
+  "prefLabel": {
+    "de": "Eigenschaften funktionaler Zusammenhänge nutzen"
+  },
+  "note": {
+    "de": [
+      "C-MA-L4-5"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2d218ac8-d6d4-431e-94f8-0590b12ab723",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-D"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/45e51817-9157-4f74-9ddf-123e90ca1ad0",
+      "prefLabel": {
+        "de": "H"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-H"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5cdf51f8-9f2f-448b-adcf-73802e632dae",
+      "prefLabel": {
+        "de": "G"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-G"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6358c3a3-0625-4d35-8d8c-0f1dfed9fa9e",
+      "prefLabel": {
+        "de": "E"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-E"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/86cf7120-65c5-42fd-884e-fb1876a269a1",
+      "prefLabel": {
+        "de": "C"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-C"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b07013be-b005-45a6-9b45-e6da125664a7",
+      "prefLabel": {
+        "de": "F"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-F"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d82de7d8-6e2e-4982-950f-1fb026d1d07c",
+      "prefLabel": {
+        "de": "A"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-A"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e2ab0b72-0f67-43e5-b952-f51d97be5f10",
+      "prefLabel": {
+        "de": "B"
+      },
+      "note": {
+        "de": [
+          "C-MA-L4-5-B"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/8e176cd0-5266-4f5f-980c-381d869f6616",
+    "prefLabel": {
+      "de": "Gleichungen und Funktionen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

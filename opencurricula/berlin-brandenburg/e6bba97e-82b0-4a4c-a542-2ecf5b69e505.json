@@ -1,0 +1,195 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/e6bba97e-82b0-4a4c-a542-2ecf5b69e505",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe6bba97e-82b0-4a4c-a542-2ecf5b69e505",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe6bba97e-82b0-4a4c-a542-2ecf5b69e505",
+  "prefLabel": {
+    "de": "Wortschatz, Grammatik, Aussprache, Prosodie, Intonation, Orthografie"
+  },
+  "note": {
+    "de": [
+      "C-ES-K1-6-1"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/05a2559f-56a3-416a-8cb7-899233edcab6",
+      "prefLabel": {
+        "de": "E"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-E"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5b4ee437-513e-4701-9e3e-63ba13699c0d",
+      "prefLabel": {
+        "de": "A"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-A"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7b275a26-2180-41fb-95fb-c515231155af",
+      "prefLabel": {
+        "de": "G"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-G"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/92ae6598-320f-44fb-bee2-2b02a3cb9a36",
+      "prefLabel": {
+        "de": "F"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-F"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/97c38228-797a-4cf1-b3bb-94696af0c2e7",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-D"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b6ce87d2-9cc0-4fff-978a-87be2ae1d4ab",
+      "prefLabel": {
+        "de": "C"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-C"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d07a9955-1e77-4da2-8a1b-69acc7b3834d",
+      "prefLabel": {
+        "de": "B"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-B"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fd9e7eff-734a-4a08-89c3-c93c93b00222",
+      "prefLabel": {
+        "de": "H"
+      },
+      "note": {
+        "de": [
+          "C-ES-K1-6-1-H"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a7f8b85f-76c7-4ccb-8ffb-37d6239d9b0e",
+    "prefLabel": {
+      "de": "Verfügen über sprachliche Mittel"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

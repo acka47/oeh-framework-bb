@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/aacbec75-3467-4100-b2b2-1c83b41a3294",
+  "type": "Service",
+  "name": "aus einem einfachen DGS-Notationssystem, das im Informationsgehalt beschränkt ist, Informationen entnehmen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f61616362656337352d333436372d343130302d623262322d316338336234316133323934",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Faacbec75-3467-4100-b2b2-1c83b41a3294",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Faacbec75-3467-4100-b2b2-1c83b41a3294",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/aacbec75-3467-4100-b2b2-1c83b41a3294#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/aacbec75-3467-4100-b2b2-1c83b41a3294",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

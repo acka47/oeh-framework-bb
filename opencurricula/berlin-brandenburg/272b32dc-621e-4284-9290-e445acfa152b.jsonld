@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/272b32dc-621e-4284-9290-e445acfa152b",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F272b32dc-621e-4284-9290-e445acfa152b",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F272b32dc-621e-4284-9290-e445acfa152b",
+  "prefLabel": {
+    "de": "Kulturkompetenz: Unterschiede zwischen Antike und Gegenwart erkennen"
+  },
+  "note": {
+    "de": [
+      "C-La-K3-2"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1ae5e8ca-c274-4774-a743-6bd8f6be695d",
+      "prefLabel": {
+        "de": "E"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-2-E"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/59db60c0-b521-4bdd-b378-31db25304575",
+      "prefLabel": {
+        "de": "C"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-2-C"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c15294f2-e93e-499f-af08-c3bcbd05dc28",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-2-D"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c1ab5885-ead9-4989-9175-6e837bfa77db",
+      "prefLabel": {
+        "de": "FGH"
+      },
+      "note": {
+        "de": [
+          "C-La-K3-2-FGH"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/c68d8400-9904-4a2f-904d-0bdf19ed8df0",
+    "prefLabel": {
+      "de": "Literatur- und Kulturkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

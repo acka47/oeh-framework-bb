@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/d7c011cd-5c87-48c7-ab9e-06e9220817d6",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd7c011cd-5c87-48c7-ab9e-06e9220817d6",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd7c011cd-5c87-48c7-ab9e-06e9220817d6",
+  "prefLabel": {
+    "de": "Schlussfolgerungen"
+  },
+  "note": {
+    "de": [
+      "C-Ph-K4-2-1"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/154e6e88-3f27-42b2-a0c5-ce9dd5134453",
+      "prefLabel": {
+        "de": "GH"
+      },
+      "note": {
+        "de": [
+          "C-Ph-K4-2-1-GH"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7c1f30da-6e5f-4409-b0b2-6e45d06c4e8b",
+      "prefLabel": {
+        "de": "EF"
+      },
+      "note": {
+        "de": [
+          "C-Ph-K4-2-1-EF"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/839adb5f-206f-44c1-90c7-e8e2e430630a",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "C-Ph-K4-2-1-D"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/6069a44c-04df-4e3c-9ce5-8bfb28661d8e",
+    "prefLabel": {
+      "de": "Handlungen reflektieren"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

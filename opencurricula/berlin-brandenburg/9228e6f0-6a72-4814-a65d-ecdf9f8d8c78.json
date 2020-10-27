@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/9228e6f0-6a72-4814-a65d-ecdf9f8d8c78",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F9228e6f0-6a72-4814-a65d-ecdf9f8d8c78",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F9228e6f0-6a72-4814-a65d-ecdf9f8d8c78",
+  "prefLabel": {
+    "de": "Urteilen"
+  },
+  "note": {
+    "de": [
+      "C-GEO-K5"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7ccea0bc-7d90-43b6-9486-c5ba1cf99685",
+      "prefLabel": {
+        "de": "Sachverhalte/Prozesse unter Einbeziehung fachbasierter und fachübergreifender Werte und Normen bewerten (ethisches Werturteil)"
+      },
+      "note": {
+        "de": [
+          "C-GEO-K5-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b0fcf13d-e6ef-4e3d-b1e1-6353d034ac4a",
+      "prefLabel": {
+        "de": "Situationen/Sachverhalte/Prozesse im Raum unter Anwendung geografischer Kenntnisse und Methoden beurteilen (Sachurteil)"
+      },
+      "note": {
+        "de": [
+          "C-GEO-K5-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f990ec4a-6960-4b25-9f49-bf0ab0ee1bfb",
+      "prefLabel": {
+        "de": "Informationen aus Medien kriteriengestützt bewerten"
+      },
+      "note": {
+        "de": [
+          "C-GEO-K5-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/dc4c9d1f-8d2d-47a1-8c27-da17b1913986",
+    "prefLabel": {
+      "de": "Geografie"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

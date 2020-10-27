@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/ee3ca23b-2e84-43f3-b277-b8f659fcfbce",
+  "type": "Service",
+  "name": "kausal argumentieren",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f65653363613233622d326538342d343366332d623237372d623866363539666366626365",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fee3ca23b-2e84-43f3-b277-b8f659fcfbce",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fee3ca23b-2e84-43f3-b277-b8f659fcfbce",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/ee3ca23b-2e84-43f3-b277-b8f659fcfbce#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/ee3ca23b-2e84-43f3-b277-b8f659fcfbce",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

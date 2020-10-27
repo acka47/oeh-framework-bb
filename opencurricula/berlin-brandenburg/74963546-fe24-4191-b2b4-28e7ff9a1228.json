@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/74963546-fe24-4191-b2b4-28e7ff9a1228",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F74963546-fe24-4191-b2b4-28e7ff9a1228",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F74963546-fe24-4191-b2b4-28e7ff9a1228",
+  "prefLabel": {
+    "de": "Neu Griechisch"
+  },
+  "note": {
+    "de": [
+      "C-EL"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/147f18fa-8e7e-42d7-bad7-eb7374fe0ce3",
+      "prefLabel": {
+        "de": "Gesellschaft und öffentliches Leben"
+      },
+      "note": {
+        "de": [
+          "C-EL-3-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3f39b6b1-d61b-48ba-b732-730230de285d",
+      "prefLabel": {
+        "de": "Individuum und Lebenswelt"
+      },
+      "note": {
+        "de": [
+          "C-EL-3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/433b7f77-24d3-4df6-8240-333e0f6e14fa",
+      "prefLabel": {
+        "de": "Kultur und historischer Hintergrund"
+      },
+      "note": {
+        "de": [
+          "C-EL-3-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/92ce4868-21c9-4e6d-862e-e77f2d4a6d52",
+      "prefLabel": {
+        "de": "Natur und Umwelt"
+      },
+      "note": {
+        "de": [
+          "C-EL-3-4"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/cefbc278-a24e-4565-9b3e-10eae5cc3efc",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

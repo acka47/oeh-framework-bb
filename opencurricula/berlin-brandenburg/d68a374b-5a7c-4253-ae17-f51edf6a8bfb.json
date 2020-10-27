@@ -1,0 +1,129 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/d68a374b-5a7c-4253-ae17-f51edf6a8bfb",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd68a374b-5a7c-4253-ae17-f51edf6a8bfb",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd68a374b-5a7c-4253-ae17-f51edf6a8bfb",
+  "prefLabel": {
+    "de": "E"
+  },
+  "note": {
+    "de": [
+      "C-BIO-K2-4-1-E"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/61cc4bea-38db-45c4-947c-ffdb2114ffd9",
+      "prefLabel": {
+        "de": "Einheitenvorsätze (z. B. Mega, Kilo, Milli) verwenden und Größenangaben umrechnen"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K2-4-1-E-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bf346e5a-e68d-4782-bdc6-f7c0d0e0a059",
+      "prefLabel": {
+        "de": "Zusammenhänge zweier Größen auf Proportionalität prüfen"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K2-4-1-E-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/71c81d7d-7fa2-47c9-8cb6-c0b8bd65f8e3",
+    "prefLabel": {
+      "de": "Mit naturwissenschaftlichen Größen umgehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

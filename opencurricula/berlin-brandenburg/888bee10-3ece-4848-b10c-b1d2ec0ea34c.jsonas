@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/888bee10-3ece-4848-b10c-b1d2ec0ea34c",
+  "type": "Service",
+  "name": "Herstellung und Eigenschaften ausgewählter Baustoffe - Natürliche und künstliche Steine",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f38383862656531302d336563652d343834382d623130632d623164326563306561333463",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F888bee10-3ece-4848-b10c-b1d2ec0ea34c",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F888bee10-3ece-4848-b10c-b1d2ec0ea34c",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/888bee10-3ece-4848-b10c-b1d2ec0ea34c#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/888bee10-3ece-4848-b10c-b1d2ec0ea34c",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

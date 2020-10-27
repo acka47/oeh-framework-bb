@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/16a74ad0-1276-4467-8862-47ef7ec96cff",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F16a74ad0-1276-4467-8862-47ef7ec96cff",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F16a74ad0-1276-4467-8862-47ef7ec96cff",
+  "prefLabel": {
+    "de": "Präsentationsarten und ihre sachgerechte Auswahl"
+  },
+  "note": {
+    "de": [
+      "B-BCM-K3-1"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/304c5b52-bc70-42d0-98b8-2f0c1ed5a3db",
+      "prefLabel": {
+        "de": "G"
+      },
+      "note": {
+        "de": [
+          "B-BCM-K3-1-G"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6b160da7-7a85-49be-ba35-80008b22b221",
+      "prefLabel": {
+        "de": "DG"
+      },
+      "note": {
+        "de": [
+          "B-BCM-K3-1-DG"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fdba5c36-d18d-4cd2-8166-5fadeef45f85",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "B-BCM-K3-1-D"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/f3626830-796f-4fbe-9e6a-0024be2b9e41",
+    "prefLabel": {
+      "de": "Präsentieren"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

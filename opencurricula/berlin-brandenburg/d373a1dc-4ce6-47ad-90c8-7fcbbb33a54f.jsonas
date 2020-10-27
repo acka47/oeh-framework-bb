@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/d373a1dc-4ce6-47ad-90c8-7fcbbb33a54f",
+  "type": "Service",
+  "name": "für Eindrücke und Empfindungen in der Begegnung mit ästhetischen Phänomenen und Kunstwerken Bilder und Begriffe finden",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f64333733613164632d346365362d343761642d393063382d376663626262333361353466",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd373a1dc-4ce6-47ad-90c8-7fcbbb33a54f",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd373a1dc-4ce6-47ad-90c8-7fcbbb33a54f",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/d373a1dc-4ce6-47ad-90c8-7fcbbb33a54f#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/d373a1dc-4ce6-47ad-90c8-7fcbbb33a54f",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

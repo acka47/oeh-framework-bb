@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/02c100d8-54a7-4042-a782-5741d34507f3",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F02c100d8-54a7-4042-a782-5741d34507f3",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F02c100d8-54a7-4042-a782-5741d34507f3",
+  "prefLabel": {
+    "de": "Geschichte"
+  },
+  "note": {
+    "de": [
+      "C-GE"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/55caf3ef-5233-46ed-8394-3ede7c8980b8",
+      "prefLabel": {
+        "de": "Doppeljahrgangsstufe 7/8"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ad5b1cb4-1343-401b-83dc-bd5a4a3ad763",
+      "prefLabel": {
+        "de": "Doppeljahrgangsstufe 9/10"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f35c84ed-8159-4006-bc4e-d6f3b35e4166",
+      "prefLabel": {
+        "de": "Wahlpflichtfach"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/cefbc278-a24e-4565-9b3e-10eae5cc3efc",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

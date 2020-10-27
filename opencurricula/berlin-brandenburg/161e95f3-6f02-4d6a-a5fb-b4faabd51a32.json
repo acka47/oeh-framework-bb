@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/161e95f3-6f02-4d6a-a5fb-b4faabd51a32",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F161e95f3-6f02-4d6a-a5fb-b4faabd51a32",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F161e95f3-6f02-4d6a-a5fb-b4faabd51a32",
+  "prefLabel": {
+    "de": "ABC"
+  },
+  "note": {
+    "de": [
+      "C-JP-K4-1-ABC"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/16deede2-f312-44d5-8fb3-d0f51e06bd43",
+      "prefLabel": {
+        "de": "einige Unterschiede im sprachlichen Verhalten in Abhängigkeit von Situation und Adressat benennen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K4-1-ABC-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ae4ad312-b008-4668-8eaa-a29d47b167f7",
+      "prefLabel": {
+        "de": "erste Hypothesen zu elementaren sprachlichen Regeln bilden"
+      },
+      "note": {
+        "de": [
+          "C-JP-K4-1-ABC-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ef847192-1b85-487d-9f55-0c97e3b6edfe",
+      "prefLabel": {
+        "de": "elementare kulturspezifische Regeln der Höflichkeit in Wortschatz und Sprachhandeln in der Zielsprache in einer zunehmenden Anzahl von Alltagssituationen angeleitet umsetzen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K4-1-ABC-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ecd7095d-3273-4752-9afe-edd00121aced",
+    "prefLabel": {
+      "de": "Sprachbewusstheit"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

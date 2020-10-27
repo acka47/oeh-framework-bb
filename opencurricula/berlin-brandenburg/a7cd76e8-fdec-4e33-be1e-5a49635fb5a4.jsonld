@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/a7cd76e8-fdec-4e33-be1e-5a49635fb5a4",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa7cd76e8-fdec-4e33-be1e-5a49635fb5a4",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa7cd76e8-fdec-4e33-be1e-5a49635fb5a4",
+  "prefLabel": {
+    "de": "Wirkung und Funktion"
+  },
+  "note": {
+    "de": [
+      "C-MU-3-4"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6547b02b-387e-4ad0-b06e-e2997c0e0354",
+      "prefLabel": {
+        "de": "Hörweisen und Musikgeschmack"
+      },
+      "note": {
+        "de": [
+          "C-MU-3-4-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ad2db4d6-4bf7-4531-b76f-358ec25429d5",
+      "prefLabel": {
+        "de": "Funktionale Musik"
+      },
+      "note": {
+        "de": [
+          "C-MU-3-4-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/dad6b1ff-f6b5-46e8-8231-c1d7c32f1cc2",
+      "prefLabel": {
+        "de": "Ausdruck und Wirkung"
+      },
+      "note": {
+        "de": [
+          "C-MU-3-4-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/1ac3529f-d6d4-4aea-ad23-d855d4be119d",
+    "prefLabel": {
+      "de": "Musik"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

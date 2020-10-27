@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/ac7d9671-3ef0-4456-a509-f418ff9d199d",
+  "type": "Service",
+  "name": "Vorträge zu Alltagsthemen halten, dabei auch Meinungen und Gründe anführen sowie auf Nachfragen reagieren",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f61633764393637312d336566302d343435362d613530392d663431386666396431393964",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fac7d9671-3ef0-4456-a509-f418ff9d199d",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fac7d9671-3ef0-4456-a509-f418ff9d199d",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/ac7d9671-3ef0-4456-a509-f418ff9d199d#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/ac7d9671-3ef0-4456-a509-f418ff9d199d",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

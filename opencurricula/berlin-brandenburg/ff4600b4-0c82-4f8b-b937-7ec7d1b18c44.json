@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ff4600b4-0c82-4f8b-b937-7ec7d1b18c44",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fff4600b4-0c82-4f8b-b937-7ec7d1b18c44",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fff4600b4-0c82-4f8b-b937-7ec7d1b18c44",
+  "prefLabel": {
+    "de": "G"
+  },
+  "note": {
+    "de": [
+      "C-ZH-K1-4-1-G"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ab5007d7-79ba-4393-b697-3861d36594f6",
+      "prefLabel": {
+        "de": "ihren Schreibprozess unter Zuhilfenahme verschiedener Techniken und Hilfsmittel zunehmend selbstständig steuern"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K1-4-1-G-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b14fcb37-7441-4124-b10e-735242eae5db",
+      "prefLabel": {
+        "de": "[orientiert an B1/GeR]"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K1-4-1-G-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d2c743d4-fd21-4802-8861-c389e6866d4b",
+      "prefLabel": {
+        "de": "zusammenhängende beschreibende, erzählende und einfache argumentierende Texte zu vertrauten Alltagsthemen und zu Themen, die mit eigenen Interessen und bekannten Sachgebieten in Zusammenhang stehen adressaten- und textsortengerecht verfassen"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K1-4-1-G-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/c9a7c28a-c5fa-4b2b-a01e-ca1aa8e00f91",
+    "prefLabel": {
+      "de": "Schreiben"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

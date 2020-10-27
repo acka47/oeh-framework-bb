@@ -1,0 +1,173 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/aa24e6e4-1198-456e-aa86-afccc71d4714",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Faa24e6e4-1198-456e-aa86-afccc71d4714",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Faa24e6e4-1198-456e-aa86-afccc71d4714",
+  "prefLabel": {
+    "de": "Basiscurriculum Sprachbildung"
+  },
+  "note": {
+    "de": [
+      "B-BCS"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2fa064c2-0f08-4bb4-9ff3-6c41511e524a",
+      "prefLabel": {
+        "de": "Rezeption/Leseverstehen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/43ef61fc-bc54-41a9-852b-131f7491049e",
+      "prefLabel": {
+        "de": "Produktion/Schreiben"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4979a4ef-040a-4a31-88e2-5348e020a72b",
+      "prefLabel": {
+        "de": "Interaktion"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6218285c-54d2-4a81-b159-89637ee6759e",
+      "prefLabel": {
+        "de": "Rezeption/Hörverstehen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a17e7621-4eaa-44c8-9064-0e7a43ffcd19",
+      "prefLabel": {
+        "de": "Sprachbewusstheit"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/aa399b4f-71f5-4654-91a9-231c88fa3c93",
+      "prefLabel": {
+        "de": "Produktion/Sprechen"
+      },
+      "note": {
+        "de": [
+          "B-BCS-K3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/54b64f7b-66a9-460d-a0c5-fe13d918a257",
+    "prefLabel": {
+      "de": "Fachübergreifende Kompetenzentwicklung"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

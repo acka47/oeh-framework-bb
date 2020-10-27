@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/067a0cf3-f5e2-42eb-8d1b-9a4ae26ac95d",
+  "type": "Service",
+  "name": "berücksichtigen, dass sich die Laut-Buchstaben-Zuordnung bzw. die Schriftzeichen von anderen ihnen bekannten Sprachen unterscheiden",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f30363761306366332d663565322d343265622d386431622d396134616532366163393564",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F067a0cf3-f5e2-42eb-8d1b-9a4ae26ac95d",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F067a0cf3-f5e2-42eb-8d1b-9a4ae26ac95d",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/067a0cf3-f5e2-42eb-8d1b-9a4ae26ac95d#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/067a0cf3-f5e2-42eb-8d1b-9a4ae26ac95d",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

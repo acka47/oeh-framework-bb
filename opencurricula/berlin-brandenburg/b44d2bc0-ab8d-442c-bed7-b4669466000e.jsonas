@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/b44d2bc0-ab8d-442c-bed7-b4669466000e",
+  "type": "Service",
+  "name": "eingeübte Sprachmuster in kurzen Dialogen in einfachen, sehr vertrauten Alltagssituationen reproduzieren",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f62343464326263302d616238642d343432632d626564372d623436363934363630303065",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fb44d2bc0-ab8d-442c-bed7-b4669466000e",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fb44d2bc0-ab8d-442c-bed7-b4669466000e",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/b44d2bc0-ab8d-442c-bed7-b4669466000e#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/b44d2bc0-ab8d-442c-bed7-b4669466000e",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

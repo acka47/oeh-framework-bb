@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/e2a8f63b-1885-42d0-954d-9af40affdb6a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe2a8f63b-1885-42d0-954d-9af40affdb6a",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe2a8f63b-1885-42d0-954d-9af40affdb6a",
+  "prefLabel": {
+    "de": "F"
+  },
+  "note": {
+    "de": [
+      "C-SW-K1-1-1-F"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3376d4c6-9345-4b08-8998-9a8ae8155836",
+      "prefLabel": {
+        "de": "authentischen Hör-/Hörsehtexten mit häufig gebrauchten Wörtern und Wendungen die Hauptaussage (global) sowie gezielt Einzelinformationen (selektiv) entnehmen, wenn über Themen mit Alltags- oder Lebensweltbezug langsam, deutlich und in Standardsprache gesprochen wird"
+      },
+      "note": {
+        "de": [
+          "C-SW-K1-1-1-F-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/cbb0f613-2f70-4581-839f-893dcf2f231b",
+      "prefLabel": {
+        "de": "[orientiert an A2/GeR]"
+      },
+      "note": {
+        "de": [
+          "C-SW-K1-1-1-F-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fa5515a5-39d1-49b5-b693-26ffc320a35f",
+      "prefLabel": {
+        "de": "selbstständig Hypothesen bilden sowie einfache Hörtechniken und Strategien anwenden"
+      },
+      "note": {
+        "de": [
+          "C-SW-K1-1-1-F-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/65ce0be1-553b-4b88-8d39-aa1f2b6dfd90",
+    "prefLabel": {
+      "de": "Hör-/Hörsehverstehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

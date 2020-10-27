@@ -1,0 +1,195 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/218267be-7c0c-4a53-8df7-3952f24d841a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F218267be-7c0c-4a53-8df7-3952f24d841a",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F218267be-7c0c-4a53-8df7-3952f24d841a",
+  "prefLabel": {
+    "de": "Zählstrategien anwenden"
+  },
+  "note": {
+    "de": [
+      "C-MA-L5-4"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/35447147-02c2-4765-aafb-3a7a0d0fa607",
+      "prefLabel": {
+        "de": "B"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-B"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/3ed94502-1f29-4b1c-b343-1bb07ce37014",
+      "prefLabel": {
+        "de": "H"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-H"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4bf7e588-7a21-4cda-8bc1-355a2becd500",
+      "prefLabel": {
+        "de": "G"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-G"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/92176168-aa71-4563-b072-17c7d0e1f92b",
+      "prefLabel": {
+        "de": "A"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-A"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bd692e05-d6bf-4cb0-b91d-eca4bc8e63a7",
+      "prefLabel": {
+        "de": "F"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-F"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c018e310-e788-42d5-8257-226d05d20570",
+      "prefLabel": {
+        "de": "C"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-C"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c9f08e47-90eb-49ee-a004-126353949739",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-D"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d7082da8-732d-47d8-b68f-e53948149af2",
+      "prefLabel": {
+        "de": "E"
+      },
+      "note": {
+        "de": [
+          "C-MA-L5-4-E"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/1e454a54-3dc2-4b69-86c3-b8e1649f14dc",
+    "prefLabel": {
+      "de": "Daten und Zufall"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

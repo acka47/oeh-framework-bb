@@ -1,0 +1,129 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/5e1ea274-2fab-4eb9-9192-12b6bec7b9cb",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F5e1ea274-2fab-4eb9-9192-12b6bec7b9cb",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F5e1ea274-2fab-4eb9-9192-12b6bec7b9cb",
+  "prefLabel": {
+    "de": "D"
+  },
+  "note": {
+    "de": [
+      "C-FS-K4-1-D"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/565510d8-8076-425b-923e-4095c334c21f",
+      "prefLabel": {
+        "de": "in vertrauten mündlichen Alltagssituationen und einzelnen eingeübten schriftlichen Textsorten die kulturelle Prägung von Sprachhandeln (z. B. Wortwahl, Regeln der Höflichkeit, Körpersprache) erkennen und zunehmend berücksichtigen"
+      },
+      "note": {
+        "de": [
+          "C-FS-K4-1-D-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/aa06217a-bc4c-4d54-9cd9-5b9a95b88031",
+      "prefLabel": {
+        "de": "elementare sprachliche Regeln erschließen und für das eigene Sprachhandeln zunehmend bewusst nutzen"
+      },
+      "note": {
+        "de": [
+          "C-FS-K4-1-D-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/381b3992-c59e-49d0-b2f4-b5212a2f377c",
+    "prefLabel": {
+      "de": "Sprachbewusstheit"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

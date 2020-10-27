@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/311e7186-822f-44fb-9baf-3f360c07083d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F311e7186-822f-44fb-9baf-3f360c07083d",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F311e7186-822f-44fb-9baf-3f360c07083d",
+  "prefLabel": {
+    "de": "EFGH"
+  },
+  "note": {
+    "de": [
+      "C-JP-K5-1-EFGH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/267f3dc1-7f7a-43bf-8473-2f37e1d53646",
+      "prefLabel": {
+        "de": "Begegnungen mit der Fremdsprache zunehmend selbstständig für das eigene Sprachenlernen nutzen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K5-1-EFGH-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7a78a84e-3828-46db-b029-80e6cd0f5aef",
+      "prefLabel": {
+        "de": "die Einschätzung des eigenen Lernstands als Grundlage für die Planung der individuellen Lernarbeit nutzen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K5-1-EFGH-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b36037d0-1516-4d64-ad71-2e22be3b09c9",
+      "prefLabel": {
+        "de": "zunehmend selbstständig grundlegende Strategien der Sprachproduktion und -rezeption anwenden"
+      },
+      "note": {
+        "de": [
+          "C-JP-K5-1-EFGH-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d6bbc40f-304e-4713-86a8-3e6028b8851e",
+      "prefLabel": {
+        "de": "zunehmend selbstständig grundlegende Strategien des Sprachenlernens anwenden"
+      },
+      "note": {
+        "de": [
+          "C-JP-K5-1-EFGH-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a2b78260-ac86-4a25-baf2-4b0f48f37ac7",
+    "prefLabel": {
+      "de": "Sprachlernkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

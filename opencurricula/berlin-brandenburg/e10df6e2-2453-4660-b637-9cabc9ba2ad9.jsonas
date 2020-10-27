@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e10df6e2-2453-4660-b637-9cabc9ba2ad9",
+  "type": "Service",
+  "name": "Sprachlernstrategien selbständig und bewusst anwenden, ihren Nutzen differenziert beurteilen und an die eigenen Sprachlernbedürfnisse anpassen sowie die Einschätzung des eigenen Lernstands als Grundlage für die Planung des eigenen Lernens nutzen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f65313064663665322d323435332d343636302d623633372d396361626339626132616439",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe10df6e2-2453-4660-b637-9cabc9ba2ad9",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe10df6e2-2453-4660-b637-9cabc9ba2ad9",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e10df6e2-2453-4660-b637-9cabc9ba2ad9#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/e10df6e2-2453-4660-b637-9cabc9ba2ad9",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

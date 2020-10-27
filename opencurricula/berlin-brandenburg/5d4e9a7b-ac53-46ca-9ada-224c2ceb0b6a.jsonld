@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/5d4e9a7b-ac53-46ca-9ada-224c2ceb0b6a",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F5d4e9a7b-ac53-46ca-9ada-224c2ceb0b6a",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F5d4e9a7b-ac53-46ca-9ada-224c2ceb0b6a",
+  "prefLabel": {
+    "de": "EFGH"
+  },
+  "note": {
+    "de": [
+      "C-JP-K2-1-EFGH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/12a469a4-f9e2-4798-ab82-6d868604f04e",
+      "prefLabel": {
+        "de": "sich offen mit kulturspezifischen Wertvorstellungen und Handlungsweisen in den Zielsprachenländern reflektierend auseinandersetzen und diese mit ihren persönlichen kulturell und/oder sozial bedingten Erfahrungen vergleichen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K2-1-EFGH-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6e0c1584-421e-412b-a340-4df98e6f222c",
+      "prefLabel": {
+        "de": "ihr soziokulturelles Orientierungswissen zunehmend selbstständig erweitern, neue Informationen einordnen und dabei Stereotype zunehmend kritisch hinterfragen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K2-1-EFGH-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bcae67bf-d36f-4502-b4fd-4e28b9cc13df",
+      "prefLabel": {
+        "de": "in Begegnungssituationen zunehmend sprachlich und kulturell angemessen agieren, mit anderen Perspektiven umgehen, ggf. Unstimmigkeiten aushalten und reflektiert Entscheidungen treffen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K2-1-EFGH-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/bdcf0860-dee4-4edc-a20c-6a23ca964e38",
+    "prefLabel": {
+      "de": "Interkulturelle kommunikative Kompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

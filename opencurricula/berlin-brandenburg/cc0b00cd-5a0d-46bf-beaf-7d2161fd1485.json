@@ -1,0 +1,195 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/cc0b00cd-5a0d-46bf-beaf-7d2161fd1485",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fcc0b00cd-5a0d-46bf-beaf-7d2161fd1485",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fcc0b00cd-5a0d-46bf-beaf-7d2161fd1485",
+  "prefLabel": {
+    "de": "Hör-/Hörsehverstehen"
+  },
+  "note": {
+    "de": [
+      "C-FS-K1-1-1"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/1ddf8f6b-de50-44da-aeba-65f1bee9fcdd",
+      "prefLabel": {
+        "de": "G"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-G"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2f881dd1-0b76-4c4a-bfb6-289e47724942",
+      "prefLabel": {
+        "de": "B"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-B"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/619e56e7-5337-40fd-a220-d0a1cb0f4d99",
+      "prefLabel": {
+        "de": "A"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-A"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/775f79e9-69dd-4525-bce7-1125a033f0f3",
+      "prefLabel": {
+        "de": "H"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-H"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/913a09a3-88c3-4c0c-87b1-ce3e41fef553",
+      "prefLabel": {
+        "de": "E"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-E"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ae3f8deb-bd97-47a4-91e0-7b96432be0e1",
+      "prefLabel": {
+        "de": "D"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-D"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/becda7e8-6f35-4b2a-8f02-52a0ce05461b",
+      "prefLabel": {
+        "de": "C"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-C"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/db898f67-3995-432b-81d0-1b31453aaf69",
+      "prefLabel": {
+        "de": "F"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-1-1-F"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/fea186aa-a092-4def-b1ea-11ffdba2a06f",
+    "prefLabel": {
+      "de": "Hör-/Hörsehverstehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

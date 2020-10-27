@@ -1,0 +1,162 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/59e696ec-019d-4a16-b410-02e36ac8a1db",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F59e696ec-019d-4a16-b410-02e36ac8a1db",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F59e696ec-019d-4a16-b410-02e36ac8a1db",
+  "prefLabel": {
+    "de": "EFG"
+  },
+  "note": {
+    "de": [
+      "C-FR-K3-1-EFG"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/905a1c28-53a2-47d1-9cbf-6f1d28ab32a6",
+      "prefLabel": {
+        "de": "Präsentationsformen zunehmend selbstständig und funktional in Bezug auf einfache Inhalte anwenden"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/94d4bcfb-f7a0-4003-9c30-0e23a0482d3d",
+      "prefLabel": {
+        "de": "digitale und analoge Medien weitgehend selbstständig zur Informations-beschaffung und Textproduktion nutzen"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9f036f1d-a3a2-4992-95a1-f2905da6ed67",
+      "prefLabel": {
+        "de": "mithilfe sprachlichen, inhaltlichen sowie textsortenspezifischen Wissens einfache, auf ihre Lebenswelt bezogene literarische Texte, Sachtexte, diskontinuierliche Texte und mediale Präsentationen aufgabenbezogen erschließen"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a655b67a-22e0-4303-958e-9f1b5a01197a",
+      "prefLabel": {
+        "de": "sich in kreativen Aufgaben mit den Perspektiven und Handlungsmustern von Personen, Charakteren und Figuren, die ihrer Lebenswelt nahe stehen, auseinandersetzen und ggf. einen Perspektivwechsel vollziehen"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/bb1baa73-b7b1-4556-af8c-2798d19cf53a",
+      "prefLabel": {
+        "de": "Kenntnisse über wesentliche Merkmale einer zunehmenden Anzahl verbreiteter Textsorten bei der eigenen Textproduktion anwenden"
+      },
+      "note": {
+        "de": [
+          "C-FR-K3-1-EFG-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/8dc9f1cc-6bb2-4a64-8e3e-171c8eeb792d",
+    "prefLabel": {
+      "de": "Text- und Medienkompetenz"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

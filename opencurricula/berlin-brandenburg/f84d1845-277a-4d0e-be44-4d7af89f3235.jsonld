@@ -1,0 +1,129 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/f84d1845-277a-4d0e-be44-4d7af89f3235",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff84d1845-277a-4d0e-be44-4d7af89f3235",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff84d1845-277a-4d0e-be44-4d7af89f3235",
+  "prefLabel": {
+    "de": "AB"
+  },
+  "note": {
+    "de": [
+      "C-JP-K1-2-1-AB"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/067a0cf3-f5e2-42eb-8d1b-9a4ae26ac95d",
+      "prefLabel": {
+        "de": "berücksichtigen, dass sich die Laut-Buchstaben-Zuordnung bzw. die Schriftzeichen von anderen ihnen bekannten Sprachen unterscheiden"
+      },
+      "note": {
+        "de": [
+          "C-JP-K1-2-1-AB-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fa4d45a6-265a-4201-8995-1a38173025b5",
+      "prefLabel": {
+        "de": "einzelne einfache Wörter und Wendungen, die ihnen aus Alltagssituationen oder dem Unterricht bekannt sind, am Schriftbild, ggf. mit visuellen Hilfen, wiedererkennen"
+      },
+      "note": {
+        "de": [
+          "C-JP-K1-2-1-AB-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/23167f5f-0ca1-4b15-99c6-d0c065291573",
+    "prefLabel": {
+      "de": "Leseverstehen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/1cb4f96c-4a49-4872-a9cd-75cbc345619f",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F1cb4f96c-4a49-4872-a9cd-75cbc345619f",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F1cb4f96c-4a49-4872-a9cd-75cbc345619f",
+  "prefLabel": {
+    "de": "Begegnungen mit Menschen außerhalb der Stadt Rom"
+  },
+  "note": {
+    "de": [
+      "C-La-3-2"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5cbdf996-adb3-442b-afc6-d530cfdb370e",
+      "prefLabel": {
+        "de": "Menschen auf dem Land, auf Landgütern und in Landstädten"
+      },
+      "note": {
+        "de": [
+          "C-La-3-2-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b5f7df7a-0a0f-42f9-b5b2-07c176576c04",
+      "prefLabel": {
+        "de": "Menschen beim römischen Heer"
+      },
+      "note": {
+        "de": [
+          "C-La-3-2-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e1f03d51-77c6-4bc7-ad10-86fa52c680d9",
+      "prefLabel": {
+        "de": "Menschen in den Provinzen des Römischen Reiches"
+      },
+      "note": {
+        "de": [
+          "C-La-3-2-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/49d9bee3-79c6-4667-a6e2-56dec8b40240",
+    "prefLabel": {
+      "de": "Latein"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

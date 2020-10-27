@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/52ee7e66-3ebc-4918-a3a0-d023e03abd7b",
+  "type": "Service",
+  "name": "Welche Erklärungsmodelle bietet die Psychologie an?",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f35326565376536362d336562632d343931382d613361302d643032336530336162643762",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F52ee7e66-3ebc-4918-a3a0-d023e03abd7b",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F52ee7e66-3ebc-4918-a3a0-d023e03abd7b",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/52ee7e66-3ebc-4918-a3a0-d023e03abd7b#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/52ee7e66-3ebc-4918-a3a0-d023e03abd7b",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/4dd33dee-02be-45c6-84a0-af5a9d302f14",
+  "type": "Service",
+  "name": "über ihre Person und ihr unmittelbares Lebensumfeld in einfachen kurzen Sätzen Auskunft geben, indem sie häufig geübte Sprachmuster reproduzieren",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f34646433336465652d303262652d343563362d383461302d616635613964333032663134",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F4dd33dee-02be-45c6-84a0-af5a9d302f14",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F4dd33dee-02be-45c6-84a0-af5a9d302f14",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/4dd33dee-02be-45c6-84a0-af5a9d302f14#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/4dd33dee-02be-45c6-84a0-af5a9d302f14",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/a4789225-5051-40f7-a3cf-dbe10e6b3b44",
+  "type": "Service",
+  "name": "neue Zugangsweisen zu sich selbst und ihrer Umwelt entwickeln",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f61343738393232352d353035312d343066372d613363662d646265313065366233623434",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fa4789225-5051-40f7-a3cf-dbe10e6b3b44",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fa4789225-5051-40f7-a3cf-dbe10e6b3b44",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/a4789225-5051-40f7-a3cf-dbe10e6b3b44#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/a4789225-5051-40f7-a3cf-dbe10e6b3b44",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

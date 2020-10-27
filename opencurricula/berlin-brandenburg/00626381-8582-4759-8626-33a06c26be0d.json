@@ -1,0 +1,129 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/00626381-8582-4759-8626-33a06c26be0d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F00626381-8582-4759-8626-33a06c26be0d",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F00626381-8582-4759-8626-33a06c26be0d",
+  "prefLabel": {
+    "de": "EFGH"
+  },
+  "note": {
+    "de": [
+      "C-Thea-K3-2-EFGH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/72a35e79-9819-4efa-81f8-c137e1a9664c",
+      "prefLabel": {
+        "de": "im Spannungsfeld von Eigenem und Fremdem Figuren mit möglicher Unterstützung zunehmend differenzierter wahrnehmen, beschreiben und gestalten"
+      },
+      "note": {
+        "de": [
+          "C-Thea-K3-2-EFGH-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a5aaf3c9-5e2a-4ca5-871a-7d774cf5c2af",
+      "prefLabel": {
+        "de": "die Bedürfnisse und Emotionen ihrer Mitspielerinnen und Mitschüler wahrnehmen, wertschätzend beschreiben und darauf im Gruppenprozess zugewandt reagieren"
+      },
+      "note": {
+        "de": [
+          "C-Thea-K3-2-EFGH-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/9ec9c0a6-f10f-4dbc-9ebd-1b741d0da7af",
+    "prefLabel": {
+      "de": "Empathie entwickeln"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

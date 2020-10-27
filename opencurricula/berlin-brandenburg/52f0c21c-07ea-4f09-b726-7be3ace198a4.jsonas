@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/52f0c21c-07ea-4f09-b726-7be3ace198a4",
+  "type": "Service",
+  "name": "elementare kulturspezifische Regeln der Höflichkeit in Wortschatz und Sprachhandeln in der Zielsprache in einer zunehmenden Anzahl von Alltagssituationen angeleitet umsetzen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f35326630633231632d303765612d346630392d623732362d376265336163653139386134",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F52f0c21c-07ea-4f09-b726-7be3ace198a4",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F52f0c21c-07ea-4f09-b726-7be3ace198a4",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/52f0c21c-07ea-4f09-b726-7be3ace198a4#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/52f0c21c-07ea-4f09-b726-7be3ace198a4",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

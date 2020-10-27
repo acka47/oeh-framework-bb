@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/5e2b7686-ebf1-492f-83e4-5534d9f28936",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F5e2b7686-ebf1-492f-83e4-5534d9f28936",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F5e2b7686-ebf1-492f-83e4-5534d9f28936",
+  "prefLabel": {
+    "de": "Erschließen, geografisch"
+  },
+  "note": {
+    "de": [
+      "C-GEWI-K1"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/61bbf63f-c884-45be-a360-b27f570db4e6",
+      "prefLabel": {
+        "de": "Nutzung und Gestaltung von Räumen untersuchen"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-K1-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ab12dd4f-5fe4-4c72-a1cd-0111a79bc656",
+      "prefLabel": {
+        "de": "Sich im Realraum orientieren"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-K1-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b7b116a4-6661-4a5c-a54b-71ae0cfff7c6",
+      "prefLabel": {
+        "de": "Mit Karten umgehen"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-K1-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f843b592-ca0d-4c1f-be11-4874c8d2b882",
+      "prefLabel": {
+        "de": "Wechselwirkungen zwischen Mensch und Naturraum erfassen"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-K1-4"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/a659a65d-c797-4605-a17e-d0ac8b720ec0",
+    "prefLabel": {
+      "de": "Gesellschaftswissenschaften"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

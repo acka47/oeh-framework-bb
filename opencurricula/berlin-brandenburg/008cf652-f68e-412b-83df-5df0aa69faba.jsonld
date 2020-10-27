@@ -1,0 +1,206 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/008cf652-f68e-412b-83df-5df0aa69faba",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F008cf652-f68e-412b-83df-5df0aa69faba",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F008cf652-f68e-412b-83df-5df0aa69faba",
+  "prefLabel": {
+    "de": "Die Grenzen des Sichtbaren – optische Geräte"
+  },
+  "note": {
+    "de": [
+      "C-NW-3-2"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/095cd5b6-d76b-4bd3-95e7-837ba2afd328",
+      "prefLabel": {
+        "de": "Prismen im Lichtweg"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/252114df-230c-4fe0-8b0a-06fc995376ef",
+      "prefLabel": {
+        "de": "Die Vielfalt der Augen im Tierreich"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-8"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/89374992-7edf-417b-a83c-c3ad52f68fbf",
+      "prefLabel": {
+        "de": "Glas"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8b6e5167-2ab7-4a2a-a1c0-ce75d972a3f7",
+      "prefLabel": {
+        "de": "Linsen brechen Licht"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9142f9b3-2407-4766-8542-3d29b354c988",
+      "prefLabel": {
+        "de": "Das menschliche Auge"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/91d7cc99-bece-46bb-a48e-50dd2c143f75",
+      "prefLabel": {
+        "de": "Fotoapparat"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-7"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b16d0c8e-533a-4913-aca2-49fe8a317f1a",
+      "prefLabel": {
+        "de": "Sehhilfen"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-9"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b21b7c1d-3b88-4a59-9352-1942fbcd9011",
+      "prefLabel": {
+        "de": "Blick ins Unendliche – Fernrohre"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d8322b46-ee4f-480b-bd93-15d63ea80be0",
+      "prefLabel": {
+        "de": "Blick in den Mikrokosmos – Mikroskope"
+      },
+      "note": {
+        "de": [
+          "C-NW-3-2-1-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/b6ee5ff7-4387-4633-8115-42acaa82b98d",
+    "prefLabel": {
+      "de": "Naturwissenschaften 7 – 10"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

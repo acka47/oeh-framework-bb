@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2a9218f8-f14f-4643-a7e8-1c3d2b26b44b",
+  "type": "Service",
+  "name": "wiederkehrende Informationen aus einfachen Äußerungen in Deutsch oder DGS miteinander vergleichen und global in der jeweils anderen Sprache wiedergeben",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f32613932313866382d663134662d343634332d613765382d316333643262323662343462",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F2a9218f8-f14f-4643-a7e8-1c3d2b26b44b",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F2a9218f8-f14f-4643-a7e8-1c3d2b26b44b",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/2a9218f8-f14f-4643-a7e8-1c3d2b26b44b#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/2a9218f8-f14f-4643-a7e8-1c3d2b26b44b",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

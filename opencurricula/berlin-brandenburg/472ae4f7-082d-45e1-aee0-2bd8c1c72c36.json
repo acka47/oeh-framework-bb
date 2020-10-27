@@ -1,0 +1,129 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/472ae4f7-082d-45e1-aee0-2bd8c1c72c36",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F472ae4f7-082d-45e1-aee0-2bd8c1c72c36",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F472ae4f7-082d-45e1-aee0-2bd8c1c72c36",
+  "prefLabel": {
+    "de": "G"
+  },
+  "note": {
+    "de": [
+      "C-FS-K1-5-1-G"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/4fbdafc1-d525-401f-9e23-0d4ecff3159c",
+      "prefLabel": {
+        "de": "kommunikative Strategien zur Vermittlung von Inhalten und Absichten zunehmend selbstständig anwenden"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-5-1-G-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ba27809a-21cc-4859-a076-ddccb6d38099",
+      "prefLabel": {
+        "de": "Informationen aus authentischen Texten zu vertrauten Alltagssituationen und -themen adressaten- und situationsangemessen sinngemäß in die jeweils andere Sprache übertragen"
+      },
+      "note": {
+        "de": [
+          "C-FS-K1-5-1-G-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/121d1369-4590-4d0a-9be3-12e805e0a0eb",
+    "prefLabel": {
+      "de": "Sprachmittlung"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

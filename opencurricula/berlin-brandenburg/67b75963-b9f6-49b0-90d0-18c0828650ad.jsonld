@@ -1,0 +1,173 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/67b75963-b9f6-49b0-90d0-18c0828650ad",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F67b75963-b9f6-49b0-90d0-18c0828650ad",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F67b75963-b9f6-49b0-90d0-18c0828650ad",
+  "prefLabel": {
+    "de": "BC"
+  },
+  "note": {
+    "de": [
+      "C-SU-K4-2-BC"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0259a408-a3c5-4264-8c19-3b644ba555ca",
+      "prefLabel": {
+        "de": "konstruktive Lösungsmöglichkeiten für Konflikte diskutieren"
+      },
+      "note": {
+        "de": [
+          "C-SU-K4-2-BC-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0ca8f9e0-ed49-486e-b568-ab3db68ae462",
+      "prefLabel": {
+        "de": "Vorschläge zum nachhaltigen Umgang mit Ressourcen machen und begründen"
+      },
+      "note": {
+        "de": [
+          "C-SU-K4-2-BC-6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6c493153-82d2-4745-aa9b-eb152931c399",
+      "prefLabel": {
+        "de": "untereinander Hilfestellungen geben und annehmen "
+      },
+      "note": {
+        "de": [
+          "C-SU-K4-2-BC-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7304c823-aa4d-40f8-aae5-21d376ba6f98",
+      "prefLabel": {
+        "de": "als Teil einer Gruppe Aufgaben ausführen"
+      },
+      "note": {
+        "de": [
+          "C-SU-K4-2-BC-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7b02773a-c8d0-4a9c-86ea-ff71e400ae19",
+      "prefLabel": {
+        "de": "sich an demokratischen Entscheidungen beteiligen (z. B. Abstimmungen in der Klasse, Gestaltung und Nutzung des Klassenraums)"
+      },
+      "note": {
+        "de": [
+          "C-SU-K4-2-BC-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/daa68c92-78c2-4471-b631-5069edac8cb9",
+      "prefLabel": {
+        "de": "Ursachen von Konflikten benennen"
+      },
+      "note": {
+        "de": [
+          "C-SU-K4-2-BC-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/2a671cde-f209-45c1-83f0-da1cb290c85c",
+    "prefLabel": {
+      "de": "in Gemeinschaft verantwortungsvoll handeln"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/005f676d-3f55-4361-a91b-9ab48a26af12",
+  "type": "Service",
+  "name": "Sachverhalte und Prozesse in Hinblick auf Normen und Werte (z. B. Menschenrechte, Naturschutz, Nachhaltigkeit) reflektieren (Moderation)",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f30303566363736642d336635352d343336312d613931622d396162343861323661663132",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F005f676d-3f55-4361-a91b-9ab48a26af12",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F005f676d-3f55-4361-a91b-9ab48a26af12",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/005f676d-3f55-4361-a91b-9ab48a26af12#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/005f676d-3f55-4361-a91b-9ab48a26af12",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

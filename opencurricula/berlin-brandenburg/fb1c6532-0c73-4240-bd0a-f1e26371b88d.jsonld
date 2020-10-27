@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/fb1c6532-0c73-4240-bd0a-f1e26371b88d",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ffb1c6532-0c73-4240-bd0a-f1e26371b88d",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ffb1c6532-0c73-4240-bd0a-f1e26371b88d",
+  "prefLabel": {
+    "de": "Reflektieren"
+  },
+  "note": {
+    "de": [
+      "C-Thea-3-3"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/230c6609-4f1d-4338-8edf-35ba577b0c14",
+      "prefLabel": {
+        "de": "Wahrnehmung"
+      },
+      "note": {
+        "de": [
+          "C-Thea-3-3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/aa56426b-eef0-4277-a8cc-1e735d4e3d06",
+      "prefLabel": {
+        "de": "Reflexion"
+      },
+      "note": {
+        "de": [
+          "C-Thea-3-3-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/dade704b-b45a-4069-b3f5-4704bb0e4877",
+      "prefLabel": {
+        "de": "Kommunikation"
+      },
+      "note": {
+        "de": [
+          "C-Thea-3-3-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/e33571fe-6fe7-4ae2-bce2-c90c05ac3a94",
+      "prefLabel": {
+        "de": "Empathie"
+      },
+      "note": {
+        "de": [
+          "C-Thea-3-3-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/d990e341-5213-45e4-8131-8ce6bcc0389f",
+    "prefLabel": {
+      "de": "Theater"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/af39d936-8f4b-4406-9c94-692364e6f75f",
+  "type": "Service",
+  "name": "Wissen über andere Sprachen und vorhandene Sprachlernstrategien nutzen (z. B. laut nachsprechen, um Wiederholung bitten, Gestik und Mimik, Bilder als Verstehenshilfe einsetzen)",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f61663339643933362d386634622d343430362d396339342d363932333634653666373566",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Faf39d936-8f4b-4406-9c94-692364e6f75f",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Faf39d936-8f4b-4406-9c94-692364e6f75f",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/af39d936-8f4b-4406-9c94-692364e6f75f#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/af39d936-8f4b-4406-9c94-692364e6f75f",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

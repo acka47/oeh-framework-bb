@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/4d30ae71-5615-40d3-84f3-4c8b3415a458",
+  "type": "Service",
+  "name": "ihr Repertoire an sprachlichen Mitteln durchgehend verständlich anwenden und so Alltagssituationen mit nicht vorhersehbarem Inhalt sprachlich erfolgreich bewältigen und zu den meisten Alltagsthemen und zu Themen, die mit eigenen Interessen oder mit vorbereiteten Sachgebieten in Zusammenhang stehen, auch eigene Überlegungen ausdrücken>[orientiert an B1/GeR]>",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f34643330616537312d353631352d343064332d383466332d346338623334313561343538",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F4d30ae71-5615-40d3-84f3-4c8b3415a458",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F4d30ae71-5615-40d3-84f3-4c8b3415a458",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/4d30ae71-5615-40d3-84f3-4c8b3415a458#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/4d30ae71-5615-40d3-84f3-4c8b3415a458",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

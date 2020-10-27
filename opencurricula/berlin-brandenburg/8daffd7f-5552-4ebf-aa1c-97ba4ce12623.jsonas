@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/8daffd7f-5552-4ebf-aa1c-97ba4ce12623",
+  "type": "Service",
+  "name": "unterschiedliche Formen der Entscheidungsfindung (z. B. Konsens, Kompromiss, Mehrheitsentscheid) und Durchsetzung (z. B. Bürgerinitiative, Streik) von eigenen/gesellschaftlichen Interessen darstellen",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f38646166666437662d353535322d346562662d616131632d393762613463653132363233",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F8daffd7f-5552-4ebf-aa1c-97ba4ce12623",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F8daffd7f-5552-4ebf-aa1c-97ba4ce12623",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/8daffd7f-5552-4ebf-aa1c-97ba4ce12623#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/8daffd7f-5552-4ebf-aa1c-97ba4ce12623",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

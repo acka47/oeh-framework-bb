@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/d2ccf1bd-c129-4bfa-9e53-1379c02c205f",
+  "type": "Service",
+  "name": "Informationen weitergeben – Textproduktion (mündlich und schriftlich)",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f64326363663162642d633132392d346266612d396535332d313337396330326332303566",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fd2ccf1bd-c129-4bfa-9e53-1379c02c205f",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fd2ccf1bd-c129-4bfa-9e53-1379c02c205f",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/d2ccf1bd-c129-4bfa-9e53-1379c02c205f#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/d2ccf1bd-c129-4bfa-9e53-1379c02c205f",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

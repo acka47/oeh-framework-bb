@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/bcb05d68-db2d-461b-a36f-4eb320f1440b",
+  "type": "Service",
+  "name": "zu einer Aussage eine passende Begründung formulieren, in der die stützenden Daten oder Fakten erläutert werden",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f62636230356436382d646232642d343631622d613336662d346562333230663134343062",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fbcb05d68-db2d-461b-a36f-4eb320f1440b",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fbcb05d68-db2d-461b-a36f-4eb320f1440b",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/bcb05d68-db2d-461b-a36f-4eb320f1440b#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/bcb05d68-db2d-461b-a36f-4eb320f1440b",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

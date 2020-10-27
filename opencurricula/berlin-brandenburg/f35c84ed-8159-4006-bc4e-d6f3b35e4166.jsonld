@@ -1,0 +1,184 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/f35c84ed-8159-4006-bc4e-d6f3b35e4166",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff35c84ed-8159-4006-bc4e-d6f3b35e4166",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff35c84ed-8159-4006-bc4e-d6f3b35e4166",
+  "prefLabel": {
+    "de": "Wahlpflichtfach"
+  },
+  "note": {
+    "de": [
+      "C-GE-3-3"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2575d596-1169-48d5-8f2d-982c64b92613",
+      "prefLabel": {
+        "de": "Kampf gegen Formen menschlicher Unfreiheit"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2dd06c37-bceb-483b-8115-7b867717e767",
+      "prefLabel": {
+        "de": "Geschichte im lokalen und regionalen Umfeld"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/348491d0-b2e5-4968-b198-751abd46d762",
+      "prefLabel": {
+        "de": "Vergangenheit wird erhalten – Geschichte wird gemacht"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3-7"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/65991122-0b49-4f87-b7ac-a25987137d94",
+      "prefLabel": {
+        "de": "Geschichte im Film"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/73e542f9-a61f-42e7-91f7-838ca4dfd2a3",
+      "prefLabel": {
+        "de": "Entwicklung außereuropäischer Großreiche"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ca489d88-4734-4eb9-855e-8a65c2055234",
+      "prefLabel": {
+        "de": "Erfindungen, die die Welt veränderten"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f2e1b8af-b147-4a78-86aa-f5631b5a64c9",
+      "prefLabel": {
+        "de": "Menschen machen Geschichte"
+      },
+      "note": {
+        "de": [
+          "C-GE-3-3-6"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/02c100d8-54a7-4042-a782-5741d34507f3",
+    "prefLabel": {
+      "de": "Geschichte"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/0fcae397-59ee-454e-9665-0fae45201cd8",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F0fcae397-59ee-454e-9665-0fae45201cd8",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F0fcae397-59ee-454e-9665-0fae45201cd8",
+  "prefLabel": {
+    "de": "G"
+  },
+  "note": {
+    "de": [
+      "B-BCM-K5-2-G"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/11a11443-64bc-4f52-ba69-20ede99ea6da",
+      "prefLabel": {
+        "de": "den Zusammenhang von Gestaltung und intendierter Funktion von Medienangeboten (Information, Unterhaltung, Werbung, Manipulation) untersuchen und bewerten "
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-G-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/7cb87795-6d05-4945-ab3b-33cfd52f155c",
+      "prefLabel": {
+        "de": "die Verwendung medialer Symbole und Zeichensysteme untersuchen und ihre Auswirkungen auf Aussage und Botschaft von Medienangeboten bewerten "
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-G-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/93031f2d-7b62-426a-a163-1dcbf9804402",
+      "prefLabel": {
+        "de": "Methoden der Filmanalyse anwenden und das Medium Film regelmäßig als wichtiges Kulturgut nutzen"
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-G-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f22fda22-b315-47cd-a8dd-87f2dc26f79e",
+      "prefLabel": {
+        "de": "Computerspiele nach vorgegebenen Kriterien vergleichen"
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-G-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fb34f5a6-8646-498b-9727-98e2c57279d6",
+      "prefLabel": {
+        "de": "Gestaltungselemente medialer Angebote untersuchen und deren Wirkungsabsichten kriterienorientiert bewerten "
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-G-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/d0f8d315-afac-4783-909a-1d283455ede7",
+    "prefLabel": {
+      "de": "Gestaltung, Aussage und Botschaft von Medienangeboten"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

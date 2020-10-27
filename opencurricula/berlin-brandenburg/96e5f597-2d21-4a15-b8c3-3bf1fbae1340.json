@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/96e5f597-2d21-4a15-b8c3-3bf1fbae1340",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F96e5f597-2d21-4a15-b8c3-3bf1fbae1340",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F96e5f597-2d21-4a15-b8c3-3bf1fbae1340",
+  "prefLabel": {
+    "de": "D"
+  },
+  "note": {
+    "de": [
+      "B-BCM-K5-2-D"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6de15864-7fcf-41a4-8f6d-7f054400e5cc",
+      "prefLabel": {
+        "de": "Werbung und deren Botschaft in ihrer Lebenswelt beschreiben"
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-D-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/938629e7-d56e-4452-b697-e4313f034523",
+      "prefLabel": {
+        "de": "Gestaltungselemente medialer Angebote und deren Wirkung exemplarisch beschreiben"
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-D-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/959a1dca-d928-45d5-90ba-8ead8bd4bad5",
+      "prefLabel": {
+        "de": "mediale Symbole und Zeichensysteme aus ihrem unmittelbaren Lebensweltbezug beschreiben "
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-D-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/fba101b0-00d6-4219-aac6-6ca1e720bef1",
+      "prefLabel": {
+        "de": "gestalterische Grundlagen der Filmsprache bei der Filmanalyse exemplarisch anwenden "
+      },
+      "note": {
+        "de": [
+          "B-BCM-K5-2-D-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/d0f8d315-afac-4783-909a-1d283455ede7",
+    "prefLabel": {
+      "de": "Gestaltung, Aussage und Botschaft von Medienangeboten"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

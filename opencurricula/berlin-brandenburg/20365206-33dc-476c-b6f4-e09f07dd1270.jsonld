@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/20365206-33dc-476c-b6f4-e09f07dd1270",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F20365206-33dc-476c-b6f4-e09f07dd1270",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F20365206-33dc-476c-b6f4-e09f07dd1270",
+  "prefLabel": {
+    "de": "Erkenntnisse gewinnen"
+  },
+  "note": {
+    "de": [
+      "C-Ph-K2"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/20bef3bf-c6ff-49ea-8a76-360e4d9e57f8",
+      "prefLabel": {
+        "de": "Mit Modellen umgehen"
+      },
+      "note": {
+        "de": [
+          "C-Ph-K2-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/de56c09d-c34b-4ed6-be79-e4ab0ccc0e87",
+      "prefLabel": {
+        "de": "Elemente der Mathematik anwenden"
+      },
+      "note": {
+        "de": [
+          "C-Ph-K2-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ea7cccf7-96e7-4b86-a60e-b4db3c8f06fa",
+      "prefLabel": {
+        "de": "Naturwissenschaftliche Untersuchungen durchführen"
+      },
+      "note": {
+        "de": [
+          "C-Ph-K2-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f385a00f-6fb0-4e78-9452-3ef268ad6b0d",
+      "prefLabel": {
+        "de": "Beobachten, Vergleichen und Ordnen"
+      },
+      "note": {
+        "de": [
+          "C-Ph-K2-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/3d80a187-6e79-483a-b4dc-fb318dd77880",
+    "prefLabel": {
+      "de": "Physik"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

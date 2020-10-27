@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/e6539f44-66f0-4532-9950-7dd5cabe2a5f",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe6539f44-66f0-4532-9950-7dd5cabe2a5f",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe6539f44-66f0-4532-9950-7dd5cabe2a5f",
+  "prefLabel": {
+    "de": "G"
+  },
+  "note": {
+    "de": [
+      "C-ZH-K1-3-1-G"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/30e57b47-9b55-474b-90ad-65d857b86236",
+      "prefLabel": {
+        "de": "Gespräche über vertraute Alltagsthemen und Themen, die mit eigenen Interessen und bekannten Sachgebieten in Zusammenhang stehen, situativ angemessen und adressatengerecht initiieren, an ihnen teilnehmen und sie aufrechterhalten"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K1-3-1-G-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/34a012e3-0e9b-4546-b00c-15fd1828990d",
+      "prefLabel": {
+        "de": "[orientiert an B1/GeR]"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K1-3-1-G-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/71453280-88e6-443c-8153-6bff5b43d055",
+      "prefLabel": {
+        "de": "Standpunkte erklären und erfragen sowie Argumente austauschen"
+      },
+      "note": {
+        "de": [
+          "C-ZH-K1-3-1-G-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/2c44a54d-1862-430a-b86d-aa6bf5324275",
+    "prefLabel": {
+      "de": "Dialogisches Sprechen"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

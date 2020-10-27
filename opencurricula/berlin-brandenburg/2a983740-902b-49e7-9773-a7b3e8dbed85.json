@@ -1,0 +1,118 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/2a983740-902b-49e7-9773-a7b3e8dbed85",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F2a983740-902b-49e7-9773-a7b3e8dbed85",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F2a983740-902b-49e7-9773-a7b3e8dbed85",
+  "prefLabel": {
+    "de": "H"
+  },
+  "note": {
+    "de": [
+      "C-PT-K1-6-1-H"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/aeac6f45-aff2-411d-a39d-975f1c7afa6c",
+      "prefLabel": {
+        "de": "ein hinreichend breites Spektrum sprachlicher Mittel zunehmend sicher anwenden und sich so zu den meisten Alltagsthemen und zu Themen, die mit eigenen Interessen oder mit vorbereiteten Sachgebieten in Zusammenhang stehen, zunehmend differenziert äußern und die wichtigsten Aspekte eines Gedankens oder Problems erklären sowie eigene Überlegungen ausdrücken und Stellung beziehen>[orientiert an B1+/GeR]>"
+      },
+      "note": {
+        "de": [
+          "C-PT-K1-6-1-H-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/3411ba3b-90bc-410f-b294-9f9cb6ad15a4",
+    "prefLabel": {
+      "de": "Wortschatz, Grammatik, Aussprache, Prosodie, Intonation, Orthografie"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

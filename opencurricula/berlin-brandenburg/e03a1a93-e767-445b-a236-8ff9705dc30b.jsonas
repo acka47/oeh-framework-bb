@@ -1,0 +1,17 @@
+{
+  "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e03a1a93-e767-445b-a236-8ff9705dc30b",
+  "type": "Service",
+  "name": "authentischen Hör-/Hörsehtexten die Hauptaussage (global) und gezielt Einzelinformationen (selektiv) entnehmen, wenn über Themen mit Alltags- oder Lebensweltbezug deutlich und in Standardsprache gesprochen wird",
+  "preferredUsername": "6f70656e637572726963756c612f6265726c696e2d6272616e64656e627572672f65303361316139332d653736372d343435622d613233362d386666393730356463333062",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fe03a1a93-e767-445b-a236-8ff9705dc30b",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fe03a1a93-e767-445b-a236-8ff9705dc30b",
+  "publicKey": {
+    "id": "https://test.skohub.io/opencurricula/berlin-brandenburg/e03a1a93-e767-445b-a236-8ff9705dc30b#main-key",
+    "owner": "https://test.skohub.io/opencurricula/berlin-brandenburg/e03a1a93-e767-445b-a236-8ff9705dc30b",
+    "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyr05JFWnpFGTr423+IRU\nHOgAuoF0RSxdwPpvXbX5uh+2jUBvhXzzklhc5nwfE3XruHTifJWyXFWucJlDPEI1\nxR5p0C0zfqY74ioEoKorifc8no8ZDTQRvIIEqNe0Ezbe085Foc3UWG1kimPcPlqU\nnsgCYgO4UWJ27qABE+yGDykZALdMlAt+dwOPD10NcqmvupH5pgWZJJ9vW2ErTaDt\n2R52JIpqH6CvCsI7jpLyYH60W0N0J0sjSH95lZnyVDYDbplIEPUPpGKYSVJW+dNU\nCxReZBiwS76VDQhyl1lT5JusRCogvsX/bwJrIZ8fJcOBArDx2skknzUHKkjNITsD\nTwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "@context": [
+    "https://www.w3.org/ns/activitystreams",
+    "https://w3id.org/security/v1"
+  ]
+}

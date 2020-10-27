@@ -1,0 +1,239 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/7841a0d1-81f0-469b-8bd1-e69615a5b3d6",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F7841a0d1-81f0-469b-8bd1-e69615a5b3d6",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F7841a0d1-81f0-469b-8bd1-e69615a5b3d6",
+  "prefLabel": {
+    "de": "Gesellschaftswissenschaften"
+  },
+  "note": {
+    "de": [
+      "C-GEWIWI"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0e68edf5-4350-4c7c-b4fc-83250a1ae1da",
+      "prefLabel": {
+        "de": "Wasser"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/41bd30ba-739d-41cd-ac11-adc704ab7d7b",
+      "prefLabel": {
+        "de": "Vielfalt in der Gesellschaft"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-10"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/44695474-d1c2-4438-9b89-3884e23534a8",
+      "prefLabel": {
+        "de": "Mode und Konsum"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-8"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/53832c2f-4039-4e72-b66f-77fc9799e9f9",
+      "prefLabel": {
+        "de": "Medien"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-9"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/5a2006fb-a4ec-445b-8634-74fc0af90495",
+      "prefLabel": {
+        "de": "Demokratie und Mitbestimmung"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-6"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6800bf47-326f-47bf-a808-94b6d5caa03c",
+      "prefLabel": {
+        "de": "Arbeiten um zu leben"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-11"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/79d52090-470e-45b0-bf42-9c5c97db6235",
+      "prefLabel": {
+        "de": "Tourismus und Mobilität"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/820fc5a8-4990-4014-ad31-f3c25821d248",
+      "prefLabel": {
+        "de": "Religionen in der Gesellschaft"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-12"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9fadc163-6864-45ec-ba9e-bc3ee77563aa",
+      "prefLabel": {
+        "de": "Europa"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/a04628ad-1955-4dc2-a728-7a3687543116",
+      "prefLabel": {
+        "de": "Ernährung"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c752620e-8033-4d08-ba01-330d2d7cd6e0",
+      "prefLabel": {
+        "de": "Kinderwelten"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-7"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/c9c0f62f-59e1-4109-8bcd-524df1dbf4ea",
+      "prefLabel": {
+        "de": "Stadt und städtische Vielfalt"
+      },
+      "note": {
+        "de": [
+          "C-GEWI-3-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/cefbc278-a24e-4565-9b3e-10eae5cc3efc",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

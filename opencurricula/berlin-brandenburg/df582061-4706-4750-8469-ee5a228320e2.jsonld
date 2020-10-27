@@ -1,0 +1,129 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/df582061-4706-4750-8469-ee5a228320e2",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fdf582061-4706-4750-8469-ee5a228320e2",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fdf582061-4706-4750-8469-ee5a228320e2",
+  "prefLabel": {
+    "de": "GH"
+  },
+  "note": {
+    "de": [
+      "C-Thea-K1-4-GH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/64685698-3e4f-43ec-9b29-920ea0f158e5",
+      "prefLabel": {
+        "de": "die Möglichkeiten verschiedener Präsentationsorte und Bühnenformen zunehmend wirkungsbewusst beurteilen und umsetzen"
+      },
+      "note": {
+        "de": [
+          "C-Thea-K1-4-GH-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ac3c03a1-0d46-4b76-b07a-45d6feb6ccd2",
+      "prefLabel": {
+        "de": "die theatralen Möglichkeiten von Raum und Bühnenformen zunehmend wirkungsbewusst für eine Inszenierungsidee beachten"
+      },
+      "note": {
+        "de": [
+          "C-Thea-K1-4-GH-1"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/05f9232c-eb90-4530-9187-f2551e121f5f",
+    "prefLabel": {
+      "de": "Die Möglichkeiten von Raum und Bühnenformen beachten und anwenden"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

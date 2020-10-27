@@ -1,0 +1,162 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/1f34fbcf-4c61-42e8-b005-1fbd25c24d50",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F1f34fbcf-4c61-42e8-b005-1fbd25c24d50",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F1f34fbcf-4c61-42e8-b005-1fbd25c24d50",
+  "prefLabel": {
+    "de": "Mensch und Handeln"
+  },
+  "note": {
+    "de": [
+      "C-Phil-3-2"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8452b591-ff49-4ed4-a68a-b9816a2623c6",
+      "prefLabel": {
+        "de": "Entstehung von Werten und Normen"
+      },
+      "note": {
+        "de": [
+          "C-Phil-3-2-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/94d10d83-672d-411f-946c-74e2bf9cf3d8",
+      "prefLabel": {
+        "de": "Gerechtigkeit"
+      },
+      "note": {
+        "de": [
+          "C-Phil-3-2-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/9b34192d-23fb-4687-a66d-146b8479e26d",
+      "prefLabel": {
+        "de": "Naturrecht und Menschenrechte"
+      },
+      "note": {
+        "de": [
+          "C-Phil-3-2-5"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/b134c055-ea37-4c81-929a-036100ebb597",
+      "prefLabel": {
+        "de": "Normen und Werte"
+      },
+      "note": {
+        "de": [
+          "C-Phil-3-2-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/ed6948c7-92d9-4a24-ac59-c9fe5d079466",
+      "prefLabel": {
+        "de": "Moralität"
+      },
+      "note": {
+        "de": [
+          "C-Phil-3-2-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/e20c820d-1d75-4767-a3bf-27ec9a987044",
+    "prefLabel": {
+      "de": "Philosophie"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

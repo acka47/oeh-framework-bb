@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/f12cb205-c5ff-4a60-a173-89a220c9980f",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Ff12cb205-c5ff-4a60-a173-89a220c9980f",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Ff12cb205-c5ff-4a60-a173-89a220c9980f",
+  "prefLabel": {
+    "de": "Kommunizieren"
+  },
+  "note": {
+    "de": [
+      "C-BIO-K3"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/22f06033-819b-4f01-80e2-2e27c302181b",
+      "prefLabel": {
+        "de": "Informationen erschließen – Textrezeption (mündlich und schriftlich)"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K3-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/35d50826-7f6a-4e15-99f8-e3e02ea5570a",
+      "prefLabel": {
+        "de": "Argumentieren – Interaktion"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K3-3"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/54f7e601-d26c-48cc-9bbe-58ba114b31e7",
+      "prefLabel": {
+        "de": "Über (Fach)sprache nachdenken – Sprachbewusstheit"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K3-4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/93d53ddb-28c2-434e-80be-9573cab0b6af",
+      "prefLabel": {
+        "de": "Informationen weitergeben – Textproduktion (mündlich und schriftlich)"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K3-2"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/ab29bf5a-c40f-4383-95c1-360e9455cc10",
+    "prefLabel": {
+      "de": "Biologie"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

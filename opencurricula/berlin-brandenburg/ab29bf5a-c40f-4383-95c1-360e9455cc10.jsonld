@@ -1,0 +1,151 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/ab29bf5a-c40f-4383-95c1-360e9455cc10",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2Fab29bf5a-c40f-4383-95c1-360e9455cc10",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2Fab29bf5a-c40f-4383-95c1-360e9455cc10",
+  "prefLabel": {
+    "de": "Biologie"
+  },
+  "note": {
+    "de": [
+      "C-BIO"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/0e4f40fc-1d6c-40f0-a82c-ce9a42493d7a",
+      "prefLabel": {
+        "de": "Bewerten"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K4"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/379e2772-e62a-41ce-9606-986e0394c7be",
+      "prefLabel": {
+        "de": "Erkenntnisse gewinnen"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/6b5c2840-5f01-439f-85ee-7793eeaa9430",
+      "prefLabel": {
+        "de": "Mit Fachwissen umgehen"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/f12cb205-c5ff-4a60-a173-89a220c9980f",
+      "prefLabel": {
+        "de": "Kommunizieren"
+      },
+      "note": {
+        "de": [
+          "C-BIO-K3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/210b1a03-b12d-4b8e-a54a-555cb48f0e16",
+    "prefLabel": {
+      "de": "Fächer"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}

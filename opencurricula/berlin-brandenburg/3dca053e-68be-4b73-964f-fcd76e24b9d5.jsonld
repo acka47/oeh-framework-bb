@@ -1,0 +1,140 @@
+{
+  "id": "http://opencurricula/berlin-brandenburg/3dca053e-68be-4b73-964f-fcd76e24b9d5",
+  "type": "Concept",
+  "followers": "https://test.skohub.io/followers?subject=opencurricula%2Fberlin-brandenburg%2F3dca053e-68be-4b73-964f-fcd76e24b9d5",
+  "inbox": "https://test.skohub.io/inbox?target=opencurricula%2Fberlin-brandenburg%2F3dca053e-68be-4b73-964f-fcd76e24b9d5",
+  "prefLabel": {
+    "de": "GH"
+  },
+  "note": {
+    "de": [
+      "C-Thea-K3-3-GH"
+    ]
+  },
+  "narrower": [
+    {
+      "id": "http://opencurricula/berlin-brandenburg/2fd494b7-d3ce-4d6f-b6b1-f68879d3410a",
+      "prefLabel": {
+        "de": "zunehmend selbstorganisiert Feedbackverfahren realisieren"
+      },
+      "note": {
+        "de": [
+          "C-Thea-K3-3-GH-2"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/8dfcbf32-6d16-420a-bb12-8af2d41fa9c9",
+      "prefLabel": {
+        "de": "beginnend selbstständig ihr szenisches Handeln ästhetisch reflektieren und beschreiben"
+      },
+      "note": {
+        "de": [
+          "C-Thea-K3-3-GH-1"
+        ]
+      }
+    },
+    {
+      "id": "http://opencurricula/berlin-brandenburg/d6afc2da-444d-4c40-9bbe-664963a6bd01",
+      "prefLabel": {
+        "de": "mit Unterstützung Alltags-und Bildungssprache zunehmend funktional und reflektiert verwenden und für die Beschreibung und Weiterentwicklung des Gestaltungsprozesses zunehmend bewusst anwenden"
+      },
+      "note": {
+        "de": [
+          "C-Thea-K3-3-GH-3"
+        ]
+      }
+    }
+  ],
+  "broader": {
+    "id": "http://opencurricula/berlin-brandenburg/667e1d9e-e9e9-47c6-869f-3d4e1617cdae",
+    "prefLabel": {
+      "de": "Über Gestaltungs-und Gruppenhandeln reflektieren"
+    }
+  },
+  "inScheme": {
+    "id": "http://opencurricula/berlin-brandenburg/"
+  },
+  "@context": {
+    "@version": 1.1,
+    "id": "@id",
+    "type": "@type",
+    "@vocab": "http://www.w3.org/2004/02/skos/core#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "dct": "http://purl.org/dc/terms/",
+    "schema": "http://schema.org/",
+    "vann": "http://purl.org/vocab/vann/",
+    "as": "https://www.w3.org/ns/activitystreams#",
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "title": {
+      "@id": "dct:title",
+      "@container": "@language"
+    },
+    "description": {
+      "@id": "dct:description",
+      "@container": "@language"
+    },
+    "issued": {
+      "@id": "dct:issued",
+      "@type": "xsd:date"
+    },
+    "created": {
+      "@id": "dct:created",
+      "@type": "xsd:date"
+    },
+    "modified": {
+      "@id": "dct:modified",
+      "@type": "xsd:date"
+    },
+    "creator": "dct:creator",
+    "publisher": "dct:publisher",
+    "preferredNamespacePrefix": "vann:preferredNamespacePrefix",
+    "preferredNamespaceUri": "vann:preferredNamespaceUri",
+    "isBasedOn": "schema:isBasedOn",
+    "source": "dct:source",
+    "prefLabel": {
+      "@container": "@language"
+    },
+    "hiddenLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "altLabel": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "definition": {
+      "@container": "@language"
+    },
+    "scopeNote": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "note": {
+      "@container": [
+        "@language",
+        "@set"
+      ]
+    },
+    "notation": {
+      "@container": "@set"
+    },
+    "narrower": {
+      "@container": "@set"
+    },
+    "narrowerTransitive": {
+      "@container": "@set"
+    },
+    "broaderTransitive": {
+      "@container": "@set"
+    },
+    "followers": "as:followers",
+    "inbox": "ldp:inbox"
+  }
+}
