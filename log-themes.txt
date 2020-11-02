@@ -1,0 +1,2 @@
+Element has error: XPATH: /rlp110/c/fach[10]/themainhalt[2]/inhalt[1]/title TAG: title, TEXT: None
+Element has error: XPATH: /rlp110/c/fach[10]/themainhalt[4]/inhalt[1]/title TAG: title, TEXT: None

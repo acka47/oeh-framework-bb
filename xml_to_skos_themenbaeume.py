@@ -42,7 +42,7 @@ writeGraph(graphname, serialized_graph)
 
 # write error log
 print(log)
-log_filename = (Path.cwd() / "log.txt")
+log_filename = (Path.cwd() / "log-themes.txt")
 writeLog(log_filename, log)
 
 

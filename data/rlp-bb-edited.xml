@@ -2851,37 +2851,37 @@
  	  	  	  	 </stufe>
  	  	  	 </competence>
  	  	  	 <competence>
- 	  	  	  	 <id>C-BIO-K1-1-1</id>
+ 	  	  	  	 <id>C-BIO-K1-1-2</id>
  	  	  	  	 <name>Geschichte und Verwandtschaft</name>
  	  	  	  	 <stufe>
- 	  	  	  	  	 <id>C-BIO-K1-1-1-D</id>
+ 	  	  	  	  	 <id>C-BIO-K1-1-2-D</id>
  	  	  	  	  	 <level>D</level>
  	  	  	  	  	 <standard>
- 	  	  	  	  	  	 <id>C-BIO-K1-1-1-D-1</id>
+ 	  	  	  	  	  	 <id>C-BIO-K1-1-2-D-1</id>
  	  	  	  	  	  	 <content>Unterschiede, Ähnlichkeiten und Gemeinsamkeiten von Tieren und Pflanzen darstellen</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
  	  	  	  	 <stufe>
- 	  	  	  	  	 <id>C-BIO-K1-1-1-E</id>
+ 	  	  	  	  	 <id>C-BIO-K1-1-2-E</id>
  	  	  	  	  	 <level>E</level>
  	  	  	  	  	 <standard>
- 	  	  	  	  	  	 <id>C-BIO-K1-1-1-E-1</id>
+ 	  	  	  	  	  	 <id>C-BIO-K1-1-2-E-1</id>
  	  	  	  	  	  	 <content>die durch Umwelteinflüsse bedingte artspezifische Entwicklung von Organismen erklären</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
  	  	  	  	 <stufe>
- 	  	  	  	  	 <id>C-BIO-K1-1-1-F</id>
+ 	  	  	  	  	 <id>C-BIO-K1-1-2-F</id>
  	  	  	  	  	 <level>F</level>
  	  	  	  	  	 <standard>
- 	  	  	  	  	  	 <id>C-BIO-K1-1-1-F-1</id>
+ 	  	  	  	  	  	 <id>C-BIO-K1-1-2-F-1</id>
  	  	  	  	  	  	 <content>Zusammenhänge zwischen Umwelteinflüsse und deren Folgen auf die Gesundheit von Organismen herstellen</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
  	  	  	  	 <stufe>
- 	  	  	  	  	 <id>C-BIO-K1-1-1-GH</id>
+ 	  	  	  	  	 <id>C-BIO-K1-1-2-GH</id>
  	  	  	  	  	 <level>GH</level>
  	  	  	  	  	 <standard>
- 	  	  	  	  	  	 <id>C-BIO-K1-1-1-GH-1</id>
+ 	  	  	  	  	  	 <id>C-BIO-K1-1-2-GH-1</id>
  	  	  	  	  	  	 <content>die durch Umwelteinflüsse bedingte Entwicklung von Organismen auf der Grundlage zellbiologischer Prozesse und evolutionsbiologischer Aspekte erläutern</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
@@ -15343,7 +15343,7 @@ Zukunftsszenarien</content>
 				</inhalt> 
 			</inhalt>
 			<inhalt>
-				<id>C-DE-3-1-1-2</id>
+				<id>C-GE-3-1-1-2</id>
 				<title>Epochenvertiefung: Zeitalter der Revolutionen (ca. 1750 – ca. 1900)</title>
 				<inhalt>
 					<id>C-GE-3-1-1-2-1</id>
@@ -15415,7 +15415,7 @@ Zukunftsszenarien</content>
 				</inhalt> 
 			</inhalt>
 			<inhalt>
-				<id>C-DE-3-2-1-2</id>
+				<id>C-GE-3-2-1-2</id>
 				<title>Der Kalte Krieg: Bipolare Welt und Deutschland nach 1945</title>
 				<inhalt>
 					<id>C-GE-3-2-1-2-1</id>
@@ -25444,12 +25444,8 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
  	  	  	  	  	 <id>C-NW-K1-3-F-1</id>
  	  	  	  	  	 <content>Erkenntnisse und Gesetzmäßigkeiten auf vergleichbare Sachverhalte übertragen</content>
  	  	  	  	 </standard>
- 	  	  	 </stufe>
- 	  	  	 <stufe>
- 	  	  	  	 <id>C-NW-K1-3-F</id>
- 	  	  	  	 <level>F</level>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-NW-K1-3-F-1</id>
+ 	  	  	  	  	 <id>C-NW-K1-3-F-2</id>
  	  	  	  	  	 <content>naturwissenschaftliche Kenntnisse in ähnlichen Kontexten anwenden</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
@@ -25460,12 +25456,8 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
  	  	  	  	  	 <id>C-NW-K1-3-G-1</id>
  	  	  	  	  	 <content>bei Aufgaben- und Problemlösungen das Kausalitätsprinzip anwenden</content>
  	  	  	  	 </standard>
- 	  	  	 </stufe>
- 	  	  	 <stufe>
- 	  	  	  	 <id>C-NW-K1-3-G</id>
- 	  	  	  	 <level>G</level>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-NW-K1-3-G-1</id>
+ 	  	  	  	  	 <id>C-NW-K1-3-G-2</id>
  	  	  	  	  	 <content>naturwissenschaftliche Kenntnisse in neuen Kontexten anwenden</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
@@ -27028,29 +27020,29 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
  	  	  	 </stufe>
  	  	 </competence>
  	  	 <competence>
- 	  	  	 <id>C-NW56-K1-3</id>
+ 	  	  	 <id>C-NW56-K1-4</id>
  	  	  	 <name>Ein Ganzes besteht aus zusammenwirkenden Einzelteilen</name>
  	  	  	 <stufe>
- 	  	  	  	 <id>C-NW56-K1-3-C</id>
+ 	  	  	  	 <id>C-NW56-K1-4-C</id>
  	  	  	  	 <level>C</level>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-NW56-K1-3-C-1</id>
+ 	  	  	  	  	 <id>C-NW56-K1-4-C-1</id>
  	  	  	  	  	 <content>ausgewählte Systeme in Natur und Technik benennen</content>
  	  	  	  	 </standard>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-NW56-K1-3-C-2</id>
+ 	  	  	  	  	 <id>C-NW56-K1-4-C-2</id>
  	  	  	  	  	 <content>wichtige Faktoren zur Gesundhaltung des eigenen Körpers nennen</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
  	  	  	 <stufe>
- 	  	  	  	 <id>C-NW56-K1-3-D</id>
+ 	  	  	  	 <id>C-NW56-K1-4-D</id>
  	  	  	  	 <level>D</level>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-NW56-K1-3-D-1</id>
+ 	  	  	  	  	 <id>C-NW56-K1-4-D-1</id>
  	  	  	  	  	 <content>ausgewählte Systeme in Natur und Technik beschreiben</content>
  	  	  	  	 </standard>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-NW56-K1-3-D-2</id>
+ 	  	  	  	  	 <id>C-NW56-K1-4-D-2</id>
  	  	  	  	  	 <content>Maßnahmen zur Gesundhaltung des eigenen Körpers begründen</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
@@ -28042,7 +28034,7 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
 					<content>Vernetzte Welt/digitale Gesellschaft</content>
  				</inhalt>
  				<inhalt>
- 					<id>C-LER-3-2-3</id>
+ 					<id>C-PB-3-2-3</id>
 					<content>Globale Risiken und Nachhaltigkeit</content>
  				</inhalt>
  			</themainhalt>	
@@ -28058,7 +28050,7 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
 					<content>Migrationsursachen</content>
  				</inhalt>
  				<inhalt>
- 					<id>C-LER-3-3-3</id>
+ 					<id>C-PB-3-3-3</id>
 					<content>Biografien und hybride Identitäten</content>
  				</inhalt>
  			</themainhalt>	
@@ -28074,7 +28066,7 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
 					<content>Rechtsmündigkeit und Jugendschutz</content>
  				</inhalt>
  				<inhalt>
- 					<id>C-LER-3-4-3</id>
+ 					<id>C-PB-3-4-3</id>
 					<content>Strafverfahren und Jugendstrafrecht</content>
  				</inhalt>
  			</themainhalt>	
@@ -29302,29 +29294,29 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
  	  	  	  	 </stufe>
  	  	  	 </competence>
  	  	  	 <competence>
- 	  	  	  	 <id>C-Ph-K4-1-1</id>
+ 	  	  	  	 <id>C-Ph-K4-1-2</id>
  	  	  	  	 <name>Handlungsoptionen</name>
  	  	  	  	 <stufe>
- 	  	  	  	  	 <id>C-Ph-K4-1-1-D</id>
+ 	  	  	  	  	 <id>C-Ph-K4-1-2-D</id>
  	  	  	  	  	 <level>D</level>
  	  	  	  	  	 <standard>
- 	  	  	  	  	  	 <id>C-Ph-K4-1-1-D-1</id>
+ 	  	  	  	  	  	 <id>C-Ph-K4-1-2-D-1</id>
  	  	  	  	  	  	 <content>Handlungsoptionen kriteriengeleitet vergleichen</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
  	  	  	  	 <stufe>
- 	  	  	  	  	 <id>C-Ph-K4-1-1-EF</id>
+ 	  	  	  	  	 <id>C-Ph-K4-1-2-EF</id>
  	  	  	  	  	 <level>EF</level>
  	  	  	  	  	 <standard>
- 	  	  	  	  	  	 <id>C-Ph-K4-1-1-EF-1</id>
+ 	  	  	  	  	  	 <id>C-Ph-K4-1-2-EF-1</id>
  	  	  	  	  	  	 <content>in einer Entscheidungssituation zwischen mehreren Handlungsoptionen begründet auswählen</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
  	  	  	  	 <stufe>
- 	  	  	  	  	 <id>C-Ph-K4-1-1-GH</id>
+ 	  	  	  	  	 <id>C-Ph-K4-1-2-GH</id>
  	  	  	  	  	 <level>GH</level>
  	  	  	  	  	 <standard>
- 	  	  	  	  	  	 <id>C-Ph-K4-1-1-GH-1</id>
+ 	  	  	  	  	  	 <id>C-Ph-K4-1-2-GH-1</id>
  	  	  	  	  	  	 <content>unter Berücksichtigung verschiedener Perspektiven Kompromisse entwickeln</content>
  	  	  	  	  	 </standard>
  	  	  	  	 </stufe>
@@ -37306,13 +37298,9 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
  	  	  	  	 <standard>
  	  	  	  	  	 <id>C-WAT-K1-5-G-1</id>
  	  	  	  	  	 <content>Grundzüge des Wandels in der Arbeits- und Berufswelt anhand von Beispielen erklären</content>
- 	  	  	  	 </standard>
- 	  	  	 </stufe>
- 	  	  	 <stufe>
- 	  	  	  	 <id>C-WAT-K1-5-G</id>
- 	  	  	  	 <level>G</level>
+               </standard>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-WAT-K1-5-G-1</id>
+ 	  	  	  	  	 <id>C-WAT-K1-5-G-2</id>
  	  	  	  	  	 <content>den Wandel der Arbeit in Unternehmen anhand von Beispielen erörtern</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
@@ -37735,12 +37723,8 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
  	  	  	  	  	 <id>C-WAT-K3-2-G-1</id>
  	  	  	  	  	 <content>arbeitsteilige Zeit- und Arbeitspläne entwickeln, begründen, anwenden und auswerten</content>
  	  	  	  	 </standard>
- 	  	  	 </stufe>
- 	  	  	 <stufe>
- 	  	  	  	 <id>C-WAT-K3-2-G</id>
- 	  	  	  	 <level>G</level>
  	  	  	  	 <standard>
- 	  	  	  	  	 <id>C-WAT-K3-2-G-1</id>
+ 	  	  	  	  	 <id>C-WAT-K3-2-G-2</id>
  	  	  	  	  	 <content>professionelle Organisations- und Planungsinstrumente anwenden</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>
@@ -38068,7 +38052,7 @@ bei einstufigen Zufallsexperimenten und Spielen inhaltlich einschätzen</content
  	  	  	  	  	 <content>begründete Vorschläge über Regeländerungen entwickeln</content>
 				 </standard>
 				 <standard>
- 	  	  	  	  	 <id>C-WAT-K4-4-H-1</id>
+ 	  	  	  	  	 <id>C-WAT-K4-4-H-2</id>
  	  	  	  	  	 <content>Entscheidungen in Bewerbungssituationen diskutieren</content>
  	  	  	  	 </standard>
  	  	  	 </stufe>

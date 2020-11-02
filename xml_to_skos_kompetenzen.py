@@ -39,7 +39,7 @@ writeGraph(graphname, serialized_graph)
 
 # write error log
 print(log)
-log_filename = (Path.cwd() / "log.txt")
+log_filename = (Path.cwd() / "log-competences.txt")
 writeLog(log_filename, log)
 
 

@@ -166,8 +166,8 @@ def sortData(data):
         if item["identifier"] == "id":
             identifiers.append(item["description"])
             node = {
-                "internal_identifier": str(uuid.uuid4()),
-                # "internal_identifier": item["description"],
+                # "internal_identifier": str(uuid.uuid4()),
+                "internal_identifier": item["description"],
                 "identifier": item["description"],
                 "prefLabel": data[i+1]["description"],
                 "subject": subject,
